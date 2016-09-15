@@ -28,4 +28,6 @@
 * Sunday Readings in English
 * Sunday Readings in Latin
 * Feast Readings in English
+* Feast Readings in Latin
 * Gregorian Ordinaries
+* Day Detector (autoload correct texts for current day)
