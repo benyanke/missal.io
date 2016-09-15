@@ -24,10 +24,12 @@
 * Write frontend
 * Consolidate GABC and index files
 
-# Roadmap
+# Prioritized Roadmap
 * Sunday Readings in English
-* Sunday Readings in Latin
 * Feast Readings in English
-* Feast Readings in Latin
 * Gregorian Ordinaries
-* Day Detector (autoload correct texts for current day)
+* Ferial Readings in English
+* Sunday Readings in Latin
+* Feast Readings in Latin
+* Ferial Readings in Latin
+* Autoload correct texts for current day (via calendar and feastday logic)
