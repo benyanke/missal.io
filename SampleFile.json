@@ -1,0 +1,35 @@
+{
+	"name": "21st Sunday after Pentecost (example)",
+	"compiled-by": "Ben Yanke",
+	"liturgy-type": "Mass (no other options right now)",
+	"liturgy-class": "Sunday/Ferial/Other",
+	"textblock": [{
+		"text": [{
+			"lang": "la",
+			"content": "Beatus vir qui non abiit in consilio impiorum, et in via peccatorum non stetit, et in cathedra pestilentiae non sedit.",
+			"source-name": "Vulgate",
+			"source-link": "http://www.drbo.org/lvb/chapter/21001.htm"
+		}, {
+			"lang": "en",
+			"content": "Blessed is the man who hath not walked in the counsel of the ungodly, nor stood in the way of sinners, nor sat in the chair of pestilence.",
+			"source-name": "Douay-Rheims",
+			"source-link": "http://www.drbo.org/chapter/21001.htm"
+		}],
+		"citation": "Psalm 1:1",
+		"type": "Introit/Gradual/Alleluia/Tract/Canticle/Sequence/Offertory/Communion/Epistle/Lesson/Gospel"
+	}, {
+		"text": [{
+			"lang": "la",
+			"content": "Beatus vir qui non abiit in consilio impiorum, et in via peccatorum non stetit, et in cathedra pestilentiae non sedit.",
+			"source-name": "Vulgate",
+			"source-link": "http://www.drbo.org/lvb/chapter/21001.htm"
+		}, {
+			"lang": "en",
+			"content": "Blessed is the man who hath not walked in the counsel of the ungodly, nor stood in the way of sinners, nor sat in the chair of pestilence.",
+			"source-name": "Douay-Rheims",
+			"source-link": "http://www.drbo.org/chapter/21001.htm"
+		}],
+		"citation": "Psalm 1:1",
+		"type": "Introit/Gradual/Alleluia/Tract/Canticle/Sequence/Offertory/Communion/Epistle/Lesson/Gospel"
+	}]
+}
