@@ -6,30 +6,35 @@
       "name": "Ash Wednesday",
       "season": "Lent",
       "href": "lent-ashwed.json",
+      "slug": "lent/ash/wed",
       "status": "complete"
     },
     {
       "name": "Thursday after Ash Wednesday",
       "season": "Lent",
       "href": "lent-thursday-after-ash-wed.json",
+      "slug": "lent/ash/thurs",
       "status": "empty"
     },
     {
       "name": "Friday after Ash Wednesday",
       "season": "Lent",
       "href": "lent-friday-after-ash-wed.json",
+      "slug": "lent/ash/fri",
       "status": "empty"
     },
     {
       "name": "Saturday after Ash Wednesday",
       "season": "Lent",
       "href": "lent-saturday-after-ash-wed.json",
+      "slug": "lent/ash/sat",
       "status": "empty"
     },
     {
       "name": "First Sunday in Lent",
       "season": "Lent",
       "href": "lent-1.json",
+      "slug": "lent/1",
       "status": "empty"
     }
   ]
