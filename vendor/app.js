@@ -55,6 +55,13 @@ var app = new Vue({
       return srcArray.find(arr => arr[key] === value);
     },
 
+    // Returns title case str
+    titleCase: function(str) {
+      return str.toLowerCase().split(' ').map(function(word) {
+        return (word.charAt(0).toUpperCase() + word.slice(1));
+      }).join(' ');
+    },
+
     // Gets an object containing the entire liturgy, by it's slug
     getLiturgy: function(slugToLookup) {
 
