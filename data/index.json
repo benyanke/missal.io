@@ -1,8 +1,8 @@
 {
   "info": {
     "title": "MyMissal.io",
-    "href-base": "https://benyanke.github.io/mymissal.io/data/propers/",
-    "show-chant" : false
+    "hrefBase": "https://benyanke.github.io/mymissal.io/data/propers/",
+    "showChant" : false
   },
   "texts": [
     {
