@@ -101,7 +101,7 @@
 
                 <!-- <div class="latin-text">{{ getElementByKey(section.text, "lang", "la").content }}</div> -->
                 <div class="rubric" v-if="section.type == 'rubric'"><em>{{ getElementByKey(section.text, "lang", "en").content }}</em></div>
-                <div class="english-text" v-else>{{ getElementByKey(section.text, "lang", "en").content }}</div>
+                <div class="english-text" v-else v-html="getElementByKey(section.text, 'lang', 'en').content"></div>
                 <hr / v-if="section.type != 'rubric'">
             </div>
 
