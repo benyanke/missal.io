@@ -1,0 +1,436 @@
+{
+  "name": "Ash Wednesday",
+  "compiled-by": "Ben Yanke",
+  "liturgy-type": "Mass",
+  "liturgy-class": "other",
+  "season": "lent",
+  "textblocks": [
+    {
+      "text": [
+        {
+          "lang": "en",
+          "content": "Blessing of the Ashes",
+          "source-name": "maternal-heart",
+          "source-link": "http://www.maternalheart.org/propers/Septuagesima%20to%20Passion%20Sunday/Ash%20Wednesday/Ash%20Wednesday.pdf"
+        }
+      ],
+      "citation": "",
+      "type": "section-heading"
+    },
+    {
+      "text": [
+        {
+          "lang": "en",
+          "content": "Before Mass begins, the celebrant (with or without cope) and his ministers, in violet vestments, go up to the altar. The Choir sings:",
+          "source-name": "maternal-heart",
+          "source-link": "http://www.maternalheart.org/propers/Septuagesima%20to%20Passion%20Sunday/Ash%20Wednesday/Ash%20Wednesday.pdf"
+        }
+      ],
+      "citation": "",
+      "type": "rubric",
+      "heading": ""
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": "EXAUDI nos, Domine, quoniam benigna est misericordia tua: est secundum multitudinem miserationum tuarum respice nos, Domine. <em>Ps. 68. 2.</em> Salvum me fac, Deus: quoniam intraverunt aquae usque ad animam meam. V. Gloria Patri.",
+          "source-name": "maternal-heart",
+          "source-link": "http://www.maternalheart.org/propers/Septuagesima%20to%20Passion%20Sunday/Ash%20Wednesday/Ash%20Wednesday.pdf"
+        },
+        {
+          "lang": "en",
+          "content": "Hear us, O Lord, for Thy mercy is kind: look upon us, O Lord, according to the multitude of Thy tender mercies. <em>Ps. 68. 2.</em> Save me, O God: for the waters are come in even unto my soul. V. Glory be to the Father. ",
+          "source-name": "maternal-heart",
+          "source-link": "http://www.maternalheart.org/propers/Septuagesima%20to%20Passion%20Sunday/Ash%20Wednesday/Ash%20Wednesday.pdf"
+        }
+      ],
+      "citation": "Psalm 68. 17, 2",
+      "type": "antiphon"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": [
+            "V. Dominus vobiscum.",
+            "R. Et cum spiritu tuo."
+          ],
+          "source-name": "maternal-heart",
+          "source-link": "http://www.maternalheart.org/propers/Septuagesima%20to%20Passion%20Sunday/Ash%20Wednesday/Ash%20Wednesday.pdf"
+        },
+        {
+          "lang": "en",
+          "content": [
+            "V. The Lord be with you.",
+            "R. And with thy spirit."
+          ],
+          "source-name": "maternal-heart",
+          "source-link": "http://www.maternalheart.org/propers/Septuagesima%20to%20Passion%20Sunday/Ash%20Wednesday/Ash%20Wednesday.pdf"
+        }
+      ],
+      "citation": "",
+      "type": "dialogue"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": "OMNIPOTENS sempiterne Deus, parce pænitentibus, propitiare supplicantibus, et mittere digneris sanctum Angelum tuum de caelis, qui benedicat, + et sanctificet + hos cineres, ut sint remedium salubre omnibus nomen sanctum tuum  humiliter implorantibus, ac semetipsos pro conscientia delictorum suorum accusantibus, ante conspectum divinae clementiae tuae facinora sua deplorantibus, vel serenissimam pietatem tuam suppliciter, obnixeque flagitantibus: et praesta per invocationem sanctissimi nominis tui; ut quicumque per eos aspersi fuerint, pro redemptione peccatorum suorum, corporis sanitatem, et animae tutelam percipiant. Per Christum Dominum nostrum. R. Amen.",
+          "source-name": "maternal-heart",
+          "source-link": "http://www.maternalheart.org/propers/Septuagesima%20to%20Passion%20Sunday/Ash%20Wednesday/Ash%20Wednesday.pdf"
+        },
+        {
+          "lang": "en",
+          "content": "Almighty and everlasting God, spare those who are penitent, be merciful to those who implore Thee; and vouchsafe to send Thy holy Angel from heaven, to bless + and sanctify + these ashes, that they may be a wholesome remedy to all who humbly implore Thy holy Name, and who accuse themselves, conscious of their sins, deploring their misdeeds before Thy divine mercy, or humbly and earnestly beseeching Thy sovereign goodness: and grant through the invocation of Thy most holy Name that whosoever shall be sprinkled with them for the remission of their sins may receive both health of body and safety of soul. Through Christ our Lord. R. Amen.",
+          "source-name": "maternal-heart",
+          "source-link": "http://www.maternalheart.org/propers/Septuagesima%20to%20Passion%20Sunday/Ash%20Wednesday/Ash%20Wednesday.pdf"
+        }
+      ],
+      "citation": "",
+      "type": "collect",
+      "heading": "First Prayer"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": "DEUS, qui non mortem, sed pænitentiam desideras peccatorum: fragilitatem conditionis humanae benignissime respice; et hos cineres, quos causa proferendae humilitatis, atque promerendae veniae, capitibus nostris imponi decernimus, benedicere + pro tua pietate dignare: ut, qui nos cinerem esse, et ob pravitatis nostrae demeritum in pulverem reversuros cognoscimus; peccatorum omnium veniam, et praemia pænitentibus repromissa, misericorditer consequi mereamur. Per Christum Dominum nostrum. R. Amen.",
+          "source-name": "maternal-heart",
+          "source-link": "http://www.maternalheart.org/propers/Septuagesima%20to%20Passion%20Sunday/Ash%20Wednesday/Ash%20Wednesday.pdf"
+        },
+        {
+          "lang": "en",
+          "content": "O God, who desirest not the death, but the repentance of sinners, look down most graciously upon the frailty of human nature; and in Thy goodness vouchsafe to bless + these ashes which we purpose to put upon our heads in token of our lowliness and to obtain forgiveness: so that we who know that we are but ashes, and for the demerits of our wickedness are to return to dust, may deserve to obtain of Thy mercy, the pardon of all our sins, and the rewards promised to the penitent. Through Christ our Lord. R. Amen.",
+          "source-name": "maternal-heart",
+          "source-link": "http://www.maternalheart.org/propers/Septuagesima%20to%20Passion%20Sunday/Ash%20Wednesday/Ash%20Wednesday.pdf"
+        }
+      ],
+      "citation": "",
+      "type": "collect",
+      "heading": "Second Prayer"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": "DEUS, qui humiliatione flecteris, et satisfactione placaris: aurem tuae pietatis inclina precibus nostris; et capitibus servorum tuorum, horum cinerum aspersione contactis, effunde propitius gratiam tuae benedictionis: ut eos et spiritu compunctionis repleas, et quae juste postulaverint, efficaciter tribuas; et concessa perpetuo stabilita, et intacta manere decernas. Per Christum Dominum nostrum. R. Amen.",
+          "source-name": "maternal-heart",
+          "source-link": "http://www.maternalheart.org/propers/Septuagesima%20to%20Passion%20Sunday/Ash%20Wednesday/Ash%20Wednesday.pdf"
+        },
+        {
+          "lang": "en",
+          "content": "O God, who art moved by humiliation, and appeased by satisfaction: incline the ear of Thy goodness to our prayers and mercifully pour forth upon the heads of Thy servants sprinkled with these ashes the grace of Thy blessing: that Thou mayest both fill them with the spirit of compunction, and effectually grant what they have justly prayed for: and ordain that what Thou hast granted may be permanently established and remain unchanged. Through Christ our Lord. R. Amen.",
+          "source-name": "maternal-heart",
+          "source-link": "http://www.maternalheart.org/propers/Septuagesima%20to%20Passion%20Sunday/Ash%20Wednesday/Ash%20Wednesday.pdf"
+        }
+      ],
+      "citation": "",
+      "type": "collect",
+      "heading": "Third Prayer"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": "OMNIPOTENS sempiterne Deus, qui Ninivitis in cinere et cilicio pænitentibus, indulgentiae tuae remedia praestitisti: concede propitius; ut sic eos imitemur habitu, quatenus veniae prosequamur obtentu. Per Dominum nostrum. R. Amen.",
+          "source-name": "maternal-heart",
+          "source-link": "http://www.maternalheart.org/propers/Septuagesima%20to%20Passion%20Sunday/Ash%20Wednesday/Ash%20Wednesday.pdf"
+        },
+        {
+          "lang": "en",
+          "content": "Almighty and everlasting God, who didst vouchsafe Thy healing pardon to the Ninevites doing penance in sackcloth and ashes, mercifully grant that we may so imitate them in our outward attitude as to follow them in obtaining forgiveness. Through our Lord. R. Amen.",
+          "source-name": "maternal-heart",
+          "source-link": "http://www.maternalheart.org/propers/Septuagesima%20to%20Passion%20Sunday/Ash%20Wednesday/Ash%20Wednesday.pdf"
+        }
+      ],
+      "citation": "",
+      "type": "collect",
+      "heading": "Fourth Prayer"
+    },
+    {
+      "text": [
+        {
+          "lang": "en",
+          "content": "After this the celebrant sprinkles the ashes three times with holy water and also incenses them three times. Meanwhile, the following antiphons and responsory are sung by the choir (or recited by the celebrant.)",
+          "source-name": "maternal-heart",
+          "source-link": "http://www.maternalheart.org/propers/Septuagesima%20to%20Passion%20Sunday/Ash%20Wednesday/Ash%20Wednesday.pdf"
+        }
+      ],
+      "citation": "",
+      "type": "rubric",
+      "heading": ""
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": "IMMUTEMUR habitu, in cinere et cilicio: jejunemus, et ploremus ante Dominum: quia multum misericors est dimittere peccata nostra Deus noster.",
+          "source-name": "maternal-heart",
+          "source-link": "http://www.maternalheart.org/propers/Septuagesima%20to%20Passion%20Sunday/Ash%20Wednesday/Ash%20Wednesday.pdf"
+        },
+        {
+          "lang": "en",
+          "content": "Let us change our garments for ashes and sackcloth: let us fast and lament before the Lord: for plenteous in mercy is our God to forgive our sins.",
+          "source-name": "maternal-heart",
+          "source-link": "http://www.maternalheart.org/propers/Septuagesima%20to%20Passion%20Sunday/Ash%20Wednesday/Ash%20Wednesday.pdf"
+        }
+      ],
+      "citation": "Joel 2. 13",
+      "type": "antiphon"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": "INTER vestibulum et altare plorabunt sacerdotes ministri Domini, et dicent: Parce, Domine, parce populo tuo: et ne claudas ora canentium te, Domine.",
+          "source-name": "maternal-heart",
+          "source-link": "http://www.maternalheart.org/propers/Septuagesima%20to%20Passion%20Sunday/Ash%20Wednesday/Ash%20Wednesday.pdf"
+        },
+        {
+          "lang": "en",
+          "content": "Between the porch and the altar, the priests, the Lord's ministers, shall weep and shall say: Spare, O Lord, spare Thy people: and close not the mouths of them that sing to Thee, O Lord.",
+          "source-name": "maternal-heart",
+          "source-link": "http://www.maternalheart.org/propers/Septuagesima%20to%20Passion%20Sunday/Ash%20Wednesday/Ash%20Wednesday.pdf"
+        }
+      ],
+      "citation": [
+        "Joel 2. 17",
+        "Est. 13. 17"
+      ],
+      "type": "antiphon"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": "",
+          "source-name": "maternal-heart",
+          "source-link": "http://www.maternalheart.org/propers/Septuagesima%20to%20Passion%20Sunday/Ash%20Wednesday/Ash%20Wednesday.pdf"
+        },
+        {
+          "lang": "en",
+          "content": "",
+          "source-name": "maternal-heart",
+          "source-link": "http://www.maternalheart.org/propers/Septuagesima%20to%20Passion%20Sunday/Ash%20Wednesday/Ash%20Wednesday.pdf"
+        }
+      ],
+      "citation": [
+        "Joel 2. 17",
+        "Est. 13. 17"
+      ],
+      "type": "antiphon"
+    },
+    {
+      "text": [
+        {
+          "lang": "en",
+          "content": "During the singing, and after the ashes have been blessed, the celebrant standing, first receives ashes on his head, either from another priest, or from himself; then he places the ashes, in the form of a cross, on the heads or foreheads of the faithful, who kneel before him, saying to them:",
+          "source-name": "maternal-heart",
+          "source-link": "http://www.maternalheart.org/propers/Septuagesima%20to%20Passion%20Sunday/Ash%20Wednesday/Ash%20Wednesday.pdf"
+        }
+      ],
+      "citation": "",
+      "type": "rubric",
+      "heading": ""
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": "MEMENTO, homo, quia pulvis es, et in pulverem reverteris.",
+          "source-name": "maternal-heart",
+          "source-link": "http://www.maternalheart.org/propers/Septuagesima%20to%20Passion%20Sunday/Ash%20Wednesday/Ash%20Wednesday.pdf"
+        },
+        {
+          "lang": "en",
+          "content": "REMEMBER, man, that thou art dust, and unto dust thou shalt return.",
+          "source-name": "maternal-heart",
+          "source-link": "http://www.maternalheart.org/propers/Septuagesima%20to%20Passion%20Sunday/Ash%20Wednesday/Ash%20Wednesday.pdf"
+        }
+      ],
+      "citation": "Genesis 3. 19",
+      "type": "other"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": [
+            "R.: Emendemus in melius, quae ignoranter peccavimus: ne subito praeoccupati die mortis, quaeramus spatium poenitentiae, et invenire non possimus. * Attende, Domine, et miserere: quia peccavimus tibi.",
+            "V. (Ps. 78. 9) Adjuva nos, Deus salutaris noster: et propter honorem nominis tui, Domine, libera nos. *Attende. V. Gloria Patri. *Attende."
+          ],
+          "source-name": "maternal-heart",
+          "source-link": "http://www.maternalheart.org/propers/Septuagesima%20to%20Passion%20Sunday/Ash%20Wednesday/Ash%20Wednesday.pdf"
+        },
+        {
+          "lang": "en",
+          "content": [
+            "R.: Let us amend for the better in those things in which we have sinned through ignorance; lest suddenly overtaken by the day of death, we seek space for repentance and are not able to find it. * Attend, O Lord, and have mercy: for we have sinned against Thee. ",
+            "V. (Ps. 78. 9) Help us, O God, our Saviour: and for the glory of Thy Name, O Lord, deliver us. *Attend. V. Glory be to the Father. *Attend."
+          ],
+          "source-name": "maternal-heart",
+          "source-link": "http://www.maternalheart.org/propers/Septuagesima%20to%20Passion%20Sunday/Ash%20Wednesday/Ash%20Wednesday.pdf"
+        }
+      ],
+      "citation": "",
+      "type": "responsory"
+    },
+    {
+      "text": [
+        {
+          "lang": "en",
+          "content": "When all have received the ashes, the Priest washes his hands and says:",
+          "source-name": "maternal-heart",
+          "source-link": "http://www.maternalheart.org/propers/Septuagesima%20to%20Passion%20Sunday/Ash%20Wednesday/Ash%20Wednesday.pdf"
+        }
+      ],
+      "citation": "",
+      "type": "rubric",
+      "heading": ""
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": [
+            "V. Dominus vobiscum.",
+            "R. Et cum spiritu tuo."
+          ],
+          "source-name": "maternal-heart",
+          "source-link": "http://www.maternalheart.org/propers/Septuagesima%20to%20Passion%20Sunday/Ash%20Wednesday/Ash%20Wednesday.pdf"
+        },
+        {
+          "lang": "en",
+          "content": [
+            "V. The Lord be with you.",
+            "R. And with thy spirit."
+          ],
+          "source-name": "maternal-heart",
+          "source-link": "http://www.maternalheart.org/propers/Septuagesima%20to%20Passion%20Sunday/Ash%20Wednesday/Ash%20Wednesday.pdf"
+        }
+      ],
+      "citation": "",
+      "type": "dialogue"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": "CONCEDE nobis, Domine, praesidia militiae christianae sanctis inchoare jejuniis: ut contra spiritales nequitias pugnaturi, continentiae muniamur auxiliis. Per Christum Dominum nostrum. R. Amen.",
+          "source-name": "maternal-heart",
+          "source-link": "http://www.maternalheart.org/propers/Septuagesima%20to%20Passion%20Sunday/Ash%20Wednesday/Ash%20Wednesday.pdf"
+        },
+        {
+          "lang": "en",
+          "content": "Grant us, O Lord, to begin with holy fasts the campaign of our Christian warfare: that, as we do battle with the spirits of evil, we may be protected by the help of self-denial. Through Christ our Lord. R. Amen.",
+          "source-name": "maternal-heart",
+          "source-link": "http://www.maternalheart.org/propers/Septuagesima%20to%20Passion%20Sunday/Ash%20Wednesday/Ash%20Wednesday.pdf"
+        }
+      ],
+      "citation": "",
+      "type": "collect"
+    },
+    {
+      "text": [
+        {
+          "lang": "en",
+          "content": "Proper of the Mass",
+          "source-name": "maternal-heart",
+          "source-link": "http://www.maternalheart.org/propers/Septuagesima%20to%20Passion%20Sunday/Ash%20Wednesday/Ash%20Wednesday.pdf"
+        }
+      ],
+      "citation": "",
+      "type": "section-heading"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": "MISERERIS omnium, Domine, et nihil odisti eorum quae fecisti, dissimulans peccata hominum propter poenitentiam et parcens illis: quia tu es Dominus Deus noster. Ps. 56. 2. Miserere mei, Deus, miserere mei: quoniam in te confidit anima mea. V. Gloria Patri.",
+          "source-name": "maternal-heart",
+          "source-link": "http://www.maternalheart.org/propers/Septuagesima%20to%20Passion%20Sunday/Ash%20Wednesday/Ash%20Wednesday.pdf"
+        },
+        {
+          "lang": "en",
+          "content": "Thou hast mercy upon all, O Lord, and hatest none of the things which Thou hast made, overlooking the sins of men for the sake of repentance, and sparing them: because Thou art the Lord our God. Ps. 56. 2. Have mercy on me, O God, have mercy on me: for my soul trusteth in Thee. V. Glory.",
+          "source-name": "maternal-heart",
+          "source-link": "http://www.maternalheart.org/propers/Septuagesima%20to%20Passion%20Sunday/Ash%20Wednesday/Ash%20Wednesday.pdf"
+        }
+      ],
+      "citation": "Wisdom 11. 24, 25, 27",
+      "type": "introit"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": "PRAESTA Domine, fidelibus tuis: ut jejuniorum veneranda solemnia, et congrua pietate suscipiant, et secura devotione percurrant. Per Dominum nostrum.",
+          "source-name": "maternal-heart",
+          "source-link": "http://www.maternalheart.org/propers/Septuagesima%20to%20Passion%20Sunday/Ash%20Wednesday/Ash%20Wednesday.pdf"
+        },
+        {
+          "lang": "en",
+          "content": "Grant, O Lord, to Thy faithful people, that they may undertake with fitting piety the venerable solemnities of fasting, and complete them with steadfast devotion. Through our Lord.",
+          "source-name": "maternal-heart",
+          "source-link": "http://www.maternalheart.org/propers/Septuagesima%20to%20Passion%20Sunday/Ash%20Wednesday/Ash%20Wednesday.pdf"
+        }
+      ],
+      "type": "collect"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": "HAEC dicit Dominus: Convertimini ad me in toto corde vestro, in jejunio, et in fletu, et in planctu. Et scindite corda vestra, et non vestimenta vestra, et convertimini ad Dominum Deum vestrum: quia benignus, et misericors est, patiens, et multae misericordiae, et praestabilis super malitia. Quis scit, si convertatur, et ignoscat, et relinquat post se benedictionem, sacrificium, et libamen Domino Deo vestro? Canite tuba in Sion, sanctificate jejunium, vocate coetum, congregate populum, sanctificate Ecclesiam, coadunate senes, congregate parvulos, et sugentes ubera: egrediatur sponsus de cubili suo, et sponsa de thalamo suo. Inter vestibulum et altare plorabunt sacerdotes ministri Domini, et dicent: Parce, Domine, parce populo tuo: et ne des haereditatem tuam in opprobrium, ut dominentur eis nationes. Quare dicunt in populis: Ubi est Deus eorum? Zelatus est Dominus terram suam, et pepercit populo suo. Et respondit Dominus, et dixit populo suo: Ecce ego mittam vobis frumentum, et vinum, et oleum, et replebimini eis: et non dabo vos ultra opprobrium in gentibus: dicit Dominus omnipotens.",
+          "source-name": "maternal-heart",
+          "source-link": "http://www.maternalheart.org/propers/Septuagesima%20to%20Passion%20Sunday/Ash%20Wednesday/Ash%20Wednesday.pdf"
+        },
+        {
+          "lang": "en",
+          "content": "Thus saith the Lord: Be converted to Me with all your heart, in fasting and in weeping and in mourning. And rend your heats and not your garments, and turn to the Lord your God: for He is gracious and merciful, patient and rich in mercy, and ready to repent of the evil. Who knoweth but He will return and forgive and leave a blessing behind Him, sacrifice and libation to the Lord your God? Blow the trumpet in Sion, sanctify a fast, call a solemn assembly, gather together the people, sanctify the Church, assemble the ancients, gather together the little ones and them that suck at the breasts: let the bridegroom go forth from his bed and the bride out of her bride chamber. Between the porch and the altar the priests, the Lord's ministers, shall weep and shall say: Spare, O Lord, spare Thy people; and give not Thine inheritance to reproach, that the heathen should rule over them. Why should they say among the nations: Where is their God? The Lord hath been zealous for His land, and hath spared His people. And the Lord answered and said to His people: behold I will send you corn and wine and oil, and you shall be filled with them: and I will no more make you a reproach among the nations: saith the Lord almighty.",
+          "source-name": "maternal-heart",
+          "source-link": "http://www.maternalheart.org/propers/Septuagesima%20to%20Passion%20Sunday/Ash%20Wednesday/Ash%20Wednesday.pdf"
+        }
+      ],
+      "citation": "Joel 2. 12-19",
+      "type": "lesson"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": "MISERERE mei, Deus, miserere mei: quoniam in te confidit anima mea. V. Misit de cælo, et liberavit me: dedit in opprobrium conculcantes me.",
+          "source-name": "maternal-heart",
+          "source-link": "http://www.maternalheart.org/propers/Septuagesima%20to%20Passion%20Sunday/Ash%20Wednesday/Ash%20Wednesday.pdf"
+        },
+        {
+          "lang": "en",
+          "content": "Have mercy on me, O Lord, have mercy on me: for my soul trusteth in Thee. V. He hath sent from heaven and delivered me: He hath made them a reproach that trod upon me.",
+          "source-name": "maternal-heart",
+          "source-link": "http://www.maternalheart.org/propers/Septuagesima%20to%20Passion%20Sunday/Ash%20Wednesday/Ash%20Wednesday.pdf"
+        }
+      ],
+      "citation": "Psalm 56. 2, 4",
+      "type": "gradual"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": "DOMINE, non secundum peccata nostra, quae fecimus nos: neque secundum iniquitates nostras retribuas nobis. V. Domine, ne memineris iniquitatum nostrarum antiquarum, cito anticipent nos misericordiae tuae: quia pauperes facti sumus nimis. [<em>Here kneel.</em>] V. Adjuva nos, Deus salutaris noster: et propter gloriam nominis tui, Domine, libera nos: et propitius esto peccatis nostris, propter nomen tuum.",
+          "source-name": "maternal-heart",
+          "source-link": "http://www.maternalheart.org/propers/Septuagesima%20to%20Passion%20Sunday/Ash%20Wednesday/Ash%20Wednesday.pdf"
+        },
+        {
+          "lang": "en",
+          "content": "O Lord, repay us not according to the sins we have committed, nor according to our iniquities. V. O Lord, remember not our former iniquities, let Thy mercies speedily prevent us: for we are become exceeding poor.  [<em>Here kneel.</em>] V. Help us, O God, our Saviour: and for the glory of Thy Name, O Lord, deliver us: and forgive us our sins for Thy Name's sake.",
+          "source-name": "maternal-heart",
+          "source-link": "http://www.maternalheart.org/propers/Septuagesima%20to%20Passion%20Sunday/Ash%20Wednesday/Ash%20Wednesday.pdf"
+        }
+      ],
+      "citation": "Psalm 102, 10",
+      "type": "tract"
+    }
+  ]
+}

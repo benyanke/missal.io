@@ -3,7 +3,7 @@
 	"compiled-by": "Ben Yanke",
 	"liturgy-type": "Mass (no other options right now)",
 	"liturgy-class": "Sunday/Ferial/Other",
-	"textblock": [{
+	"textblocks": [{
 		"text": [{
 			"lang": "la",
 			"content": "Beatus vir qui non abiit in consilio impiorum, et in via peccatorum non stetit, et in cathedra pestilentiae non sedit.",
