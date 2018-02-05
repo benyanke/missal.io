@@ -7,6 +7,7 @@
       "season": "Lent",
       "href": "lent-ashwed.json",
       "slug": "lent/ash/wed",
+      "last-updated": 1517805560,
       "status": "complete"
     },
     {
@@ -14,6 +15,7 @@
       "season": "Lent",
       "href": "lent-thursday-after-ash-wed.json",
       "slug": "lent/ash/thurs",
+      "last-updated": 1517805560,
       "status": "empty"
     },
     {
@@ -21,6 +23,7 @@
       "season": "Lent",
       "href": "lent-friday-after-ash-wed.json",
       "slug": "lent/ash/fri",
+      "last-updated": 1517805560,
       "status": "empty"
     },
     {
@@ -28,6 +31,7 @@
       "season": "Lent",
       "href": "lent-saturday-after-ash-wed.json",
       "slug": "lent/ash/sat",
+      "last-updated": 1517805560,
       "status": "empty"
     },
     {
@@ -35,6 +39,7 @@
       "season": "Lent",
       "href": "lent-1.json",
       "slug": "lent/1",
+      "last-updated": 1517805560,
       "status": "empty"
     }
   ]
