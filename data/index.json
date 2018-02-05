@@ -6,7 +6,25 @@
       "name": "Ash Wednesday",
       "season": "Lent",
       "href": "lent-ashwed.json",
-      "status": "in-progress"
+      "status": "complete"
+    },
+    {
+      "name": "Thursday after Ash Wednesday",
+      "season": "Lent",
+      "href": "lent-thursday-after-ash-wed.json",
+      "status": "empty"
+    },
+    {
+      "name": "Friday after Ash Wednesday",
+      "season": "Lent",
+      "href": "lent-friday-after-ash-wed.json",
+      "status": "empty"
+    },
+    {
+      "name": "Saturday after Ash Wednesday",
+      "season": "Lent",
+      "href": "lent-saturday-after-ash-wed.json",
+      "status": "empty"
     }
   ]
 }
