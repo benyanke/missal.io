@@ -2,7 +2,9 @@ var app = new Vue({
   el: '#app',
   data: {
     apiIndex: 'https://benyanke.github.io/mymissal.io/data/',
-    indexContent: 'Hello Vue!',
+
+    indexContent: [],
+    info: [],
 
     // Set to true to retrieve all texts from local cache when possible
     //
@@ -12,14 +14,24 @@ var app = new Vue({
     appReady: false
 
   },
+  mounted: function(){
+    this.getIndex();
+  },
+
   methods: {
-    mounted:function(){
-      this.getIndex();
-      // this.appReady = true;
-    },
     getIndex: function() {
-      // this.apiIndex;
-      // this.appReady = true;
+      axios.get(this.apiIndex)
+      .then(function (response) {
+
+        this.indexContent = response.data.texts;
+        this.info = response.data.info;
+
+        this.appReady = true;
+      })
+      .catch(function (error) {
+        console.log(error);
+      });
+
     },
 
     // Gets an object containing the entire liturgy, by it's slug

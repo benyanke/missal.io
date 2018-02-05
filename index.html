@@ -61,22 +61,20 @@
       </nav>
 
       <!-- Page Content -->
-      <div class="container hidden" v-if="this.appReady">
+      <div class="container" v-if="this.appReady" v-cloak>
         <div class="row">
           <div class="col-lg-12 text-center">
             <h1 class="mt-5">TLM Handmissal App</h1>
             <p class="lead">Complete with pre-defined file paths and responsive navigation!</p>
-            <ul class="list-unstyled">
-              <li></li>
-              <li>Bootstrap 4.0.0</li>
-              <li>jQuery 3.3.0</li>
+            <ul class="list-unstyled" v-for="row in indexContent">
+              <li>{{ row }}</li>
             </ul>
           </div>
         </div>
       </div>
 
       <!-- Loading container -->
-      <div class="container" v-if="!this.appReady">
+      <div class="container" v-else>
         <div class="row">
           <div class="col-lg-12 text-center">
             <h1 class="mt-5">Loading...</h1>

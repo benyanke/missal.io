@@ -3,6 +3,12 @@
 * General Helper Functions
 *******/
 
+/* Hide loading content */
+[v-cloak] {
+    display: none;
+}
+
+/* hide anything */
 .hidden {
    display:none
 }

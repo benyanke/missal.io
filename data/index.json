@@ -1,6 +1,9 @@
 {
-  "title": "MyMissal.io",
-  "href-base": "https://benyanke.github.io/mymissal.io/data/propers/",
+  "info": {
+    "title": "MyMissal.io",
+    "href-base": "https://benyanke.github.io/mymissal.io/data/propers/",
+    "show-chant" : false
+  },
   "texts": [
     {
       "name": "Ash Wednesday",
