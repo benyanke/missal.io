@@ -41,7 +41,7 @@ var app = new Vue({
         console.log("App loaded.");
         console.log("Index retrieved of " + app.indexContent.length + " texts.");
 
-        app.getLiturgy("lent/ash/wed");
+        
         // app.getLiturgy("lent/1");
 
       // })
