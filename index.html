@@ -1,5 +1,87 @@
-<h1>MyMissal.io Handmissal Project</h1>
-<p>
-  No frontend written yet. Check out <a href="data">/data</a> for a json index of currently included propers.
-  PRs welcome.
-</p>
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>MyMissal.io</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <style>
+      body {
+        padding-top: 54px;
+      }
+      @media (min-width: 992px) {
+        body {
+          padding-top: 56px;
+        }
+      }
+
+    </style>
+
+  </head>
+
+  <body>
+
+    <div id="app">
+
+      <!-- Navigation -->
+      <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
+        <div class="container">
+          <a class="navbar-brand" href="#">MyMissal.io</a>
+          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarResponsive">
+            <ul class="navbar-nav ml-auto">
+              <li class="nav-item active">
+                <a class="nav-link" href="#">TOC
+                </a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" :href="apiindex" target="_blank">API</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </nav>
+
+      <!-- Page Content -->
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-12 text-center">
+            <h1 class="mt-5">A Bootstrap 4 Starter Template</h1>
+            <p class="lead">Complete with pre-defined file paths and responsive navigation!</p>
+            <ul class="list-unstyled">
+              <li></li>
+              <li>Bootstrap 4.0.0</li>
+              <li>jQuery 3.3.0</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+
+    <!-- End of Vue app -->
+    </div>
+
+    <!-- Bootstrap core JavaScript -->
+    <script src="vendor/jquery/jquery.min.js"></script>
+    <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+    <!-- VueJS -->
+    <!-- use min for production -->
+    <!-- <script src="vendor/vue/vue.min.js"></script> -->
+    <script src="vendor/vue/vue.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/axios/0.17.1/axios.js"></script>
+    <script src="app.js"></script>
+
+  </body>
+
+</html>
