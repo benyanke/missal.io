@@ -1,1 +1,12 @@
-
+{
+  "title": "MyMissal.io",
+  "href-base": "https://benyanke.github.io/mymissal.io/data/propers/",
+  "texts": [
+    {
+      "name": "Ash Wednesday",
+      "season": "Lent",
+      "href": "lent-ashwed.json",
+      "status": "in-progress"
+    }
+  ]
+}
