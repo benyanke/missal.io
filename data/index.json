@@ -25,6 +25,12 @@
       "season": "Lent",
       "href": "lent-saturday-after-ash-wed.json",
       "status": "empty"
+    },
+    {
+      "name": "First Sunday in Lent",
+      "season": "Lent",
+      "href": "lent-1.json",
+      "status": "empty"
     }
   ]
 }
