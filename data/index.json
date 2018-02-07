@@ -6,6 +6,30 @@
   },
   "texts": [
     {
+      "name": "Septuagesima Sunday",
+      "season": "Lent",
+      "href": "prelent-septuagesima.json",
+      "slug": "prelent/septuagesima",
+      "last-updated": 1517805560,
+      "status": "empty"
+    },
+    {
+      "name": "Sexagesima Sunday",
+      "season": "Lent",
+      "href": "prelent-sexagesima.json",
+      "slug": "prelent/sexagesima",
+      "last-updated": 1517805560,
+      "status": "empty"
+    },
+    {
+      "name": "Quinquagesima Sunday",
+      "season": "Lent",
+      "href": "prelent-quinquagesima.json",
+      "slug": "prelent/quinquagesima",
+      "last-updated": 1517805560,
+      "status": "empty"
+    },
+    {
       "name": "Ash Wednesday",
       "season": "Lent",
       "href": "lent-ashwed.json",
