@@ -59,7 +59,7 @@
       "href": "lent-3.json",
       "slug": "lent/3",
       "last-updated": 1517978444,
-      "status": "empty"
+      "status": "complete"
     },
     {
       "name": "Fourth Sunday in Lent",
@@ -67,7 +67,7 @@
       "href": "lent-4.json",
       "slug": "lent/4",
       "last-updated": 1517978444,
-      "status": "empty"
+      "status": "complete"
     }
   ]
 }
