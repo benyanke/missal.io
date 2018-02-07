@@ -47,6 +47,7 @@ var app = new Vue({
     // Set the global language to use ()
     setLang: function(newLang) {
       app.lang = newLang;
+      // TODO: finish implementing me
     },
 
     getIndex: function() {
@@ -63,9 +64,6 @@ var app = new Vue({
         app.appReady = true;
         console.log("App loaded.");
         console.log("Index retrieved of " + app.indexContent.length + " texts.");
-
-
-        // app.getLiturgy("lent/1");
 
       // })
       //.catch(function (error) {
