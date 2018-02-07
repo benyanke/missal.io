@@ -2,8 +2,9 @@ var app = new Vue({
   el: '#app',
   data: {
     // apiIndex: 'https://benyanke.github.io/missal.io/data/',
-    apiIndex: 'http://www.missal.io/data/',
+    // apiIndex: 'http://www.missal.io/data/',
     // apiIndex: 'http://localhost:8080/data/index.json',
+    apiIndex: 'http://localhost:8085/data/index.json',
 
     indexContent: [],
     info: [],
@@ -27,6 +28,20 @@ var app = new Vue({
   },
 
   methods: {
+
+    // Clear currently selected liturgy and return to index
+    clearLiturgy: function() {
+        app.currentLiturgy = null;
+    },
+
+    // Triggered on button press on index page
+    liturgySelectHandler: function(event) {
+
+        var slug = event.target.getAttribute("rowslug");
+        app.getLiturgy(slug);
+
+    },
+
     getIndex: function() {
 
       // Get index from server

@@ -73,8 +73,11 @@
               v-for="row in indexContent"
               v-if="! hideIncomplete || row.status == 'complete'">
 
-              <li>
-                {{ row.name }} || slug = {{ row.slug }} ||  href = {{ row.href }}
+              <li
+                v-on:click="liturgySelectHandler"
+                :rowslug="row.slug"
+                class="btn btn-primary btn-xs">
+                {{ row.name }}
               </li>
             </ul>
 
@@ -86,6 +89,7 @@
           <div class="col-lg-12 text-center">
             <h1 class="mt-5">{{ currentLiturgy.name }}</h1>
             <p class="lead" v-if="currentLiturgy.sourceLink">Compiled from <a :href=currentLiturgy.sourceLink target="_blank">this source</a></p>
+            <p><span v-on:click="clearLiturgy" class="btn btn-primary">Back to index</span></p>
             <hr /><hr />
             <div
               class="list-unstyled"
