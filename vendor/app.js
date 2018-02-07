@@ -28,9 +28,29 @@ var app = new Vue({
   },
   mounted: function(){
     this.getIndex();
+    this.hotkeyListener();
   },
 
   methods: {
+
+    // Setup listeners for hotkeys
+    hotkeyListener: function() {
+
+      window.addEventListener('keyup', function(event) {
+
+        // escape key => clear liturgy
+        if (event.keyCode == 27) {
+          app.clearLiturgy();
+        }
+
+        // left arrow key => clear liturgy
+        if (event.keyCode == 37) {
+          app.clearLiturgy();
+        }
+
+      });
+
+    },
 
     // Clear currently selected liturgy and return to index
     clearLiturgy: function() {
