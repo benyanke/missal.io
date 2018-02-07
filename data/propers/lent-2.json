@@ -1,0 +1,162 @@
+{
+  "name": "Second Sunday in Lent",
+  "compiledBy": "Ben Yanke",
+  "liturgyType": "Mass",
+  "liturgyClass": "other",
+  "season": "lent",
+  "sourceName": "maternal-heart",
+  "sourceLink": "http://www.maternalheart.org/propers/Septuagesima%20to%20Passion%20Sunday/Second%20Sunday%20in%20Lent/Second%20Sunday%20in%20Lent.pdf",
+  "textblocks": [
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": "REMINISCERE miseratiónum tuá- rum, Dómine, et misericórdiæ tuæ, quæ a sǽculo sunt: ne umquam dominéntur nobis inimíci nostri: líbera nos, Deus Israël, ex omnibus angústiis nostris. <em>Ps. 24. 1-2.</em> Ad te, Dó- mine, levávi ánimam meam, Deus meus, in te confído, non erubéscam. V. Glória Patri."
+        },
+        {
+          "lang": "en",
+          "content": "REMEMBER, O Lord, Thy bowels of compassion, and Thy mercies that are from the beginning of the world, lest at any time our enemies rule over us: deliver us, O God of Israel, from all our tribulations. <em>Ps.</em> To Thee, O Lord, have I lifted up my soul: in Thee, O my God, I put my trust; let me not be ashamed V. Glory be to the Father."
+        }
+      ],
+      "citation": "Psalm 24. 6, 3, 22",
+      "type": "introit"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": "DEUS, qui cónspicis omni nos virtúte destítui: intérius exteriúsque custódi; ut ab ómnibus adversitátibus muniámur in córpore, et a pravis cogitatiónibus mundémur in mente. Per Dóminum."
+        },
+        {
+          "lang": "en",
+          "content": "O GOD, who seest that we have no power whatever from ourselves; keep us both outwardly in our bodies and inwardly in our souls; that we may be defended from all adversities which may happen to the body and from all evil thoughts which may hurt the soul. Through our Lord."
+        }
+      ],
+      "type": "collect"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": "FRATRES: Rogámus vos et obsecrámus in Dómino Jesu, ut, quemádmodum accepístis a nobis, quó- modo opórteat vos ambuláre et placére Deo, sic et ambulétis, ut abundétis magis. Scitis enim quæ præ­ cépta déderim vobis per Dóminum Jesum. Hæc est enim volántas Dei, sanctificátio vestra: ut abstineátis vos a fornicatióne, ut sciat unusquísque vestrum vas suum possidére in sanctificatióne et honóre; non in passióne desidérii, sicut et Gentes, quæ ignórant Deum: et ne quis supergrediátur neque circumvéniat in negótio fratrem suum: quóniam vindex est Dóminus de his ómnibus, sicut prædíximus vobis et testificáti sumus. Non enim vocávit nos Deus in immundítiam, sed in sanctificatiónem: in Christo Jesu Dómino nostro."
+        },
+        {
+          "lang": "en",
+          "content": "BRETHREN: We pray and beseech you in the Lord Jesus that, as you have received from us, now you ought to walk and to please God, so also you would walk, that you may abound the more. For you know what precepts I have given to you by the Lord Jesus. For this is the will of God, your sanctification: that you should abstain from fornication, that every one of you should know how to possess his vessel in sanctification and honour; not in the passion of lust, like the Gentiles that know not God: and that no man overreach nor circumvent his brother in business: because the Lord is the avenger of all these things, as we have told you before and have testified. For God hath not called us unto uncleanness, but unto sanctification: in Christ Jesus our Lord."
+        }
+      ],
+      "citation": "1 Thessalonians 4. 1-7",
+      "type": "epistle"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": "TRIBULATIÓNES cordis mei dilatátæ sunt: de necessitátibus meis éripe me, Dómine. V. Vide humilitátem meam et labórem meum: et dimítte ómnia peccáta mea."
+        },
+        {
+          "lang": "en",
+          "content": "THE TROUBLES of my heart are multiplied: deliver me from my necessities, O Lord. V. See my abjection and my labour, and forgive me all my sins."
+        }
+      ],
+      "citation": "Psalm 24. 17-18",
+      "type": "gradual"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": "CONFITÉMINI Dómino quóniam bonus: quóniam in s ǽculum misericórdia ejus. V. Quis loquétur poténtias Dómini: audítas fáciet omnes laudes ejus? V. Beáti qui custódiunt judícium et fáciunt justítiam in omni témpore. V. Memento nostri, Dó- mine, in beneplácito pópuli tui: ví­ sita nos in salutári tuo."
+        },
+        {
+          "lang": "en",
+          "content": "GIVE glory to the Lord, for He is good: for His mercy endureth for ever. V. Who shall declare the powers of the Lord: who. shall set forth all His praises? V. Blessed are they that keep judgment and do justice at all times. V. Remember us, O Lord, in the favour of Thy people: visit us with Thy salvation."
+        }
+      ],
+      "citation": "Psalm 105. 1-4",
+      "type": "tract"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": "IN illo témpore: Assúmpsit Jesus Petrum, et Jacóbum, et Joánnem fratrem ejus, et duxit illos in montem excélsum seórsum: et transfigurátus est ante eos. Et resplénduit fácies ejus sicut sol: vestiménta autem ejus facta sunt alba sicut nix. Et ecce apparuérunt illis Móyses et Elías cum eo loquéntes. Respóndens autem Petrus, dixit ad Jesum: Dó­ mine, bonum est nos hic esse: si vis, faciámus hic tria tabernácula, tibi unum, Móysi unum, et Elíæ unum. Adhuc eo loquénte, ecce nubes lúcida obumbrávit eos. Et ecce vox de nube, dicens: Hic est Fílius meus diléctus, in quo mihi bene complá- cui: ipsum audíte. Et audiéntes discípuli, cecidérunt in fáciem suam, et timuérunt valde. Et accéssit Jesus, et tétigit eos, dixítque eis: Súrgite, et nolíte timére. Levántes autem óculos suos, néminem vidérunt nisi solum Jesum. Et descendéntibus illis de monte, præcépit eis Jesus, dicens: Némini dixéritis visiónem, donec Fílius hóminis a mórtuis resúrgat."
+        },
+        {
+          "lang": "en",
+          "content": "AT that time Jesus took Peter and James, and John his brother, and bringeth them up into a high mountain apart: and He was transfigured before them. And his face did shine as the sun: and His garments became white as snow. And behold there appeared to them Moses and Elias talking with Him. And Peter answering, said to Jesus: Lord, it is good for us to be here: if Thou wilt, let us make here three tabernacles, one for Thee, and one for Moses, and one for Elias. And as he was yet speaking, behold a bright cloud overshadowed them. And lo, a voice out of the cloud, saying: This is My beloved Son, in whom I am well pleased: hear ye Him. And the disciples hearing, fell upon their face and were very much afraid. And Jesus came and touched them, and said to them: Arise, and fear not. And they lifting up their eyes saw no one, but only Jesus. And as they came down from the mountain, Jesus charged them, saying: Tell the vision to no man till the Son of Man be risen from the dead."
+        }
+      ],
+      "citation": "Matthew 17. 1-9",
+      "type": "gospel"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": "MEDITÁBOR in mandátis tuis, quæ diléxi valde: et levábo manus meas ad mandéta tua, quæ diléxi."
+        },
+        {
+          "lang": "en",
+          "content": "I WILL MEDITATE on Thy commandments, which I have loved exceedingly: and I will lift up my hands to Thy commandments, which I have loved."
+        }
+      ],
+      "citation": "Psalm 118. 47-48 ",
+      "type": "offertory"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": "SACRIFÍCIIS præséntibus, Dómine, qu ǽsumus, inténde placátus: ut et devotióni nostræ profíciant et salúti. Per Dóminum."
+        },
+        {
+          "lang": "en",
+          "content": "PEACEFULLY look down, we beseech Thee, O Lord, upon these sacrifices, that they may both increase our devotion and contribute to our salvation. Through our Lord."
+        }
+      ],
+      "type": "secret"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": "VERE dignum et justum est, aequum et salutáre, nos tibi semper, et ubí- que grátias ágere: Dómine sancte, Pater omnípotens, ætérne Deus: Qui corporáli jejúnio vítia cómprimis, mentem élevas, virtútem largíris, et pr ǽmia: per Christum Dóminum nostrum. Per quem majestátem tuam laudant Angeli, adórant Dominatiónes, tremunt Potestátes. Cæli, cæ- lorúmque Virtútes, ac beáta Séraphim, sócia exsultatióne concélebrant. Cum quibus et nostras voces, ut admítti júbeas, deprecámur, súpplici confessióne dicéntes:"
+        },
+        {
+          "lang": "en",
+          "content": "IT IS truly meet and just, right and availing unto salvation, that we should at all times and in all places give thanks unto Thee, O holy Lord, Father almighty and everlasting God. Who by the fasting of the body dost curb our vices, elevate our minds and bestow virtue and reward; through Christ our Lord. Through whom the angels praise Thy majesty, the dominions worship it, and the powers stand in awe. The heavens and the heavenly hosts, with the blessed seraphim join together in celebrating their joy. With these we pray Thee join our voices also, while we say with lowly praise:"
+        }
+      ],
+      "type": "preface",
+      "heading": "Preface for Lent"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": "INTÉLLIGE clamórem meum: inténde voci oratiónis meæ, Rex meus et Deus meus: quóniam ad te orábo, Dómine."
+        },
+        {
+          "lang": "en",
+          "content": "Understand my cry: hearken to the voice of my prayer, O my King and my God: for to Thee will I pray, O Lord."
+        }
+      ],
+      "citation": "Psalm 5. 2-4 ",
+      "type": "communion"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": "SÚPPLICES te rogámus, omnipotens Deus: ut, quos tuis réficis sacraméntis, tibi étiam plácitis móribus dignánter deservíre concédas. Per Dóminum nostrum."
+        },
+        {
+          "lang": "en",
+          "content": "We humbly beseech Thee, almighty God, that we whom Thou hast strengthened with Thy sacraments, may henceforth serve and please Thee in worthiness of life. Through our Lord."
+        }
+      ],
+      "type": "postcommunion"
+    }
+  ]
+}

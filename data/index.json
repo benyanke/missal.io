@@ -44,6 +44,14 @@
       "slug": "lent/1",
       "last-updated": 1517813524,
       "status": "complete"
+    },
+    {
+      "name": "Second Sunday in Lent",
+      "season": "Lent",
+      "href": "lent-2.json",
+      "slug": "lent/2",
+      "last-updated": 1517978444,
+      "status": "complete"
     }
   ]
 }
