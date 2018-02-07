@@ -1,0 +1,162 @@
+{
+  "name": "Third Sunday in Lent",
+  "compiledBy": "Ben Yanke",
+  "liturgyType": "Mass",
+  "liturgyClass": "other",
+  "season": "lent",
+  "sourceName": "maternal-heart",
+  "sourceLink": "http://www.maternalheart.org/propers/Septuagesima%20to%20Passion%20Sunday/Fourth%20Sunday%20in%20Lent/Fourth%20Sunday%20in%20Lent.pdf",
+  "textblocks": [
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": ""
+        },
+        {
+          "lang": "en",
+          "content": ""
+        }
+      ],
+      "citation": "",
+      "type": "introit"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": ""
+        },
+        {
+          "lang": "en",
+          "content": ""
+        }
+      ],
+      "type": "collect"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": ""
+        },
+        {
+          "lang": "en",
+          "content": ""
+        }
+      ],
+      "citation": "",
+      "type": "epistle"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": ""
+        },
+        {
+          "lang": "en",
+          "content": ""
+        }
+      ],
+      "citation": "",
+      "type": "gradual"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": ""
+        },
+        {
+          "lang": "en",
+          "content": ""
+        }
+      ],
+      "citation": "",
+      "type": "tract"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": ""
+        },
+        {
+          "lang": "en",
+          "content": ""
+        }
+      ],
+      "citation": "",
+      "type": "gospel"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": ""
+        },
+        {
+          "lang": "en",
+          "content": ""
+        }
+      ],
+      "citation": "",
+      "type": "offertory"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": ""
+        },
+        {
+          "lang": "en",
+          "content": ""
+        }
+      ],
+      "type": "secret"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": "VERE dignum et justum est, aequum et salutáre, nos tibi semper, et ubí- que grátias ágere: Dómine sancte, Pater omnípotens, ætérne Deus: Qui corporáli jejúnio vítia cómprimis, mentem élevas, virtútem largíris, et pr ǽmia: per Christum Dóminum nostrum. Per quem majestátem tuam laudant Angeli, adórant Dominatiónes, tremunt Potestátes. Cæli, cæ- lorúmque Virtútes, ac beáta Séraphim, sócia exsultatióne concélebrant. Cum quibus et nostras voces, ut admítti júbeas, deprecámur, súpplici confessióne dicéntes:"
+        },
+        {
+          "lang": "en",
+          "content": "IT IS truly meet and just, right and availing unto salvation, that we should at all times and in all places give thanks unto Thee, O holy Lord, Father almighty and everlasting God. Who by the fasting of the body dost curb our vices, elevate our minds and bestow virtue and reward; through Christ our Lord. Through whom the angels praise Thy majesty, the dominions worship it, and the powers stand in awe. The heavens and the heavenly hosts, with the blessed seraphim join together in celebrating their joy. With these we pray Thee join our voices also, while we say with lowly praise:"
+        }
+      ],
+      "type": "preface",
+      "heading": "Preface for Lent"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": ""
+        },
+        {
+          "lang": "en",
+          "content": ""
+        }
+      ],
+      "citation": "",
+      "type": "communion"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": ""
+        },
+        {
+          "lang": "en",
+          "content": ""
+        }
+      ],
+      "type": "postcommunion"
+    }
+  ]
+}

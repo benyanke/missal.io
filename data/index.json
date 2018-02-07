@@ -2,7 +2,7 @@
   "info": {
     "title": "MyMissal.io",
     "hrefBase": "/data/propers/",
-    "showChant" : false
+    "showChant": false
   },
   "texts": [
     {
@@ -52,6 +52,22 @@
       "slug": "lent/2",
       "last-updated": 1517978444,
       "status": "complete"
+    },
+    {
+      "name": "Third Sunday in Lent",
+      "season": "Lent",
+      "href": "lent-3.json",
+      "slug": "lent/3",
+      "last-updated": 1517978444,
+      "status": "empty"
+    },
+    {
+      "name": "Fourth Sunday in Lent",
+      "season": "Lent",
+      "href": "lent-4.json",
+      "slug": "lent/4",
+      "last-updated": 1517978444,
+      "status": "empty"
     }
   ]
 }
