@@ -65,7 +65,7 @@
         <div class="row" v-if="currentLiturgy == null">
           <div class="col-lg-12 text-center">
             <h1 class="mt-5">TLM Handmissal App</h1>
-            <p class="lead">Click a Mass to load it's texts. NOT YET WORKING.</p>
+            <p class="lead">Click a Mass to load it's texts.<br />Only displays <em>{{ lang }}</em> currently, but others coming soon.</p>
 
 
             <ul
@@ -74,8 +74,7 @@
               v-if="! hideIncomplete || row.status == 'complete'">
 
               <li
-                v-on:click="liturgySelectHandler"
-                :rowslug="row.slug"
+                v-on:click="liturgySelectHandler(row.slug)"
                 class="btn btn-primary btn-xs">
                 {{ row.name }}
               </li>
@@ -105,7 +104,7 @@
 
                 <!-- <div class="latin-text">{{ getElementByKey(section.text, "lang", "la").content }}</div> -->
                 <div class="rubric" v-if="section.type == 'rubric'"><em>{{ getElementByKey(section.text, "lang", "en").content }}</em></div>
-                <div class="english-text" v-else v-html="getElementByKey(section.text, 'lang', 'en').content"></div>
+                <div class="english-text" v-else v-html="getElementByKey(section.text, 'lang', lang).content"></div>
                 <hr / v-if="section.type != 'rubric'">
             </div>
 

@@ -2,9 +2,9 @@ var app = new Vue({
   el: '#app',
   data: {
     // apiIndex: 'https://benyanke.github.io/missal.io/data/',
-    // apiIndex: 'http://www.missal.io/data/',
+    apiIndex: 'http://www.missal.io/data/',
     // apiIndex: 'http://localhost:8080/data/index.json',
-    apiIndex: 'http://localhost:8085/data/index.json',
+    // apiIndex: 'http://localhost:8085/data/index.json',
 
     indexContent: [],
     info: [],
@@ -20,7 +20,10 @@ var app = new Vue({
 
     // This will be null if no mass is selected
     // if a mass is selected, place it here and it will be rendered
-    currentLiturgy: null
+    currentLiturgy: null,
+
+    // Selecting the language to use by default
+    lang: "en",
 
   },
   mounted: function(){
@@ -35,11 +38,15 @@ var app = new Vue({
     },
 
     // Triggered on button press on index page
-    liturgySelectHandler: function(event) {
+    liturgySelectHandler: function(slug) {
 
-        var slug = event.target.getAttribute("rowslug");
         app.getLiturgy(slug);
 
+    },
+
+    // Set the global language to use ()
+    setLang: function(newLang) {
+      app.lang = newLang;
     },
 
     getIndex: function() {
