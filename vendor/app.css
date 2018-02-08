@@ -12,3 +12,13 @@
 .hidden {
    display:none
 }
+
+/* Set the fonts on the body */
+#app {
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+
+/* Rubrics */
+.text-rubric {
+  font-style: italic;
+}

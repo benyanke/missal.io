@@ -11,7 +11,7 @@
     <title>Missal.io</title>
 
     <!-- Bootstrap core CSS -->
-    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
     <link href="vendor/app.css" rel="stylesheet">
 
     <link rel="icon" type="image/x-icon" href="favicon.ico" />
@@ -48,9 +48,8 @@
           </button>
           <div class="collapse navbar-collapse" id="navbarResponsive">
             <ul class="navbar-nav ml-auto">
-              <li class="nav-item active">
-                <a class="nav-link" href="#">TOC
-                </a>
+              <li class="nav-item active" v-if="currentLiturgy != null" v-on:click="clearLiturgy">
+                <a class="nav-link">Back</a>
               </li>
               <li class="nav-item">
                 <a class="nav-link" :href="apiIndex" target="_blank">API</a>
@@ -62,6 +61,7 @@
 
       <!-- Page Content -->
       <div class="container" v-if="appReady" v-cloak>
+
         <div class="row" v-if="currentLiturgy == null">
           <div class="col-lg-12 text-center">
             <h1 class="mt-5">TLM Handmissal App</h1>
@@ -84,35 +84,63 @@
         </div>
 
         <!-- Display the current liturgy -->
-        <div class="row" v-if="currentLiturgy != null">
-          <div class="col-lg-12 text-center">
-            <h1 class="mt-5">{{ currentLiturgy.name }}</h1>
-            <p class="lead" v-if="currentLiturgy.sourceLink">Compiled from <a :href=currentLiturgy.sourceLink target="_blank">this source</a></p>
-            <p><span v-on:click="clearLiturgy" v-on:keyup.esc="clearLiturgy" class="btn btn-primary">Back to index</span></p>
-            <hr /><hr />
-            <div
-              class="list-unstyled"
-              v-for="section in currentLiturgy.textblocks">
+        <div v-if="currentLiturgy != null">
 
-                <h2 v-if="section.type == 'section-heading'">{{ section.text[0].content }}</h2>
-                <h3 v-else-if="section.heading">{{ section.heading }}<br /></h3>
-                <h3 v-else-if="section.type && section.type != 'rubric'">{{ titleCase(section.type) }}<br /></h3>
+          <div class="row header">
+            <div class="col text-center">
+              <h1 class="mt-5">{{ currentLiturgy.name }}</h1>
+              <p class="m-1" v-if="currentLiturgy.sourceLink">Compiled from <a :href=currentLiturgy.sourceLink target="_blank">this source</a></p>
+              <!-- p><span v-on:click="clearLiturgy" v-on:keyup.esc="clearLiturgy" class="btn btn-primary">Back to index</span></p> -->
+            </div>
+          </div>
 
+          <!-- Loop through text blocks -->
+          <div class="row" v-for="section in currentLiturgy.textblocks">
 
-                <span v-if="section.citation"><em>{{ section.citation }}</em><br /></span>
-
-
-                <!-- <div class="latin-text">{{ getElementByKey(section.text, "lang", "la").content }}</div> -->
-                <div class="rubric" v-if="section.type == 'rubric'"><em>{{ getElementByKey(section.text, "lang", "en").content }}</em></div>
-                <div class="english-text" v-else v-html="getElementByKey(section.text, 'lang', lang).content"></div>
-                <hr / v-if="section.type != 'rubric'">
+            <!-- Rubic text entries -->
+            <div v-if="section.type == 'rubric'"
+              class="col text-center text-rubric">
+              {{ getElementByKey(section.text, "lang", "en").content }}
             </div>
 
+            <!-- Regular text entries -->
+            <div v-else class="row m-2">
 
+              <div class="col text-justify text-latin"
+                v-if="getElementByKey(section.text, 'lang', 'la')"
+                v-html="getElementByKey(section.text, 'lang', 'la').content">
+              </div>
+
+              <div class="col text-justify text-english"
+                v-if="getElementByKey(section.text, 'lang', 'en')"
+                v-html="getElementByKey(section.text, 'lang', 'en').content">
+              </div>
+
+
+            </div>
+
+<!--
+            <div class="col-lg-12 text-center">
+              <hr />
+              <div class="list-unstyled">
+
+                  <h2 v-if="section.type == 'section-heading'">{{ section.text[0].content }}</h2>
+                  <h3 v-else-if="section.heading">{{ section.heading }}<br /></h3>
+                  <h3 v-else-if="section.type && section.type != 'rubric'">{{ titleCase(section.type) }}<br /></h3>
+
+
+                  <span v-if="section.citation"><em>{{ section.citation }}</em><br /></span>
+
+
+                  <div class="rubric" v-if="section.type == 'rubric'"><em>{{ getElementByKey(section.text, "lang", "en").content }}</em></div>
+                  <div class="english-text" v-else v-html="getElementByKey(section.text, 'lang', lang).content"></div>
+              </div>
+            -->
+
+            </div>
           </div>
+
         </div>
-
-
       </div>
 
       <!-- Loading container -->
@@ -128,8 +156,9 @@
     </div>
 
     <!-- Bootstrap core JavaScript -->
-    <script src="vendor/jquery/jquery.min.js"></script>
-    <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
 
     <!-- VueJS -->
     <!-- use min for production -->
