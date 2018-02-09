@@ -97,6 +97,16 @@
           <!-- Loop through text blocks -->
           <div class="row" v-for="section in currentLiturgy.textblocks">
 
+            <div class="col header text-center mt-3">
+              <h2 v-if="!section.heading">{{ titleCase(section.type) }}</h2>
+              <h2 v-else-if="section.heading && section.type != 'section-heading'">{{ titleCase(section.heading) }}</h2>
+              <h2 v-else>{{ titleCase(section.heading) }}</h2>
+
+              <span class="font-italic" v-if="section.citation"> {{ section.citation }}</span>
+
+            </div>
+
+
             <!-- Rubic text entries -->
             <div v-if="section.type == 'rubric'"
               class="col text-center text-rubric">
@@ -141,10 +151,9 @@
           </div>
 
         </div>
-      </div>
 
       <!-- Loading container -->
-      <div class="container" v-else>
+      <div class="container" v-if="!appReady">
         <div class="row">
           <div class="col-lg-12 text-center">
             <h1 class="mt-5">Loading...</h1>
