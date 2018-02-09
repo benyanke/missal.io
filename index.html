@@ -49,7 +49,16 @@
           <div class="collapse navbar-collapse" id="navbarResponsive">
             <ul class="navbar-nav ml-auto">
               <li class="nav-item active" v-if="currentLiturgy != null" v-on:click="clearLiturgy">
-                <a class="nav-link">Back</a>
+                <a
+                  class="nav-link"
+                  data-toggle="collapse"
+                  data-target="#navbarResponsive"
+                  aria-controls="navbarResponsive"
+                  aria-expanded="false"
+                  aria-label="Toggle navigation">
+                    Back
+                </a>
+
               </li>
               <li class="nav-item">
                 <a class="nav-link" :href="apiIndex" target="_blank">API</a>
@@ -97,11 +106,15 @@
           <!-- Loop through text blocks -->
           <div class="row" v-for="section in currentLiturgy.textblocks">
 
+            <!-- Col header for rubrics and headings -->
             <div class="col header text-center mt-3">
+
+              <!-- Section heading -->
               <h2 v-if="!section.heading">{{ titleCase(section.type) }}</h2>
               <h2 v-else-if="section.heading && section.type != 'section-heading'">{{ titleCase(section.heading) }}</h2>
               <h2 v-else>{{ titleCase(section.heading) }}</h2>
 
+              <!-- Rubrics -->
               <span class="font-italic" v-if="section.citation"> {{ section.citation }}</span>
 
             </div>
