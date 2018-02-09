@@ -48,21 +48,21 @@
           </button>
           <div class="collapse navbar-collapse" id="navbarResponsive">
             <ul class="navbar-nav ml-auto">
-              <li class="nav-item active" v-if="currentLiturgy != null" v-on:click="clearLiturgy">
-                <a
-                  class="nav-link collapse"
-                  data-toggle="collapse"
-                  data-target="#navbarResponsive"
-                  aria-controls="navbarResponsive"
-                  aria-expanded="false"
-                  aria-label="Toggle navigation">
-                    Back
-                </a>
 
+              <li class="nav-item">
+                <a class="nav-link disabled" v-on:click="navHide()">Today</a>
               </li>
+
+              <li class="nav-item">
+                <a class="nav-link"  v-bind:class="{ disabled: currentLiturgy == null }"  v-on:click="clearLiturgy(); navHide()">
+		  Back
+		</a>
+              </li>
+
               <li class="nav-item">
                 <a class="nav-link" :href="apiIndex" target="_blank">API</a>
               </li>
+
             </ul>
           </div>
         </div>
@@ -97,7 +97,7 @@
 
           <div class="row header">
             <div class="col text-center">
-              <h1 class="mt-5">{{ currentLiturgy.name }}</h1>
+              <h1 class="mt-5 liturgy-name">{{ currentLiturgy.name }}</h1>
               <p class="m-1" v-if="currentLiturgy.sourceLink">Compiled from <a :href=currentLiturgy.sourceLink target="_blank">this source</a></p>
               <!-- p><span v-on:click="clearLiturgy" v-on:keyup.esc="clearLiturgy" class="btn btn-primary">Back to index</span></p> -->
             </div>
@@ -107,15 +107,15 @@
           <div class="row" v-for="section in currentLiturgy.textblocks">
 
             <!-- Col header for rubrics and headings -->
-            <div class="col header text-center mt-3">
+            <div class="col header text-center mt-3 section-heading">
 
               <!-- Section heading -->
-              <h2 v-if="!section.heading">{{ titleCase(section.type) }}</h2>
-              <h2 v-else-if="section.heading && section.type != 'section-heading'">{{ titleCase(section.heading) }}</h2>
-              <h2 v-else>{{ titleCase(section.heading) }}</h2>
+              <h2 class="main" v-if="!section.heading">{{ titleCase(section.type) }}</h2>
+              <h2 class="main" v-else-if="section.heading && section.type != 'section-heading'">{{ titleCase(section.heading) }}</h2>
+              <h2 class="main" v-else>{{ titleCase(section.heading) }}</h2>
 
               <!-- Rubrics -->
-              <span class="font-italic" v-if="section.citation"> {{ section.citation }}</span>
+              <span class="citation" v-if="section.citation"> {{ section.citation }}</span>
 
             </div>
 

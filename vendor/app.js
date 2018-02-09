@@ -33,6 +33,25 @@ var app = new Vue({
 
   methods: {
 
+
+    // Setup controls for the nav bar
+    setupNavHandler: function() {
+       $('#navbarResponsive').collapse({
+          toggle: false
+       });
+
+    },
+
+    // Function to hide and show nav
+    navHide: function() {
+        $('#navbarResponsive').collapse('hide');
+    },
+
+    // Function to hide and show nav
+    navShow: function() {
+        $('#navbarResponsive').collapse('show');
+    },
+
     // Setup listeners for hotkeys
     hotkeyListener: function() {
 

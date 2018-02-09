@@ -1,4 +1,4 @@
-
+.
 /******
 * General Helper Functions
 *******/
@@ -22,3 +22,19 @@
 .text-rubric {
   font-style: italic;
 }
+
+/* Name of the liturgy - eg: Ash Wednesday */
+.liturgy-name {
+  font-variant: small-caps;
+}
+
+/* Name of the section - eg: introit */
+.section-heading .main {
+  font-variant: small-caps;
+}
+
+.section-heading .citation {
+  font-style: italic;
+}
+
+
