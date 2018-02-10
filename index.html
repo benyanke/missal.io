@@ -84,8 +84,8 @@
 
               <li
                 v-on:click="liturgySelectHandler(row.slug)"
-                class="btn btn-primary btn-xs">
-                {{ row.name }}
+                class="btn btn-primary btn-xs"
+                v-text="row.name">
               </li>
             </ul>
 
@@ -97,7 +97,7 @@
 
           <div class="row header">
             <div class="col text-center">
-              <h1 class="mt-5 liturgy-name">{{ currentLiturgy.name }}</h1>
+              <h1 class="mt-5 liturgy-name" v-text="currentLiturgy.name"></h1>
               <p class="m-1" v-if="currentLiturgy.sourceLink">Compiled from <a :href=currentLiturgy.sourceLink target="_blank">this source</a></p>
               <!-- p><span v-on:click="clearLiturgy" v-on:keyup.esc="clearLiturgy" class="btn btn-primary">Back to index</span></p> -->
             </div>
@@ -110,20 +110,20 @@
             <div class="col header text-center mt-3 section-heading">
 
               <!-- Section heading -->
-              <h2 class="main" v-if="!section.heading">{{ titleCase(section.type) }}</h2>
-              <h2 class="main" v-else-if="section.heading && section.type != 'section-heading'">{{ titleCase(section.heading) }}</h2>
-              <h2 class="main" v-else>{{ titleCase(section.heading) }}</h2>
+              <h2 class="main" v-if="!section.heading" v-text="titleCase(section.type)"></h2>
+              <h2 class="main" v-else-if="section.heading && section.type != 'section-heading'" v-text="titleCase(section.heading)"></h2>
+              <h2 class="main" v-else v-text="titleCase(section.heading)"></h2>
 
               <!-- Rubrics -->
-              <span class="citation" v-if="section.citation"> {{ section.citation }}</span>
+              <span class="citation" v-if="section.citation" v-text="section.citation"></span>
 
             </div>
 
 
             <!-- Rubic text entries -->
             <div v-if="section.type == 'rubric'"
-              class="col text-center text-rubric">
-              {{ getElementByKey(section.text, "lang", "en").content }}
+              class="col text-center text-rubric"
+              v-text="getElementByKey(section.text, 'lang', 'en').content">
             </div>
 
             <!-- Regular text entries -->
@@ -166,7 +166,7 @@
         </div>
 
       <!-- Loading container -->
-      <div class="container" v-if="!appReady">
+      <div class="container" v-if="!appReady" v-cloak>
         <div class="row">
           <div class="col-lg-12 text-center">
             <h1 class="mt-5">Loading...</h1>
