@@ -15,7 +15,6 @@
 /* Set the fonts on the body */
 #app {
   font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
-  hyphens: auto;
 }
 
 /* Rubrics */
@@ -38,3 +37,11 @@
 }
 
 
+.text-english, .text-latin {
+  word-break: break-all;
+  -webkit-hyphens: auto;
+-moz-hyphens: auto;
+-ms-hyphens: auto;
+hyphens: auto;
+  hyphens: auto;
+}
