@@ -1,4 +1,3 @@
-.
 /******
 * General Helper Functions
 *******/
@@ -16,6 +15,7 @@
 /* Set the fonts on the body */
 #app {
   font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  hyphens: auto;
 }
 
 /* Rubrics */
