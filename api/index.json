@@ -1,7 +1,7 @@
 {
   "info": {
     "title": "MyMissal.io",
-    "hrefBase": "/data/propers/",
+    "hrefBase": "/api/propers/",
     "showChant": false,
     "langOptions": [
       {
