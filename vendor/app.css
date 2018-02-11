@@ -37,11 +37,15 @@
 }
 
 
+.hyphenate {
+  hyphens: auto; -webkit-hyphens: auto; -moz-hyphens: auto; -ms-hyphens: auto;
+}
+
 .text-english, .text-latin {
-  word-break: break-all;
+  /* word-break: break-all; */
   -webkit-hyphens: auto;
 -moz-hyphens: auto;
 -ms-hyphens: auto;
-hyphens: auto;
+
   hyphens: auto;
 }
