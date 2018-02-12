@@ -110,6 +110,19 @@
       "slug": "lent/passion-sunday",
       "last-updated": 1517978444,
       "status": "complete"
+    },
+    {
+      "name": "Friday after Passion Sunday",
+      "season": "Lent",
+      "href": "lent-passion-friday-seven-sorrows.json",
+      "slug": "lent/passion-friday",
+      "last-updated": 1517978444,
+      "status": "blank"
     }
+
+
+
+
+
   ]
 }
