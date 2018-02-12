@@ -102,6 +102,14 @@
       "slug": "lent/4",
       "last-updated": 1517978444,
       "status": "complete"
+    },
+    {
+      "name": "Passion Sunday",
+      "season": "Lent",
+      "href": "lent-passion-sunday.json",
+      "slug": "lent/passion-sunday",
+      "last-updated": 1517978444,
+      "status": "complete"
     }
   ]
 }
