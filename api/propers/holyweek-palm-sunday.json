@@ -1,0 +1,290 @@
+{
+  "name": "Second Sunday of Passiontide - Palm Sunday",
+  "compiledBy": "Ben Yanke",
+  "liturgyType": "Mass",
+  "liturgyClass": "other",
+  "season": "holy-week",
+  "sourceName": "maternal-heart",
+  "sourceLink": "http://www.maternalheart.org/propers/HolyWeek/Palm%20Sunday/Palm%20Sunday.pdf",
+  "textblocks": [
+    {
+      "text": [
+        {
+          "lang": "en",
+          "content": "Procession of Palms"
+        }
+      ],
+      "type": "section-heading"
+    },
+    {
+      "text": [
+        {
+          "lang": "en",
+          "content": "This blessing may best be made in another chapel or under the open sky, so that the procession may actually lead into the church. Facing the congregation, the celebrant in red cope, or in red stole and alb, blesses the branches of palm, olive or other trees placed on a table or held by the faithful. The following Antiphon is sung:"
+        }
+      ],
+      "type": "rubric"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": "Hosanna Filio David: benedictus qui venit in Nomine Domini. O Rex Isræl: Hosanna in excelsis."
+        },
+        {
+          "lang": "en",
+          "content": "Hosanna to the Son of David! Blessed is He that cometh in the Name of the Lord. O King of Isræl: Hosanna in the highest!"
+        }
+      ],
+      "citation": "Matthew 21. 9",
+      "type": "antiphon"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": [
+            "V. Dominus vobiscum.",
+            "R. Et cum spiritu tuo."
+          ]
+        },
+        {
+          "lang": "en",
+          "content": [
+            "V. The Lord be with you.",
+            "R. And with thy spirit."
+          ]
+        }
+      ],
+      "type": "dialogue"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": "Benedic, + quæsumus, Domine, hos palmarum (<em>seu</em> olivarum <em>aut</em> aliarum arborum) ramos: et præsta, ut quod populus tuus in tui venerationem hodierna die corporaliter agit, hoc spiritualiter summa devotione perficiat, de hoste victoriam reportando et opus misericordiæ summopere diligendo. Per Dominum nostrum."
+        },
+        {
+          "lang": "en",
+          "content": "Bless, + we beseech Thee, O Lord, these branches of palm (<em>or</em> olive <em>or</em> other trees): and grant that what Thy people today bodily perform for Thy honour, they may perfect spiritually with the utmost devotion, by gaining the victory over the enemy, and ardently loving every work of mercy. Through our Lord."
+        }
+      ],
+      "type": "collect",
+      "heading": "Blessing of Palms"
+    },
+    {
+      "text": [
+        {
+          "lang": "en",
+          "content": "The celebrant sprinkles the palms with holy water and incenses them. If the faithful have their palms already, the celebrant and ministers may go through the church sprinkling them, or the faithful may come to the altar rails for this to be done."
+        }
+      ],
+      "type": "rubric"
+    },
+    {
+      "text": [
+        {
+          "lang": "en",
+          "content": "Distribution of Palms"
+        }
+      ],
+      "type": "section-heading"
+    },
+    {
+      "text": [
+        {
+          "lang": "en",
+          "content": "The celebrant distributes the palms, first to the clergy, then to the faithful meanwhile the choir sings:"
+        }
+      ],
+      "type": "rubric"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": [
+            "PUERI Hebræorum, portantes ramos olivarum, obviaverunt Domino, clamantes, et dicentes: Hosanna in excelsis.",
+            "Domini est terra et plenitudo ejus, orbis terrarum et universi qui habitant in eo. Quia ipse super maria fundavit eum, et super flumina præparabit eum. Pueri Hebræorum.",
+            "Attollite portas, principes, vestras: et elevamini, portæ æternales: et introibit rex gloriæ. Quis est iste rex gloriæ? Dominus fortis et potens: Dominus potens in prælio. Pueri Hebræorum.",
+            "Attollite portas, principes, vestras: et elevamini, portæ æternales: et introibit rex gloriæ. Quis est iste rex gloriæ? Dominus virtutum ipse est rex gloriæ. Pueri Hebræorum.",
+            "Gloria Patri, et Filio, et Spiritui Sancto. Sicut erat in principio, et nunc, et semper, et in sæcula seculorum. Amen. Pueri Hebræorum."
+          ]
+        },
+        {
+          "lang": "en",
+          "content": [
+            "Hebrew children bearing branches of olive, went forth to meet the Lord, crying out, and saying: Hosanna in the highest!",
+            "The earth is the Lord's and the fullness thereof: the world and they that dwell therein. For He hath founded it upon the seas: and hath prepared it upon the rivers. Hebrew children.",
+            "Lift up your gates, O ye princes, and be ye lifted up, O eternal gates: and the King of Glory shall enter in! \"Who is this King of Glory?\" \"The Lord who is strong and mighty, the Lord mighty in battle.\" Hebrew children.",
+            "Lift up your gates, O ye princes, and be ye lifted up, O eternal gates: and the King of Glory shall enter in! \"Who is this King of Glory?\" \"The Lord of hosts, He is the King of Glory.\" Hebrew children.",
+            "Glory be to the Father, and to the Son, and to the Holy Ghost. As it was in the beginning, is now, and ever shall be, world without end. Hebrew children."
+          ]
+        }
+      ],
+      "citation": "Psalm 23. 1-2, 7-10",
+      "type": "antiphon",
+      "heading": "First Antiphon"
+    },
+    {
+      "text": [
+        {
+          "lang": "en",
+          "content": "Proper of the Mass"
+        }
+      ],
+      "type": "section-heading"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": ""
+        },
+        {
+          "lang": "en",
+          "content": ""
+        }
+      ],
+      "citation": "",
+      "type": "introit"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": ""
+        },
+        {
+          "lang": "en",
+          "content": ""
+        }
+      ],
+      "type": "collect"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": ""
+        },
+        {
+          "lang": "en",
+          "content": ""
+        }
+      ],
+      "citation": "",
+      "type": "epistle"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": ""
+        },
+        {
+          "lang": "en",
+          "content": ""
+        }
+      ],
+      "citation": "",
+      "type": "gradual"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": ""
+        },
+        {
+          "lang": "en",
+          "content": ""
+        }
+      ],
+      "citation": "",
+      "type": "tract"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": ""
+        },
+        {
+          "lang": "en",
+          "content": ""
+        }
+      ],
+      "citation": "",
+      "type": "gospel"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": ""
+        },
+        {
+          "lang": "en",
+          "content": ""
+        }
+      ],
+      "citation": "",
+      "type": "offertory"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": ""
+        },
+        {
+          "lang": "en",
+          "content": ""
+        }
+      ],
+      "type": "secret"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": ""
+        },
+        {
+          "lang": "en",
+          "content": ""
+        }
+      ],
+      "type": "preface",
+      "heading": "Preface for Lent"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": ""
+        },
+        {
+          "lang": "en",
+          "content": ""
+        }
+      ],
+      "citation": "",
+      "type": "communion"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": ""
+        },
+        {
+          "lang": "en",
+          "content": ""
+        }
+      ],
+      "type": "postcommunion"
+    }
+  ]
+}

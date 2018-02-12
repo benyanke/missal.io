@@ -104,7 +104,7 @@
       "status": "complete"
     },
     {
-      "name": "Passion Sunday",
+      "name": "First Sunday of Passiontide Sunday",
       "season": "Lent",
       "href": "lent-passion-sunday.json",
       "slug": "lent/passion-sunday",
@@ -118,6 +118,14 @@
       "slug": "lent/passion-friday",
       "last-updated": 1517978444,
       "status": "complete"
+    },
+    {
+      "name": "Second Sunday of Passiontide - Palm Sunday",
+      "season": "Holy Week",
+      "href": "holyweek-palm-sunday.json",
+      "slug": "lent/holy-week/palm-sunday",
+      "last-updated": 1517978444,
+      "status": "partial"
     }
   ]
 }
