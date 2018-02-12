@@ -17,3 +17,16 @@ DB Structure
    
 Anchor days have a 'length', so that the range can be calculated.
 
+
+Use JS like this to make the SPA easier
+
+function goTo(page, title, url) {
+  if ("undefined" !== typeof history.pushState) {
+    history.pushState({page: page}, title, url);
+  } else {
+    window.location.assign(url);   
+  }
+}
+
+goTo("another page", "example", 'example.html');
+
