@@ -1,7 +1,7 @@
 {
   "info": {
     "title": "MyMissal.io",
-    "hrefBase": "/data/propers/",
+    "hrefBase": "/api/propers/",
     "showChant": false,
     "langOptions": [
       {
@@ -20,16 +20,16 @@
       "season": "Lent",
       "href": "prelent-septuagesima.json",
       "slug": "prelent/septuagesima",
-      "last-updated": 1517805560,
-      "status": "empty"
+      "last-updated": 1518232346,
+      "status": "complete"
     },
     {
       "name": "Sexagesima Sunday",
       "season": "Lent",
       "href": "prelent-sexagesima.json",
       "slug": "prelent/sexagesima",
-      "last-updated": 1517805560,
-      "status": "empty"
+      "last-updated": 1518232346,
+      "status": "complete"
     },
     {
       "name": "Quinquagesima Sunday",
@@ -102,6 +102,30 @@
       "slug": "lent/4",
       "last-updated": 1517978444,
       "status": "complete"
+    },
+    {
+      "name": "First Sunday of Passiontide",
+      "season": "Lent",
+      "href": "lent-passion-sunday.json",
+      "slug": "lent/passion-sunday",
+      "last-updated": 1517978444,
+      "status": "complete"
+    },
+    {
+      "name": "Friday after Passion Sunday",
+      "season": "Lent",
+      "href": "lent-passion-friday-seven-sorrows.json",
+      "slug": "lent/passion-friday",
+      "last-updated": 1517978444,
+      "status": "complete"
+    },
+    {
+      "name": "Second Sunday of Passiontide - Palm Sunday",
+      "season": "Holy Week",
+      "href": "holyweek-palm-sunday.json",
+      "slug": "lent/holy-week/palm-sunday",
+      "last-updated": 1517978444,
+      "status": "partial"
     }
   ]
 }

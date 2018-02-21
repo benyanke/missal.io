@@ -5,8 +5,30 @@
 
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
     <meta name="description" content="">
     <meta name="author" content="">
+
+    <script>
+      var Hyphenopoly = {
+          require: {
+              "la": "FORCEHYPHENOPOLY",
+              "en-us": "FORCEHYPHENOPOLY"
+          },
+          paths: {
+              patterndir: "vendor/hyphenator/patterns/",
+              maindir: "vendor/hyphenator/"
+          },
+          setup: {
+              classnames: {
+                  "hyphenate": {}
+              }
+          }
+      };
+    </script>
+    <script src="vendor/hyphenator/Hyphenopoly_Loader.js"></script>
+
 
     <title>Missal.io</title>
 
@@ -33,6 +55,16 @@
 
     </style>
 
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-114467819-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+    
+      gtag('config', 'UA-114467819-1');
+    </script>
+
   </head>
 
   <body>
@@ -55,12 +87,15 @@
 
               <li class="nav-item">
                 <a class="nav-link"  v-bind:class="{ disabled: currentLiturgy == null }"  v-on:click="clearLiturgy(); navHide()">
-		  Back
-		</a>
+            		  Back
+            		</a>
               </li>
 
               <li class="nav-item">
                 <a class="nav-link" :href="apiIndex" target="_blank">API</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="https://github.com/benyanke/missal.io" target="_blank">Github</a>
               </li>
 
             </ul>
@@ -127,19 +162,19 @@
             </div>
 
             <!-- Regular text entries -->
-            <div v-else class="row m-2">
+            <div v-else class="row m-2 hyphenate">
 
-              <div class="col text-justify text-latin"
+              <div class="col text text-justify text-latin hyphenate"
+                lang="la"
                 v-if="getElementByKey(section.text, 'lang', 'la')"
                 v-html="getElementByKey(section.text, 'lang', 'la').content">
               </div>
 
-              <div class="col text-justify text-english"
+              <div class="col text text-justify text-english hyphenate"
+                lang="en"
                 v-if="getElementByKey(section.text, 'lang', 'en')"
                 v-html="getElementByKey(section.text, 'lang', 'en').content">
               </div>
-
-
             </div>
 
 <!--
@@ -181,6 +216,8 @@
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+
+    <!-- Hypthenator -->
 
     <!-- VueJS -->
     <!-- use min for production -->

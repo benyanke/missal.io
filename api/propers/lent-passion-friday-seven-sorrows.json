@@ -1,0 +1,217 @@
+{
+  "name": "Commemoration of the Seven Sorrows of the Blessed Virgin Mary",
+  "compiledBy": "Ben Yanke",
+  "liturgyType": "Mass",
+  "liturgyClass": "other",
+  "season": "lent",
+  "sourceName": "maternal-heart",
+  "sourceLink": "http://www.maternalheart.org/propers/Septuagesima%20to%20Passion%20Sunday/Friday%20in%20Passion%20Week/Commemoration%20of%20the%20Seven%20Sorrows%20of%20the%20Blessed%20Virgin%20Mary.pdf",
+  "textblocks": [
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": "STABANT juxta crucem Jesu mater ejus, et soror matris María Cléophæ, et Salóme, et María Magdaléne. Múlier, ecce fílius tuus: dixit Jesus; ad discípulum autem: Ecce mater tua. Gloria Patri."
+        },
+        {
+          "lang": "en",
+          "content": "There stood by the cross of Jesus, His mother, and His mother's sister Mary of Cleophas, and Salome, and Mary Magdalen. Woman, behold thy son, said Jesus; and to the disciple, Behold thy mother. Glory be to the Father."
+        }
+      ],
+      "citation": "John 19: 25, 26, 27",
+      "type": "introit"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": "DEUS, in cujus passione, secundum Simeonis prophetiam, dulcissimam animam gloriosæ Virginis et Matris Mariæ doloris gladius pertransivit: concede propitius; ut, qui transfixionem ejus et passionem venerando recolimus, gloriosis meritis et precibus omnium Sanctorum cruci fideliter astantium intercedentibus, passionis tuæ effectum felicem consequamur: Qui vivis et regnas."
+        },
+        {
+          "lang": "en",
+          "content": "O God, in Whose Passion, according to the prophecy of Simeon, the sword of sorrow did pierce the most sweet soul of the glorious Mary, Virgin and Mother; mercifully grant that we who call to mind with veneration her anguish and suffering, may obtain the blessed fruit of Thy Passion through the glorious merits and prayers of all the Saints who have faithfully stood by the cross interceding for us: Who livest and reignest."
+        }
+      ],
+      "type": "collect"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": "BENEDÍXIT te Dóminus in virtúte sua, quia per te ad níhilum redégit inimícus nostros. Benedícta es tu fília a Dómino Deo excélso, præ ómnibus muliéribus super terram. Benedíctus Dómine, qui creávit cœlum et terram: quia hódie nomen tuum ita magnificávit, ut non recédat laus tua de ore hóminum, qui mémores fúerint virtútis Dómini in ætérnum, pro quibus non pepercísti ánimæ tuæ propter angústias et tribulatiónem géneris tui, sed subvenísti ruínæ ante conspéctum Dei nostri."
+        },
+        {
+          "lang": "en",
+          "content": "The Lord hath blessed thee by His power, Who by thee hath brought our enemies to nought. Blessed art thou, O daughter, by the Lord the most high God, above all women upon the earth. Blessed be the Lord Who made Heaven and earth, because He hath so magnified thy name this day, that thy praise shall not depart out of the mouth of men, who shall be mindful of the power of the Lord forever; for that thou hast not spared thy life by reason of the distress and tribulation of thy people, but hast prevented our ruin in the presence of our God."
+        }
+      ],
+      "citation": "Judith 13: 22, 23-25",
+      "type": "epistle"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": "DOLORÓSA et lacrimábilis es, Virgo Maria, stans juxta crucem Dómini Jesu Fílii tui Redemptóris. Virgo Dei Génitrix, quem totus non capit orbis, hoc crucis fert supplícium, auctor vitæ fact us homo."
+        },
+        {
+          "lang": "en",
+          "content": "Sorrowful and tearful art thou, O Virgin Mary, standing by the cross of the Lord Jesus, thy Son and Redeemer. O Virgin Mother of God, He Whom the whole earth containeth not, the Author of life, made man, beareth this anguish of the cross."
+        }
+      ],
+      "type": "gradual"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": "STABAT sancta Maria cœli Regina, et mundi Domina, juxta crucem Domini nostri Jesu Christi dolorosa. O vos omnes, qui transitis per viam, attendite, et videte, si est dolor meus."
+        },
+        {
+          "lang": "en",
+          "content": "Holy Mary, the Queen of heaven and mistress of the world, stood by the cross of our Lord Jesus Christ, full of sorrows. O all ye that pass by the way, attend, and see if there be any sorrow like to my sorrow."
+        }
+      ],
+      "citation": "Lamentations 1: 12",
+      "type": "tract"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": [
+            "1. Stabat Mater dolorosa, Juxta crucem lacrimosa, Dum pendebat Filius.",
+            "2. Cujus animam gemendtem, Constristatam et dolentem, Pertransivit gladius.",
+            "3. O quam tristis et afflicta Fuit illa benedicta Mater Unigeniti!",
+            "4. Quæ mærebat, et dolebat, Pia Mater dum videbat Nati pœnas inclyti.",
+            "5. Quis est homo; qui non fieret, Matrem Christi si videret In tanto supplicio?",
+            "6. Quis non posset contristari, Christi Matrem contemplari Dolentem cum Filio?",
+            "7. Pro peccatis suæ gentis Vidit Jesum in tormentis Et flagellis subditum.",
+            "8. Vidit suum dulcem natum Moriendo desolatum, Dum emfsit spiritum.",
+            "9. Eia Mater, fons amoris, Me sentire vim doloris Fac, ut tecum lugeam.",
+            "10. Fac ut ardeat cor meum In amando Christum Deum, Ut sibi complaceam.",
+            "11. Sancta Mater, istud agas, Crucifixi fige plagas Cordi meo valide.",
+            "12. Tui nati vulnerati, Tam dignati pro me pati, Pœnas mecum divide.",
+            "13. Fac me tecum pie flere, Crucifixo condolere, Donec ego vixero.",
+            "14. Juxta crucem tecum stare, Et me tibi sociare In planctu desidero.",
+            "15. Virgo Virginum præclara, Mihi jam non sis amara: Fac me tecum plangere.",
+            "16. Fac ut portem Christi mortem, Passionis fac consortem, Et plagas recolere.",
+            "17. Fac me plagis vulnerary Fac me cruce inebriari, Et cruore Filii.",
+            "18. Flammis ne urar succensus. Per te, Virgo, sim defenses, In die jucidii.",
+            "19. Christe, cum sit hinc exire, Da per Matrem me venire Ad palmam victoriæ.",
+            "20. Quando corpus morietur, Fac ut animæ donetur Paradisi gloria.",
+            "Amen."
+          ]
+        },
+        {
+          "lang": "en",
+          "content": [
+            "1. At the cross her station keeping, stood the mournful Mother weeping, close to Jesus to the last.",
+            "2. Through her heart, His sorrow sharing, all his bitter anguish bearing, now at length the sword had pass'd.",
+            "3. Oh, how sad and sore distress'd was that Mother, highly blest of the sole-begotten One!",
+            "4. Christ above in torment hangs; she beneath beholds the pangs of her dying glorious Son.",
+            "5. Is there one who would not weep whelmi'd in miseries so deep Christ's dear Mother to behold.",
+            "6. Can the human heart refrain from partaking in her pain, in that Mother's pain untold?",
+            "7. Bruis'd, derided, curs'd, defil'd, she beheld her tender child: all with bloody scourges rent.",
+            "8. For the sins of His own nation, saw Him hang in desolation, till His spirit forth He sent.",
+            "9. O thou Mother! Font of love! touch my spirit from above; make my heart with thine accord.",
+            "10. Make me feel as thou hast felt; make my soul to glow and melt with the love of Christ our Lord.",
+            "11. Holy Mother! Pierce me through; in my heart each wound renew of my Saviour crucified.",
+            "12. Let me share with thee His pain, Who for all my sins was slain, Who for me in torments died.",
+            "13. Let me mingle tears with thee, mourning Him who mounr'd for me, all the days that I may life.",
+            "14. By the cross with thee to stay, there with thee to weep and pray, is all I ask of thee to give.",
+            "15. Virgin of all virgins best, listen to my fond request: Let me share thy grief divine.",
+            "16. Let me, to my latest breath, in my body bear the death of that dying Son of thine.",
+            "17. Wounded with His every wound, steep my soul till it hath swoon'd in His very blood away.",
+            "18. Be to me, O Virgin, nigh, lest in flames I burn and die, in His awful Judgment day.",
+            "19. Christ, when Thou shalt call me hence, be Thy Mother my defense, be Thy cross my victory.",
+            "20. While my body here decays, may my soul Thy goodness praise, safe in Paradise with Thee.",
+            "Amen."
+          ]
+        }
+      ],
+      "type": "sequence"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": "IN illo tempore: Stabant autem juxta crucem Jesu mater ejus, et soror matris ejus, Maria Cleophæ, et Maria Magdalene. Cum vidisset ergo Jesus matrem, et discipulum stantem, quem diligebat, dicit matri suæ: Mulier ecce filius tuus. Deinde dicit discipulo: Ecce mater tua. Et ex illa hora accepit eam discipulus in sua."
+        },
+        {
+          "lang": "en",
+          "content": "At that time: There stood by the cross of Jesus, his mother and his mother's sister, Mary of Cleophas, and Mary Magdalen. When Jesus therefore had seen His mother and the disciple standing whom He loved, He saith to His mother: Woman, behold thy son. After that, He saith to the disciple: Behold thy mother. And from that hour, the disciple took her to his own."
+        }
+      ],
+      "citation": "John 19: 25-27",
+      "type": "gospel"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": "RECORDÁRE, Virgo Mater Dei, dum stéteris in conspéctu Dómini, ut loquáris pro nobis bona, et ut avértat indignatiónem suam a nobis."
+        },
+        {
+          "lang": "en",
+          "content": "Remember, O Virgin Mother of God, when thou standest in the presence of the Lord, that thou speak good things for us and turn His wrath from us."
+        }
+      ],
+      "citation": "Jeremias 18: 20",
+      "type": "offertory"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": "OFFERIMUS tibi preces et hostias, Domine Jesu Christe, humiliter supplicantes: ut, qui Transfixionem dulcissimi spiritus beatae Mariae Matris suae precibus recensemus; suo suorumque sub cruce Sanctorum consortium multiplicato piissimo interventu, meritis mortis tuae, meritum cum beatis habeamus: Qui vivis et regnas."
+        },
+        {
+          "lang": "en",
+          "content": "We offer unto Thee our prayers and oblations, O Lord Jesus Christ, and humbly beseech Thee that, even as in our prayers we recall the piercing of the most sweet soul of Thy blessed Mother Mary, so through the merits of Thy death, and the repeated loving intercession of Thy Mother and her holy companions at the foot of the cross, we may share in the reward of the blessed: Who livest and reignest."
+        }
+      ],
+      "type": "secret"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": "VERE dignum et justum est, æquum et salutare, nos tibi semper, et ubique gratias agere: Domine sancte, Pater Omnipotens, æterne Deus : Et te in Festivitate beatæ Mariæ semper Virginis collaudare, benedicere et prædicare. Quæ et Unigenitum tuum Sancti Spiritus obumbratione concepit : et virginitatis gloria permanente, lumen æternum mundo effudit, Jesum Christum Dominum nostrum. Per quem majestatem ruam laudant Angeli, adorant Domininationes, tremunt Potestates Cœli, cœlorumque Virtutes, ac beata Seraphim, socia ex sulatione concelebrant. Cum quibus et nostras voces, ut admitti jubeas, deprecamur, supplici confessione dicentes:"
+        },
+        {
+          "lang": "en",
+          "content": "It is truly meet and just, right and availing unto salvation, that we should at all times and in all places give thanks unto Thee, O holy Lord, Father almighty and everlasting God. That on the Festival of the blessed Virgin Mary, we should praise, bless and proclaim Thee. For she conceived Thine only-begotten Son by the over-shadowing of the Holy Ghost; and losing not the glory of her virginity, gave forth to the world the everlasting light, Jesus Christ our Lord. Through whom the angels praise Thy majesty, the Dominions worship it, and the powers stand in awe. The Heavens and the heavenly Hosts, and the blessed Seraphim join together in celebrating their joy. With these we pray Thee join our voices also, while we say with lowly praise:"
+        }
+      ],
+      "type": "preface",
+      "heading": "Preface of the Blessed Virgin Mary"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": "FELÍCES sensus beátæ Maríæ Vírginis, qui sine morte meruérunt mártyrii palmam sub cruce Dómini."
+        },
+        {
+          "lang": "en",
+          "content": "Happy the Heart of the blessed Virgin Mary, which without dying earned the palm of martyrdom beneath the cross of our Lord."
+        }
+      ],
+      "type": "communion"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": "SACRIFÍCIA, quæ súmpsimus Dómine Jesu Christe, Transfixiónem Matris tua et Vírginis devóte celebrántes: nobis ímpetrent apud cleméntiam tuam omnis boni salutáris efféctum: Qui vivis et regnas."
+        },
+        {
+          "lang": "en",
+          "content": "May the sacrifices of which we have partaken, O Lord Jesus Christ, devoutly celebrating the piercing of Thy virgin Mother's soul, obtain for us with Thy clemency the effect of every salutary benefit. Who livest and reignest."
+        }
+      ],
+      "type": "postcommunion"
+    }
+  ]
+}
