@@ -1,0 +1,162 @@
+{
+  "name": "Holy Saturday",
+  "compiledBy": "Ben Yanke",
+  "liturgyType": "Mass",
+  "liturgyClass": "other",
+  "season": "triduum",
+  "sourceName": "maternal-heart",
+  "sourceLink": "http://www.maternalheart.org/propers/HolyWeek/Holy%20Saturday/Paschal%20Vigil.pdf",
+  "textblocks": [
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": ""
+        },
+        {
+          "lang": "en",
+          "content": ""
+        }
+      ],
+      "citation": "",
+      "type": "introit"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": ""
+        },
+        {
+          "lang": "en",
+          "content": ""
+        }
+      ],
+      "type": "collect"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": ""
+        },
+        {
+          "lang": "en",
+          "content": ""
+        }
+      ],
+      "citation": "",
+      "type": "epistle"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": ""
+        },
+        {
+          "lang": "en",
+          "content": ""
+        }
+      ],
+      "citation": "",
+      "type": "gradual"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": ""
+        },
+        {
+          "lang": "en",
+          "content": ""
+        }
+      ],
+      "citation": "",
+      "type": "tract"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": ""
+        },
+        {
+          "lang": "en",
+          "content": ""
+        }
+      ],
+      "citation": "",
+      "type": "gospel"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": ""
+        },
+        {
+          "lang": "en",
+          "content": ""
+        }
+      ],
+      "citation": "",
+      "type": "offertory"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": ""
+        },
+        {
+          "lang": "en",
+          "content": ""
+        }
+      ],
+      "type": "secret"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": ""
+        },
+        {
+          "lang": "en",
+          "content": ""
+        }
+      ],
+      "type": "preface",
+      "heading": "Preface for Lent"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": ""
+        },
+        {
+          "lang": "en",
+          "content": ""
+        }
+      ],
+      "citation": "",
+      "type": "communion"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": ""
+        },
+        {
+          "lang": "en",
+          "content": ""
+        }
+      ],
+      "type": "postcommunion"
+    }
+  ]
+}

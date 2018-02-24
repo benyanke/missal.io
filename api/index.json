@@ -134,6 +134,32 @@
       "slug": "triduum/thusday",
       "last-updated": 1519439993,
       "status": "partial"
+    },
+    {
+      "name": "Good Friday",
+      "season": "Triduum",
+      "href": "triduum-good-friday.json",
+      "slug": "triduum/friday",
+      "last-updated": 1519439993,
+      "status": "blank"
+
+    },
+    {
+      "name": "Easter Vigil",
+      "season": "Triduum",
+      "href": "triduum-saturday.json",
+      "slug": "triduum/saturday",
+      "last-updated": 1519439993,
+      "status": "blank"
+
+    },
+    {
+      "name": "Easter Sunday",
+      "season": "Easter",
+      "href": "easter.json",
+      "slug": "triduum/saturday",
+      "last-updated": 1519439993,
+      "status": "blank"
     }
   ]
 }
