@@ -127,14 +127,13 @@
       "last-updated": 1519438891,
       "status": "complete"
     },
-
     {
       "name": "Holy Thursday - Evening",
       "season": "Triduum",
       "href": "triduum-holy-thursday-evening.json",
       "slug": "triduum/thusday",
-      "last-updated": 1519438891,
-      "status": "blank"
-    },
+      "last-updated": 1519439993,
+      "status": "partial"
+    }
   ]
 }

@@ -1,35 +1,53 @@
 {
-  "name": "Third Sunday in Lent",
+  "name": "Holy Thursday - Mass of the Lord's Supper",
   "compiledBy": "Ben Yanke",
   "liturgyType": "Mass",
   "liturgyClass": "other",
-  "season": "lent",
+  "season": "triduum",
   "sourceName": "maternal-heart",
-  "sourceLink": "http://www.maternalheart.org/propers/Septuagesima%20to%20Passion%20Sunday/Fourth%20Sunday%20in%20Lent/Fourth%20Sunday%20in%20Lent.pdf",
+  "sourceLink": "http://www.maternalheart.org/propers/HolyWeek/Holy%20Thursday/Holy%20Thursday.pdf",
   "textblocks": [
     {
       "text": [
         {
-          "lang": "la",
-          "content": ""
-        },
-        {
           "lang": "en",
-          "content": ""
+          "content": "The tabernacle is empty, because, today, communion is given only with newly consecrated hosts."
         }
       ],
-      "citation": "",
-      "type": "introit"
+      "type": "rubric"
     },
     {
       "text": [
         {
           "lang": "la",
-          "content": ""
+          "content": "NOS autem gloriari oportet in cruce Domini nostri Jesu Christi: in quo est salus, vita, et resurrectio nostra: per quem salvati, et liberati sumus. <em>Ps. 66: 2.</em> Deus misereatur nostri, et benedicat nobis: illuminet vultum suum super nos, et misereatur nostri."
         },
         {
           "lang": "en",
-          "content": ""
+          "content": "But it behooves us to glory in the cross of our Lord Jesus Christ: in Whom is our salvation, life, and resurrection: by Whom we are saved and delivered. <em>Ps.</em> May God have mercy on us, and bless us: may He cause the light of His countenance to shine upon us; and may He have mercy on us."
+        }
+      ],
+      "citation": "Galatians 6: 14",
+      "type": "introit"
+    },
+    {
+      "text": [
+        {
+          "lang": "en",
+          "content": "All the bells are rung at the Gloria in excelcis and then, with the organ, and then are silent until Easter Eve. A clapper replaces the altar bell."
+        }
+      ],
+      "type": "rubric"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": "DEUS, a quo et Judas reatus sui pœnam, et confessionis suæ latro præmium sumpsit, concede nobis tuæ propitiationis effectum; ut, sicut in passione sua Jesus Christus, Dominus noster, diversa utrisque intulit stipendia meritorum; ita nobis, ablato vetustatis errore, resurrectionis suæ gratiam largiatur. Qui tecum vivit et regnat."
+        },
+        {
+          "lang": "en",
+          "content": "O God, from whom Judas received the punishment of his guilt, and the thief the reward of his confession, grant us the effect of Thy clemency; that even as in His passion our Lord Jesus Christ gave to each a different recompense according to his merits, so may He deliver us from our old sins and grant us the grace of His Resurrection. Who with Thee livest and reignest."
         }
       ],
       "type": "collect"
@@ -38,56 +56,42 @@
       "text": [
         {
           "lang": "la",
-          "content": ""
+          "content": "FRATRES: Convenientibus vobis in unum, jam non est Dominicam cœ- nam manducare. Unusquisque enim suam cœnam præsumit ad manducandum. Et alius quidem esurit: Alius autem ebrius est. Numquid domos non habetis ad manducandum et bibendum? Aut ecclesiam Dei contemnitis, et confunditis eos, qui non habent? Quid dicam vobis? Laudo vos? In hoc non laudo. Ego enim accepi a Domino, quod et tradidi vobis, quoniam Dominus Jesus in qua nocte tradebatur, accepit panem, et gratias agens fregit, et dixit: Accipite, et manducate: hoc est corpus meum, quod pro vobis tradetur: hoc facite in meam commemorationem. Similiter et calicem, postquam cœnavit, dicens: Hic calix novum testamentum est in meo sanguine: hoc facite, quotiescumque bibetis, in meam commemorationem. Quotiescumque emin manducabitis panem hunc, et calicem bibetis, mortem Domini annuntiabitis donec veniat. Itaque quicumque manducaverit panem hunc, vel biberit calicem Domini indigne, reus erit corporis et sanguinis Domini. Probet autem seipsum homo, et sic de pane illo edat, et de calice bibat. Qui enim manducat et bibet indigne, judicium sibi manducat et bibit: non dijudicans corpus Domini. Ideo inter vos multi infirmi et imbecilles, et dormiunt multi. Quod si nosmetipsos dijudicaremus, non utique judicaremur. Dum judicamur autem, a Domino corripimur, ut non cum hoc mundo damnemur"
         },
         {
           "lang": "en",
-          "content": ""
+          "content": "Brethren: When you come therefore together into one place, it is not now to eat the Lord's supper. For every one taketh before his own supper to eat. And one indeed is hungry and another is drunk. What, have you not houses to eat and to drink in? Or despise ye the church of God and put them to shame that have not? What shall I say to you? Do I praise you? In this I praise you not. For I have received of the Lord that which I also delivered unto you, that the Lord Jesus, the same night in which He was betrayed, took bread, and giving thanks, broke and said: Take ye and eat: This is My Body, which shall be delivered for you. This do for the commemoration of Me. In like manner also the chalice, after He had supped, saying: This chalice is the new testament in My Blood. This do ye, as often as you shall drink, for the commemoration of Me. For as often as you shall eat this bread and drink the chalice, you shall show the death of the Lord, until He come. Therefore, whosoever shall eat this bread, or drink the chalice of the Lord unworthily, shall be guilty of the Body and the Blood of the Lord. But let a man prove himself; and so let him eat of that bread and drink of the chalice. For he that eateth and drinketh unworthily eateth and drinketh judgment to himself, not discerning the Body of the Lord. Therefore are there many infirm and weak among you: and many sleep. But if we would judge ourselves, we should not be judged. But whilst we are judged, we are chastised by the Lord, that we be not condemned with this world."
         }
       ],
-      "citation": "",
+      "citation": "1 Corinthians 11: 20-32",
       "type": "epistle"
     },
     {
       "text": [
         {
           "lang": "la",
-          "content": ""
+          "content": "CHRISTUS factus est pro nobis obediens usque ad mortem, mortem autem crucis. V. Propter quod et Deus exaltavit illum: et dedit illi nomen, quod est super omne nomen."
         },
         {
           "lang": "en",
-          "content": ""
+          "content": "Christ became obedient for us unto death, even to the death of the cross. V. For which cause God also exalted Him and hath given Him a Name which is above all names."
         }
       ],
-      "citation": "",
+      "citation": "Philippians 2: 8, 9",
       "type": "gradual"
     },
     {
       "text": [
         {
           "lang": "la",
-          "content": ""
+          "content": "ANTE diem festum Paschæ, sciens Jesus, quia venit hora ejus, ut transeat ex hoc mundo ad Patrem: cum dilexisset suos, qui erant in mundo, in finem dilexit eos. Et cœna facta, cum diabolus jam mississet in cor, ut traderet eum Judas Simonis Iscariotæ: sciens quia omnia dedit ei Pater in manus, et quia a Deo exivit, et ad Deum vadit: surgit a cœna, et ponit vestimenta sua: et cum accepisset linteum, præcinxit se. Deinde mittit aquam in pelvim, et cœpit lavare pedes discipulorum, et extergere linteo, quo erat præcinctus. Venit ergo ad Simonem Petrum. Et dicit ei Petrus: Domine, tu mihi lavas pedes? Respondit Jesus, et dixit ei: Quod ego facio, tu nescis modo, scies autem postea. Dicit ei Petrus: Non lavabis mihi pedes in æternum. Respondit et Jesus: Si non lavero te, non habebis partem mecum. Dicit et Simon Petrus: Domine, non tantum pedes meos, sed et manus, et caput. Dicit ei Jesus: Qui lotus est, non indiget nisi ut pedes lavit, sed est mundus totus. Et vos mundi estis, sed non omnes. Sciebat enim quisnam esset qui traderet eum: propterea dixit: Non estis mundi omnes. Postquam ergo lavit pedes eorum, et accepit vestimenta sua: cum recubuisset iterum, dixit eis: Scitis quid fecerim vobis? Vos vocatis me Magister et Domine: et bene dicitis, sum etenim. Si ergo ego lavi pedes vestros, Dominus et Magister: et vos debetis alter alterius lavare pedes. Exemplum enim dedi vobis, ut quemadmodum ego feci vobis, ita et vos faciatis."
         },
         {
           "lang": "en",
-          "content": ""
+          "content": "Before the festival-day of the Pasch, Jesus knowing that His hour was come, that He should pass out of this world to the Father, having loved His own who were in the world. He loved them unto the end. And when supper was done (the devil having now put into the heart of Judas, the son of Simon the Iscariot, to betray Him), knowing that the Father had given Him all things into His hands and that He came from God and goeth to God: He riseth from supper and layeth aside His garments and, having taken a towel, girded Himself. After that, He putteth water into a basin and began to wash the feet of the disciples and to wipe them with the towel wherewith He was girded. He cometh therefore to Simon Peter. And Peter saith to Him: Lord, dost Thou wash my feet? Jesus answered and said to him: What I do, thou knowest not now: but thou shalt know hereafter. Peter saith to Him: Thou shalt never wash my feet. Jesus answered him: If I wash thee not, thou shalt have no part with Me. Simon Peter saith to Him: Lord, not only my feet, but also my hands and my head. Jesus saith to him: He that is washed needeth not but to wash his feet, but is clean wholly. And you are clean, but not all. For He knew who he was that would betray Him; therefore He said: You are not all clean. Then after He had washed their feet and taken His garments, being set down again, He said to them: Know you what I have done to you? You call Me Master and Lord. And you say well; for so I am. If then I being your Lord and Master, have washed your feet, you also ought to wash one another's feet. For I have given you an example, that as I have done to you, so you do also."
         }
       ],
-      "citation": "",
-      "type": "tract"
-    },
-    {
-      "text": [
-        {
-          "lang": "la",
-          "content": ""
-        },
-        {
-          "lang": "en",
-          "content": ""
-        }
-      ],
-      "citation": "",
+      "citation": "John 13: 1-15",
       "type": "gospel"
     },
     {
