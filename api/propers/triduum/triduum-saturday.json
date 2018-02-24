@@ -1,11 +1,12 @@
 {
-  "name": "Good Friday",
+  "name": "Holy Saturday",
   "compiledBy": "Ben Yanke",
   "liturgyType": "Mass",
   "liturgyClass": "other",
   "season": "triduum",
   "sourceName": "maternal-heart",
-  "sourceLink": "http://www.maternalheart.org/propers/HolyWeek/Good%20Friday/Good%20Friday.pdf",
+  "seasonSortKey": 3,
+  "sourceLink": "http://www.maternalheart.org/propers/HolyWeek/Holy%20Saturday/Paschal%20Vigil.pdf",
   "textblocks": [
     {
       "text": [

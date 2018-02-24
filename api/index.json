@@ -18,7 +18,7 @@
     {
       "name": "Septuagesima Sunday",
       "season": "Lent",
-      "href": "prelent-septuagesima.json",
+      "href": "prelent/1.json",
       "slug": "prelent/septuagesima",
       "last-updated": 1518232346,
       "status": "complete"
@@ -26,7 +26,7 @@
     {
       "name": "Sexagesima Sunday",
       "season": "Lent",
-      "href": "prelent-sexagesima.json",
+      "href": "prelent/2.json",
       "slug": "prelent/sexagesima",
       "last-updated": 1518232346,
       "status": "complete"
@@ -34,7 +34,7 @@
     {
       "name": "Quinquagesima Sunday",
       "season": "Lent",
-      "href": "prelent-quinquagesima.json",
+      "href": "prelent/3.json",
       "slug": "prelent/quinquagesima",
       "last-updated": 1518232346,
       "status": "complete"
@@ -42,7 +42,7 @@
     {
       "name": "Ash Wednesday",
       "season": "Lent",
-      "href": "lent-ashwed.json",
+      "href": "lent/0.json",
       "slug": "lent/ash/wed",
       "last-updated": 1517805560,
       "status": "complete"
@@ -50,7 +50,7 @@
     {
       "name": "Thursday after Ash Wednesday",
       "season": "Lent",
-      "href": "lent-thursday-after-ash-wed.json",
+      "href": "lent/0-1.json",
       "slug": "lent/ash/thurs",
       "last-updated": 1517805560,
       "status": "empty"
@@ -58,7 +58,7 @@
     {
       "name": "Friday after Ash Wednesday",
       "season": "Lent",
-      "href": "lent-friday-after-ash-wed.json",
+      "href": "lent/0-2.json",
       "slug": "lent/ash/fri",
       "last-updated": 1517805560,
       "status": "empty"
@@ -66,7 +66,7 @@
     {
       "name": "Saturday after Ash Wednesday",
       "season": "Lent",
-      "href": "lent-saturday-after-ash-wed.json",
+      "href": "lent/0-3.json",
       "slug": "lent/ash/sat",
       "last-updated": 1517805560,
       "status": "empty"
@@ -74,7 +74,7 @@
     {
       "name": "First Sunday in Lent",
       "season": "Lent",
-      "href": "lent-1.json",
+      "href": "lent/1.json",
       "slug": "lent/1",
       "last-updated": 1517813524,
       "status": "complete"
@@ -82,7 +82,7 @@
     {
       "name": "Second Sunday in Lent",
       "season": "Lent",
-      "href": "lent-2.json",
+      "href": "lent/2.json",
       "slug": "lent/2",
       "last-updated": 1517978444,
       "status": "complete"
@@ -90,7 +90,7 @@
     {
       "name": "Third Sunday in Lent",
       "season": "Lent",
-      "href": "lent-3.json",
+      "href": "lent/3.json",
       "slug": "lent/3",
       "last-updated": 1517978444,
       "status": "complete"
@@ -98,7 +98,7 @@
     {
       "name": "Fourth Sunday in Lent",
       "season": "Lent",
-      "href": "lent-4.json",
+      "href": "lent/4.json",
       "slug": "lent/4",
       "last-updated": 1517978444,
       "status": "complete"
@@ -106,7 +106,7 @@
     {
       "name": "First Sunday of Passiontide",
       "season": "Lent",
-      "href": "passiontide-1.json",
+      "href": "passiontide/1.json",
       "slug": "passiontide/1",
       "last-updated": 1517978444,
       "status": "complete"
@@ -114,7 +114,7 @@
     {
       "name": "Friday after Passion Sunday",
       "season": "Passiontide",
-      "href": "passiontide-friday-seven-sorrows.json",
+      "href": "passiontide/1-5.json",
       "slug": "passiontide/1/friday",
       "last-updated": 1517978444,
       "status": "complete"
@@ -122,7 +122,7 @@
     {
       "name": "Palm Sunday - Second Sunday of Passiontide",
       "season": "Passiontide",
-      "href": "passiontide-palm-sunday.json",
+      "href": "passiontide/2.json",
       "slug": "passiontide/2",
       "last-updated": 1519438891,
       "status": "complete"
@@ -130,7 +130,7 @@
     {
       "name": "Holy Thursday - Evening",
       "season": "Triduum",
-      "href": "triduum-holy-thursday-evening.json",
+      "href": "triduum/holy-thursday-evening.json",
       "slug": "triduum/thusday",
       "last-updated": 1519439993,
       "status": "partial"
@@ -138,25 +138,23 @@
     {
       "name": "Good Friday",
       "season": "Triduum",
-      "href": "triduum-good-friday.json",
+      "href": "triduum/good-friday.json",
       "slug": "triduum/friday",
       "last-updated": 1519439993,
       "status": "blank"
-
     },
     {
       "name": "Easter Vigil",
       "season": "Triduum",
-      "href": "triduum-saturday.json",
+      "href": "triduum/saturday.json",
       "slug": "triduum/saturday",
       "last-updated": 1519439993,
       "status": "blank"
-
     },
     {
       "name": "Easter Sunday",
       "season": "Easter",
-      "href": "easter.json",
+      "href": "easter/0.json",
       "slug": "triduum/saturday",
       "last-updated": 1519439993,
       "status": "blank"
