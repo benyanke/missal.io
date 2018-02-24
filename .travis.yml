@@ -1,0 +1,12 @@
+language: python
+matrix:
+  include:
+  - python: "3.1"
+    env: TEST_SUITE=suite_3_1
+
+install: pip install --user -r requirements.txt
+
+script: ./scripts/validate-json.py $TEST_SUITE
+script: ./scripts/build-index.py $TEST_SUITE
+
+# apt-get install python3-demjson
