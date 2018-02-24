@@ -1,11 +1,11 @@
 {
-  "name": "Easter Sunday",
+  "name": "Low Sunday",
   "compiledBy": "Ben Yanke",
   "liturgyType": "Mass",
   "liturgyClass": "other",
   "season": "easter",
   "sourceName": "maternal-heart",
-  "seasonSortKey": 0,
+  "seasonSortKey": 1,
   "sourceLink": "http://www.maternalheart.org/propers/Easter%20Season/Low%20Sunday/Low%20Sunday.pdf",
   "textblocks": [
     {
