@@ -120,12 +120,12 @@
       "status": "complete"
     },
     {
-      "name": "Second Sunday of Passiontide - Palm Sunday",
+      "name": "Palm Sunday - Second Sunday of Passiontide",
       "season": "Holy Week",
       "href": "holyweek-palm-sunday.json",
       "slug": "lent/holy-week/palm-sunday",
-      "last-updated": 1517978444,
-      "status": "partial"
+      "last-updated": 1519438891,
+      "status": "complete"
     }
   ]
 }
