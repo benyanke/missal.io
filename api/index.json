@@ -106,26 +106,35 @@
     {
       "name": "First Sunday of Passiontide",
       "season": "Lent",
-      "href": "lent-passion-sunday.json",
-      "slug": "lent/passion-sunday",
+      "href": "passiontide-1.json",
+      "slug": "passiontide/1",
       "last-updated": 1517978444,
       "status": "complete"
     },
     {
       "name": "Friday after Passion Sunday",
-      "season": "Lent",
-      "href": "lent-passion-friday-seven-sorrows.json",
-      "slug": "lent/passion-friday",
+      "season": "Passiontide",
+      "href": "passiontide-friday-seven-sorrows.json",
+      "slug": "passiontide/1/friday",
       "last-updated": 1517978444,
       "status": "complete"
     },
     {
       "name": "Palm Sunday - Second Sunday of Passiontide",
-      "season": "Holy Week",
-      "href": "holyweek-palm-sunday.json",
-      "slug": "lent/holy-week/palm-sunday",
+      "season": "Passiontide",
+      "href": "passiontide-palm-sunday.json",
+      "slug": "passiontide/2",
       "last-updated": 1519438891,
       "status": "complete"
-    }
+    },
+
+    {
+      "name": "Holy Thursday - Evening",
+      "season": "Triduum",
+      "href": "triduum-holy-thursday-evening.json",
+      "slug": "triduum/thusday",
+      "last-updated": 1519438891,
+      "status": "blank"
+    },
   ]
 }
