@@ -18,11 +18,12 @@ content is valid and linted as well.
 
 Example linting rules might include:
  * no trailing spaces at the end of a string
- * ensuring that non-optional fields are not blank
+ * ensure that non-optional fields are not blank
+ * ensure that multi-line texts (like hymns) have the same number of lines in every provided language
+ * ensure the text-block category is one of the pre-approved ones (collect, introit, offertory, etc)
 
 Additionally, the index should be created in the future by the builds process, and possibly even a static
 HTML frontend based on the backend.
-
 
 
 ## Roadmap
