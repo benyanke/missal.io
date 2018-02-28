@@ -11,12 +11,13 @@ python:
 #  - "3.7-dev"  # 3.7 development branch
 
 # command to install dependencies
-install:
-  - pip install -r scripts/requirements.txt
+# install:
+# - pip install -r scripts/requirements.txt
 
 # command to run tests
 script:
-  - ./scripts/validate-json.py $TEST_SUITE
+  - ./scripts/validate-json.py
   - ./scripts/build-index.py $TEST_SUITE
 
 # apt-get install python3-demjson
+
