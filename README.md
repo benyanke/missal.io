@@ -1,6 +1,6 @@
 # Missal.io
 
-![build status of dev branch](https://travis-ci.org/benyanke/missal.io.svg?branch=data)
+![build status of gh-pages branch](https://travis-ci.org/benyanke/missal.io.svg?branch=gh-pages)
 
 ## Goals
 This is a backend data project designed to put the content of the 1962 (and older) Roman Missals
