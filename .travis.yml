@@ -1,12 +1,22 @@
 language: python
-matrix:
-  include:
-  - python: "3.1"
-    env: TEST_SUITE=suite_3_1
+python:
+#  - "2.6"
+#  - "2.7"
+#  - "3.3"
+#  - "3.4"
+#  - "3.5"
+#  - "3.5-dev"  # 3.5 development branch
+  - "3.6"
+#  - "3.6-dev"  # 3.6 development branch
+#  - "3.7-dev"  # 3.7 development branch
 
-install: pip install --user -r requirements.txt
+# command to install dependencies
+install:
+  - pip install -r scripts/requirements.txt
 
-script: ./scripts/validate-json.py $TEST_SUITE
-script: ./scripts/build-index.py $TEST_SUITE
+# command to run tests
+script:
+  - ./scripts/validate-json.py $TEST_SUITE
+  - ./scripts/build-index.py $TEST_SUITE
 
 # apt-get install python3-demjson
