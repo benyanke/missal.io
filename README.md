@@ -20,6 +20,9 @@ Example linting rules might include:
  * ensure that non-optional fields are not blank
  * ensure that multi-line texts (like hymns) have the same number of lines in every provided language
  * ensure the text-block category is one of the pre-approved ones (collect, introit, offertory, etc)
+ * Ensure no newline characters
+
+Also, consider putting all files through a json formatter so that the final files in gh-pages branch look consistent.
 
 Additionally, the index should be created in the future by the builds process, and possibly even a static
 HTML frontend based on the backend, which would then be auto-committed to the gh-pages branch. In this future 
