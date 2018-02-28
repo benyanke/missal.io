@@ -1,32 +1,31 @@
-# Missal
+# Missal.io
 
-**fyi - readme is horribly out of date. discard me.**
+![build status of dev branch](https://travis-ci.org/benyanke/missal.io.svg?branch=data)
 
-**also - ash wednesday is horribly broken. This due to the frontend, backend is correct**
+## Goals
+This is a backend data project designed to put the content of the 1962 (and older) Roman Missals
+and the translations into a usable datastructure to be called as an api. 
 
-MyMissal is a Catholic Sunday hand missal web app for the Extraordinary Form, designed first for mobile devices, but also for computers.
+The primary focus will always be the /api directory as a backend datasource for other projects,
+there will also be a simple frontend app using the backend data as an example of what is possible.
 
-
-
-DB Structure
- - Types of days:
-   - Static days
-   - Relative days - based on anchor days
-   - Anchor days - calculated by formula
-   
-   
-Anchor days have a 'length', so that the range can be calculated.
+This is currently available at http://missal.io.
 
 
-Use JS like this to make the SPA easier
+## Builds
+Currently, builds only verify that they are valid json. In the future, there are plans to ensure the
+content is valid and linted as well. 
 
-function goTo(page, title, url) {
-  if ("undefined" !== typeof history.pushState) {
-    history.pushState({page: page}, title, url);
-  } else {
-    window.location.assign(url);   
-  }
-}
+Example linting rules might include:
+ * no trailing spaces at the end of a string
+ * ensuring that non-optional fields are not blank
 
-goTo("another page", "example", 'example.html');
+Additionally, the index should be created in the future by the builds process, and possibly even a static
+HTML frontend based on the backend.
 
+
+
+## Roadmap
+
+ * Add unreformed holyweek - and find a good way to denote this in the datastructure (perhaps add a missal-edition tag)
+ * Cleanup example app at missal.io - currently it does not handle non-standard liturgies well
