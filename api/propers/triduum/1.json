@@ -1,0 +1,436 @@
+{
+  "name": "Holy Thursday - Mass of the Lord's Supper",
+  "compiledBy": "Ben Yanke",
+  "liturgyType": "Mass",
+  "liturgyClass": "other",
+  "season": "triduum",
+  "sourceName": "maternal-heart",
+  "seasonSortKey": 1,
+  "sourceLink": "http://www.maternalheart.org/propers/HolyWeek/Holy%20Thursday/Holy%20Thursday.pdf",
+  "textblocks": [
+    {
+      "text": [
+        {
+          "lang": "en",
+          "content": "The tabernacle is empty, because, today, communion is given only with newly consecrated hosts."
+        }
+      ],
+      "type": "rubric"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": "NOS autem gloriari oportet in cruce Domini nostri Jesu Christi: in quo est salus, vita, et resurrectio nostra: per quem salvati, et liberati sumus. <em>Ps. 66: 2.</em> Deus misereatur nostri, et benedicat nobis: illuminet vultum suum super nos, et misereatur nostri."
+        },
+        {
+          "lang": "en",
+          "content": "But it behooves us to glory in the cross of our Lord Jesus Christ: in Whom is our salvation, life, and resurrection: by Whom we are saved and delivered. <em>Ps.</em> May God have mercy on us, and bless us: may He cause the light of His countenance to shine upon us; and may He have mercy on us."
+        }
+      ],
+      "citation": "Galatians 6: 14",
+      "type": "introit"
+    },
+    {
+      "text": [
+        {
+          "lang": "en",
+          "content": "All the bells are rung at the Gloria in excelcis and then, with the organ, and then are silent until Easter Eve. A clapper replaces the altar bell."
+        }
+      ],
+      "type": "rubric"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": "DEUS, a quo et Judas reatus sui pœnam, et confessionis suæ latro præmium sumpsit, concede nobis tuæ propitiationis effectum; ut, sicut in passione sua Jesus Christus, Dominus noster, diversa utrisque intulit stipendia meritorum; ita nobis, ablato vetustatis errore, resurrectionis suæ gratiam largiatur. Qui tecum vivit et regnat."
+        },
+        {
+          "lang": "en",
+          "content": "O God, from whom Judas received the punishment of his guilt, and the thief the reward of his confession, grant us the effect of Thy clemency; that even as in His passion our Lord Jesus Christ gave to each a different recompense according to his merits, so may He deliver us from our old sins and grant us the grace of His Resurrection. Who with Thee livest and reignest."
+        }
+      ],
+      "type": "collect"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": "FRATRES: Convenientibus vobis in unum, jam non est Dominicam cœ- nam manducare. Unusquisque enim suam cœnam præsumit ad manducandum. Et alius quidem esurit: Alius autem ebrius est. Numquid domos non habetis ad manducandum et bibendum? Aut ecclesiam Dei contemnitis, et confunditis eos, qui non habent? Quid dicam vobis? Laudo vos? In hoc non laudo. Ego enim accepi a Domino, quod et tradidi vobis, quoniam Dominus Jesus in qua nocte tradebatur, accepit panem, et gratias agens fregit, et dixit: Accipite, et manducate: hoc est corpus meum, quod pro vobis tradetur: hoc facite in meam commemorationem. Similiter et calicem, postquam cœnavit, dicens: Hic calix novum testamentum est in meo sanguine: hoc facite, quotiescumque bibetis, in meam commemorationem. Quotiescumque emin manducabitis panem hunc, et calicem bibetis, mortem Domini annuntiabitis donec veniat. Itaque quicumque manducaverit panem hunc, vel biberit calicem Domini indigne, reus erit corporis et sanguinis Domini. Probet autem seipsum homo, et sic de pane illo edat, et de calice bibat. Qui enim manducat et bibet indigne, judicium sibi manducat et bibit: non dijudicans corpus Domini. Ideo inter vos multi infirmi et imbecilles, et dormiunt multi. Quod si nosmetipsos dijudicaremus, non utique judicaremur. Dum judicamur autem, a Domino corripimur, ut non cum hoc mundo damnemur"
+        },
+        {
+          "lang": "en",
+          "content": "Brethren: When you come therefore together into one place, it is not now to eat the Lord's supper. For every one taketh before his own supper to eat. And one indeed is hungry and another is drunk. What, have you not houses to eat and to drink in? Or despise ye the church of God and put them to shame that have not? What shall I say to you? Do I praise you? In this I praise you not. For I have received of the Lord that which I also delivered unto you, that the Lord Jesus, the same night in which He was betrayed, took bread, and giving thanks, broke and said: Take ye and eat: This is My Body, which shall be delivered for you. This do for the commemoration of Me. In like manner also the chalice, after He had supped, saying: This chalice is the new testament in My Blood. This do ye, as often as you shall drink, for the commemoration of Me. For as often as you shall eat this bread and drink the chalice, you shall show the death of the Lord, until He come. Therefore, whosoever shall eat this bread, or drink the chalice of the Lord unworthily, shall be guilty of the Body and the Blood of the Lord. But let a man prove himself; and so let him eat of that bread and drink of the chalice. For he that eateth and drinketh unworthily eateth and drinketh judgment to himself, not discerning the Body of the Lord. Therefore are there many infirm and weak among you: and many sleep. But if we would judge ourselves, we should not be judged. But whilst we are judged, we are chastised by the Lord, that we be not condemned with this world."
+        }
+      ],
+      "citation": "1 Corinthians 11: 20-32",
+      "type": "epistle"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": "CHRISTUS factus est pro nobis obediens usque ad mortem, mortem autem crucis. V. Propter quod et Deus exaltavit illum: et dedit illi nomen, quod est super omne nomen."
+        },
+        {
+          "lang": "en",
+          "content": "Christ became obedient for us unto death, even to the death of the cross. V. For which cause God also exalted Him and hath given Him a Name which is above all names."
+        }
+      ],
+      "citation": "Philippians 2: 8, 9",
+      "type": "gradual"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": "ANTE diem festum Paschæ, sciens Jesus, quia venit hora ejus, ut transeat ex hoc mundo ad Patrem: cum dilexisset suos, qui erant in mundo, in finem dilexit eos. Et cœna facta, cum diabolus jam mississet in cor, ut traderet eum Judas Simonis Iscariotæ: sciens quia omnia dedit ei Pater in manus, et quia a Deo exivit, et ad Deum vadit: surgit a cœna, et ponit vestimenta sua: et cum accepisset linteum, præcinxit se. Deinde mittit aquam in pelvim, et cœpit lavare pedes discipulorum, et extergere linteo, quo erat præcinctus. Venit ergo ad Simonem Petrum. Et dicit ei Petrus: Domine, tu mihi lavas pedes? Respondit Jesus, et dixit ei: Quod ego facio, tu nescis modo, scies autem postea. Dicit ei Petrus: Non lavabis mihi pedes in æternum. Respondit et Jesus: Si non lavero te, non habebis partem mecum. Dicit et Simon Petrus: Domine, non tantum pedes meos, sed et manus, et caput. Dicit ei Jesus: Qui lotus est, non indiget nisi ut pedes lavit, sed est mundus totus. Et vos mundi estis, sed non omnes. Sciebat enim quisnam esset qui traderet eum: propterea dixit: Non estis mundi omnes. Postquam ergo lavit pedes eorum, et accepit vestimenta sua: cum recubuisset iterum, dixit eis: Scitis quid fecerim vobis? Vos vocatis me Magister et Domine: et bene dicitis, sum etenim. Si ergo ego lavi pedes vestros, Dominus et Magister: et vos debetis alter alterius lavare pedes. Exemplum enim dedi vobis, ut quemadmodum ego feci vobis, ita et vos faciatis."
+        },
+        {
+          "lang": "en",
+          "content": "Before the festival-day of the Pasch, Jesus knowing that His hour was come, that He should pass out of this world to the Father, having loved His own who were in the world. He loved them unto the end. And when supper was done (the devil having now put into the heart of Judas, the son of Simon the Iscariot, to betray Him), knowing that the Father had given Him all things into His hands and that He came from God and goeth to God: He riseth from supper and layeth aside His garments and, having taken a towel, girded Himself. After that, He putteth water into a basin and began to wash the feet of the disciples and to wipe them with the towel wherewith He was girded. He cometh therefore to Simon Peter. And Peter saith to Him: Lord, dost Thou wash my feet? Jesus answered and said to him: What I do, thou knowest not now: but thou shalt know hereafter. Peter saith to Him: Thou shalt never wash my feet. Jesus answered him: If I wash thee not, thou shalt have no part with Me. Simon Peter saith to Him: Lord, not only my feet, but also my hands and my head. Jesus saith to him: He that is washed needeth not but to wash his feet, but is clean wholly. And you are clean, but not all. For He knew who he was that would betray Him; therefore He said: You are not all clean. Then after He had washed their feet and taken His garments, being set down again, He said to them: Know you what I have done to you? You call Me Master and Lord. And you say well; for so I am. If then I being your Lord and Master, have washed your feet, you also ought to wash one another's feet. For I have given you an example, that as I have done to you, so you do also."
+        }
+      ],
+      "citation": "John 13: 1-15",
+      "type": "gospel"
+    },
+    {
+      "text": [
+        {
+          "lang": "en",
+          "content": "Washing of The Feet"
+        }
+      ],
+      "type": "section-heading"
+    },
+    {
+      "text": [
+        {
+          "lang": "en",
+          "content": "The washing of the feet takes place after the homily. The celebrant girds himself with a cloth, and assisted by his ministers, begins the washing of the feet of twelve men chosen for the ceremony. While the subdeacon holds the right foot of each of those whose feet are to be washed, the celebrant, kneeling before him, washes the foot and wipes it, the deacon handing him a towel for the wiping. Meanwhile some or all of the following antiphons are sung. concluding with the Ubi Caritas."
+        }
+      ],
+      "type": "rubric"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": "MANDATUM novum do vobis: ut diligatis invicem, sicut dilexi vos, dicit Dominus. Ps. 118: 1. Beati immaculati in via: qui ambulant in lege Domini."
+        },
+        {
+          "lang": "en",
+          "content": "A new commandment I give unto you: That you love one another, as I have loved you, saith the Lord. Ps. Blessed are the undefiled in the way: who walk in the law of the Lord."
+        }
+      ],
+      "citation": "John 13: 34",
+      "type": "antiphon",
+      "heading": "First Antiphon"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": "POSTQUAM surrexit Dominus a cœna, misit aquam in pelvim; cœpit lavare pedes discipulorum: hoc exemplum reliquit eis. Ps. 47: 2. Magnus Dominus, et laudabilis nimis: in civitate Dei nostri, in monte sancto ejus. Postquam."
+        },
+        {
+          "lang": "en",
+          "content": "After our Lord was risen from supper, He put water into a basin, and began to wash the feet of His disciples: to whom He gave this example. Ps. Great is the Lord, and exceedingly to be praised in the city of our God, in His holy mountain. After our Lord."
+        }
+      ],
+      "citation": "John 13: 4, 5, 15",
+      "type": "antiphon",
+      "heading": "Second Antiphon"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": "DOMINUS Jesus, postquam cœnavit cum discipulis suis, lavit pedes eorum, et ait illis: Scitis quid fecerim vobis ego Dominus, et Magister? Exemplum dedi vobis, ut et vos ita faciatis. Ps. 84. 2. Benedixisti, Domine, terram tuam: avertisti captivitatem Jacob. Dominus."
+        },
+        {
+          "lang": "en",
+          "content": "Our Lord Jesus, after He had supped with His disciples, washed their feet, and said to them: Know you what I your Lord and Master have done to you? I have given you an example, that ye also may do likewise. Ps. Thou hast blessed, O Lord, Thy land; Thou hast turned away the captivity of Jacob. Our Lord Jesus."
+        }
+      ],
+      "citation": "John 13: 12, 13, 15",
+      "type": "antiphon",
+      "heading": "Third Antiphon"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": "DOMINE, tu mihi lavas pedes? Respondit Jesus, et dixit ei: Si non lavero tibi pedes, non habebis partem mecum. V. Venit ergo ad Simonem Petrum, et dixit ei Petrus: R. Domine... V. Quod ego facio, tu nescis modo, scies autem postea. R. Domine."
+        },
+        {
+          "lang": "en",
+          "content": "Lord, dost Thou wash my feet? Jesus answered and said to them: If I shall not wash thy feet, thou shalt have no part with Me. V. He came to Simon Peter, and Peter said to Him: R. Lord, dost Thou. V. What I do, thou knowest not now; but thou shalt know hereafter. R. Lord, dost Thou."
+        }
+      ],
+      "citation": "John 13: 6-8",
+      "type": "antiphon",
+      "heading": "Fourth Antiphon"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": "SI ego Dominus, et Magister vester lavi vobis pedes: quanto magis debetis alter alterius lavare pedes? Ps. 48: 2. Audite hæc, omnes gentes: auribus percipite qui habitatis orbem. Si ego."
+        },
+        {
+          "lang": "en",
+          "content": "If I your Lord and Master, have washed your feet, how much more ought you to wash one another's feet? Ps. Hear these things, all ye nations: give ear, ye that inhabit the world. If I your Lord."
+        }
+      ],
+      "citation": "John 13: 14",
+      "type": "antiphon",
+      "heading": "Fifth Antiphon"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": "IN hoc cognoscent omnes, quia mei estis discipuli, si dilectionem habueritis ad invicem. V. Dicit Jesus discipulis suis. R. In hoc."
+        },
+        {
+          "lang": "en",
+          "content": "By this shall all men know that you are My disciples, if you have love one for another. V. Said Jesus to His disciples. R. By this."
+        }
+      ],
+      "citation": "John 13: 35",
+      "type": "antiphon",
+      "heading": "Sixth Antiphon"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": "MANEANT in vobis fides, spes, caritas, tria hæc: major autem horum est caritas. V. Nunc autem manent fides, spes, caritas, tria hæc: major autem horum est caritas. R. Maneat."
+        },
+        {
+          "lang": "en",
+          "content": "Let these three, faith, hope, and charity, remain in you; but the greatest of these is charity. V. And now there remain faith, hope and charity, these three; but the greatest of these is charity. R. Let these three."
+        }
+      ],
+      "citation": "I Cor. 13: 13",
+      "type": "antiphon",
+      "heading": "Seventh Antiphon"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": [
+            "UBI caritas et amor, Deus ibi est.",
+            "V. Congregavit nos in unum Christi amor. Exsultemus, et in ipso jucundemur. Timeamus, et amemus Deum vivum. Et ex corde diligamus nos sincero. R. Ubi caritas.",
+            "V. Simul ergo, cum in unum congregamur. Ne nos mente dividamur, caveamus. Cessent jurgia maligna, cessant lites. Et in medio nostri sit Christus Deus. R. Ubi caritas.",
+            "V. Simul quoque cum beatis videamus. Glorianter vultum tuum, Christe Deus: Gaudium, quod est immensum, atque probum. Sæcula per infinita sæculorum. Amen."
+          ]
+        },
+        {
+          "lang": "en",
+          "content": [
+            "Where charity and love are, there is God.",
+            "V. The love of Christ has gathered us together. Let us rejoice in Him and be glad. Let us fear and love the living God. And let us love one another with a sincere heart. R. Where charity.",
+            "V. When, therefore, we are assembled together. Let us take heed, that we be not divided in mind. Let malicious quarrels and contentions cease. And let Christ our God dwell among us. R. Where charity.",
+            "V. Let us also with the blessed see Thy face in glory, O Christ our God. There to possess immeasurable and happy joy. For infinite ages of ages. Amen."
+          ]
+        }
+      ],
+      "citation": "I John 2: 3, 4",
+      "type": "antiphon",
+      "heading": "Eighth Antiphon"
+    },
+    {
+      "text": [
+        {
+          "lang": "en",
+          "content": "After the Maundy, the celebrant washes his hands. Then returning to the place whence he came he\n      puts on maniple and chasuble and standing with his head uncovered, before the altar, he chants the Pater noster in secret, until:"
+        }
+      ],
+      "type": "rubric"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": [
+            "V. Et ne nos inducas in tentationem.",
+            "R. Sed libera nos a malo.",
+            "V. Tu mandasti mandata tua, Domine.",
+            "R. Custodiri nimis.",
+            "V. Tu lavasti pedes discipulorum tuorum.",
+            "R. Opera manuum tuarum ne despicias.",
+            "V. Domine, exaudi orationem meam.",
+            "R. Et clamor meus ad te veniat.",
+            "V. Dominus vobiscum.",
+            "R. Et cum spiritu tuo."
+          ]
+        },
+        {
+          "lang": "en",
+          "content": [
+            "V. And lead us not into temptation.",
+            "R. But deliver us from evil.",
+            "V. Thou hast commanded Thy commandments, O Lord.",
+            "R. To be exactly observed.",
+            "V. Thou hast washed the feet of Thy disciples.",
+            "R. Despise not the work of Thy hands.",
+            "V. O Lord, hear my prayer.",
+            "R. And let my cry come unto Thee.",
+            "V. The Lord be with you.",
+            "R. And with thy spirit"
+          ]
+        }
+      ],
+      "type": "dialogue"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": "ADESTO, Domine, quæsumus, officio servitutis nostræ: et quia tu discipulis tuis pedes lavare dignatus es, ne despicias opera manuum tuarum, quæ nobis retinenda mandasti: ut, sicut hic nobis, et a nobis exteriora abluunter inquinamenta; sic a te omnium nostrum interiora laventur peccata. Quod ipse præstare digneris: Qui vivis et regnas, Deus: per omnia sæcula sæculorum. Amen."
+        },
+        {
+          "lang": "en",
+          "content": "Be present, O Lord, we beseech Thee, at the performance of our service: and since Thou didst vouchsafe to wash the feet of Thy disciples, despise not the work of Thy hands, which Thou hast commanded us to retain: that as here the outward stains are washed away by us and from us, so the inward sins of us all may be blotted out by Thee. Which do Thou vouchsafe to grant, Who livest and reignest God for ever and ever. Amen."
+        }
+      ],
+      "heading": "Prayer",
+      "type": "collect"
+    },
+    {
+      "text": [
+        {
+          "lang": "en",
+          "content": "Mass"
+        }
+      ],
+      "type": "section-heading"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": "DEXTERA Domini fecit virtutem, dextera Domini exaltavit me: non moriar, sed vivam, et narrabo opera Domini."
+        },
+        {
+          "lang": "en",
+          "content": "The right hand of the Lord hath wrought strength: the right hand of the Lord hath exalted me. I shall not die, but live, and shall declare the works of the Lord."
+        }
+      ],
+      "citation": "Psalm 117: 16, 17",
+      "type": "offertory"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": "IPSE tibi, quæsumus, Domine sancte, Pater omnipotens, æterne Deus, sacrificium nostrum reddat acceptum, qui discipulis suis in sui commemorationem hoc fieri hodierna traditione monstravit, Jesus Christus Filius tuus Dominus noster: Qui tecum."
+        },
+        {
+          "lang": "en",
+          "content": "We beseech Thee, O holy Lord, Father almighty, everlasting God, that He Himself may render our Sacrifice acceptable to Thee, Who, by the tradition of today, taught His disciples to do this in remembrance of Him, Jesus Christ, Thy Son, our Lord, Who with Thee liveth and reigneth."
+        }
+      ],
+      "type": "secret"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": "VERE dignum et justum est, æquum et salutare, nos Tibi semper, et ubique gratias agere: Domine sancte, Pater omnipotens, æterne Deus. Qui salutem humani generis in ligno Crucis constituisti: ut, unde mors oriebatur, inde vita resurgeret: et Qui in ligno vincebat, in ligno quoque vinceretur, per Christum Dominum nostrum. Per Quem majestatem tuam laudant Angeli, adorant Dominationes, tremunt Potestates. Cœli, cœlorumque Virtutes, ac beata Seraphim, socia exsultatione concelebrant. Cum quibus et nostras voces, ut admitti jubeas, deprecamur, supplici confessione dicentes:"
+        },
+        {
+          "lang": "en",
+          "content": "It is truly meet and just, right and for our salvation, that we should at all times, and in all places, give thanks unto Thee, O holy Lord, Father almighty, everlasting God: Who didst establish the salvation of mankind on the tree of the Cross: that whence death came thence also life might arise again, and that He, Who overcame by the tree, by the tree also might be overcome: Through Christ our Lord. Through Whom the Angels praise Thy Majesty, the Dominations worship it, the Powers stand in awe. The Heavens and the Heavenly hosts together with the blessed Seraphim in triumphant chorus unite to celebrate it. Together with these we entreat Thee, that Thou mayest bid our voices also be admitted while we say with lowly praise:"
+        }
+      ],
+      "type": "preface",
+      "heading": "Preface of the Holy Cross"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": "DOMINUS Jesus, postquam cœnavit cum discipulis suis, lavit pedes eorum, et ait illis: Scitis quid fecerim vobis ego Dominus, et Magister? Exemplum dedi vobis, ut et vos ita faciatis."
+        },
+        {
+          "lang": "en",
+          "content": "The Lord Jesus, after He had supped with His disciples, washed their feet, and said to them: Know you what I, your Lord and Master, have done to you? I gave you an example, that you also may do likewise."
+        }
+      ],
+      "citation": "John 13: 12, 13, 15",
+      "type": "communion"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": "REFECTI vitalibus alimentis, quæsumus, Domine Deus noster: ut, quod tempore nostræ mortalitatis exsequimur, immortalitatis tuæ munere consequamur. Per Dominum."
+        },
+        {
+          "lang": "en",
+          "content": "Strengthened with life-giving Food, we beseech Thee, O Lord, our God, that what we do in our mortal life may bring us to the reward of life immortal with Thee. Through our Lord."
+        }
+      ],
+      "type": "postcommunion"
+    },
+    {
+      "text": [
+        {
+          "lang": "en",
+          "content": "Benedicamus Domino is sung instead of Ita missa est, and ends the Mass. The blessing and last Gospel are omitted. The Hosts for the morrow’s communion are carried in procession to the Altar of Repose."
+        }
+      ],
+      "type": "rubric"
+    },
+    {
+      "text": [
+        {
+          "lang": "en",
+          "content": "Procession to the Altar of Repose"
+        }
+      ],
+      "type": "section-heading"
+    },
+    {
+      "text": [
+        {
+          "lang": "en",
+          "content": "After Mass the priest takes off his chasuble and vests in a white cope; then returning to the altar he incenses the Sacred Host reserved in the Ciborium. Preceded by the cross, torchbearers, and the clergy, and accompanied by deacon and subdeacon, he carries the Blessed Sacrament to the Altar of Repose where it will remain until the Mass of the Pre-Sanctified on Good Friday, when no consecration takes place. During the procession the hymn, Pange lingua gloriosi Corporis, is sung until the strophe: Tantum ergo."
+        }
+      ],
+      "type": "rubric"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": [
+            "PANGE lingua, gloriosi Corporis mysterium, Sanguinisque pretiosi, Quem in mundi pretium Fructus ventris generosi Rex effudit gentium.",
+            "Nobis datus, nobis natus Ex intacta Virgine, Et in mundo conversatus, Sparso verbi semine. Sui moras incolatus. Miro clausit ordine.",
+            "In supremæ nocte cœnæ Recumbens cum fratribus, Observata lege plene Cibis in legalibus, Cibum turbæ duodenæ Se dat suis manibus.",
+            "Verbum caro, panem verum Verbo carnem efficit; Fitque sanguis Christi merum: Et si sensus deficit, Ad firmandum cor sincerum Sola fides sufficit.",
+            "TANTUM ERGO Sacramentum Veneremur cernui: Et antiquum documentum Novo cedat ritui: Præstet fides supplementum Sensuum defectui.",
+            "Genitori, Genitoque Laus et jubilatio: Salus, honor, virtus quoque Sit et benedictio Procedenti ab utroque Compar sit laudatio. Amen."
+          ]
+        },
+        {
+          "lang": "en",
+          "content": [
+            "Sing, my tongue, the Savior's glory: Of His Flesh the mystery sing; Of His Blood all price exceeding. Shed by our immortal King. Destined for the world's redemption From a noble womb to spring.",
+            "Of a pure and spotless Virgin, Born for us on earth below, He, as Man with man conversing, Stayed the seeds of truth to sow, Then He closed in solemn order Wondrously His life of woe.",
+            "On the night of His last supper, Seated with His chosen band, He, the paschal victim eating, First fulfills the Law's command; Then as food to all His brethren Gives himself with His own hand.",
+            "Word made Flesh, the bread of nature, By His words to Flesh He turns; Wine into His Blood He changes: What though sense no change discerns, Only be the heart in earnest, Faith her lesson quickly learns.",
+            "Down in adoration falling, Lo, the Sacred Host we hail, Lo, o'er ancient forms departing Newer rites of grace prevail; Faith for all defects supplying, Where the feeble senses fail.",
+            "To the everlasting Father And the Son who reigns on high With the Holy Ghost proceeding Forth from each eternally, Be salvation, honour, blessing, Might and endless majesty. Amen."
+          ]
+        }
+      ],
+      "type": "hymn"
+    }
+  ]
+}
