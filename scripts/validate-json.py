@@ -89,6 +89,14 @@ def lint_file_by_path(path):
         'la',
     ]
 
+    # Listing of all valid textblock types
+    # TODO: Write check
+    validTypes = [
+        'introit',
+        'collect',
+        'etc-addmore',
+    ]
+
     # Validate text blocks
     for text in current_json['textblocks']:
 
