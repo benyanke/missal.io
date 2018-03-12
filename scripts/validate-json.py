@@ -11,10 +11,16 @@ global errors_found, current_json
 errors_found = False
 
 debug = False
-# debug = True
 
 def main():
+    global debug
+
+    # Check if we should enable debug mode
+    if ('debug' in os.environ) and os.environ['debug'] == 'true':
+        debug = True
+
     json_validate_all_files()
+
 
     if errors_found:
         sys.exit("Invalid schema - tests not passed - see log above for details")
@@ -43,7 +49,7 @@ def lint_file_by_path(path):
         print("VALID JSON: " + path)
 
     # 2.1) Check global schema rules
-    keysToCheck = [
+    requiredKeys = [
         'name',
         'compiledBy',
         'liturgyType',
@@ -55,7 +61,7 @@ def lint_file_by_path(path):
         'textblocks',
     ]
 
-    for key in keysToCheck:
+    for key in requiredKeys:
         if key in current_json:
             if debug:
                 print("Key '" + key + "' found in " + path)
