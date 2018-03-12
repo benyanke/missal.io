@@ -10,8 +10,8 @@ global errors_found, current_json
 
 errors_found = False
 
-# debug = False
-debug = True
+debug = False
+# debug = True
 
 def main():
     json_validate_all_files()
