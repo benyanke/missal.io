@@ -130,10 +130,10 @@
     {
       "name": "Holy Thursday - Evening",
       "season": "Triduum",
-      "href": "triduum/0.json",
+      "href": "triduum/1.json",
       "slug": "triduum/thusday",
-      "last-updated": 1519439993,
-      "status": "partial"
+      "last-updated": 1521265104,
+      "status": "complete"
     },
     {
       "name": "Good Friday",
