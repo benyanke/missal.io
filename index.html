@@ -61,7 +61,7 @@
       window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
       gtag('js', new Date());
-    
+
       gtag('config', 'UA-114467819-1');
     </script>
 
@@ -111,7 +111,6 @@
             <h1 class="mt-5 mb-4">TLM Propers</h1>
             <!-- <p class="lead"></p> -->
 
-
             <ul
               class="list-unstyled"
               v-for="row in indexContent"
@@ -150,7 +149,7 @@
               <h2 class="main" v-else v-text="titleCase(section.heading)"></h2>
 
               <!-- Rubrics -->
-              <span class="citation" v-if="section.citation" v-text="section.citation"></span>
+              <span class="citation" v-if="section.citation" v-html="arrayHandler(section.citation)"></span>
 
             </div>
 
@@ -158,7 +157,7 @@
             <!-- Rubic text entries -->
             <div v-if="section.type == 'rubric'"
               class="col text-center text-rubric"
-              v-text="getElementByKey(section.text, 'lang', 'en').content">
+              v-text="arrayHandler(getElementByKey(section.text, 'lang', 'en').content)">
             </div>
 
             <!-- Regular text entries -->
@@ -167,14 +166,15 @@
               <div class="col text text-justify text-latin hyphenate"
                 lang="la"
                 v-if="getElementByKey(section.text, 'lang', 'la')"
-                v-html="getElementByKey(section.text, 'lang', 'la').content">
+                v-html="arrayHandler(getElementByKey(section.text, 'lang', 'la').content)">
               </div>
 
               <div class="col text text-justify text-english hyphenate"
                 lang="en"
                 v-if="getElementByKey(section.text, 'lang', 'en')"
-                v-html="getElementByKey(section.text, 'lang', 'en').content">
+                v-html="arrayHandler(getElementByKey(section.text, 'lang', 'en').content)">
               </div>
+
             </div>
 
 <!--

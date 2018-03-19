@@ -113,7 +113,20 @@ var app = new Vue({
 
     // Searches an array of objects for an object with a given key = val
     getElementByKey: function(srcArray, key, value) {
+
       return srcArray.find(arr => arr[key] === value);
+
+    },
+
+    // Convert array into str
+    arrayHandler: function(arr) {
+
+      if(Array.isArray(arr)) {
+        return arr.join('<br /><br />')
+      }
+
+      return arr;
+
     },
 
     // Returns title case str
