@@ -9,7 +9,7 @@ and the translations into a usable datastructure to be called as an api.
 The primary focus will always be the /api directory as a backend datasource for other projects,
 there will also be a simple frontend app using the backend data as an example of what is possible.
 
-This is currently available at http://missal.io.
+An example client of this backend is available at http://missal.io.
 
 ## Builds
 Currently, builds only verify that every json file in the repo is valid json. In the future, there are plans to ensure the
