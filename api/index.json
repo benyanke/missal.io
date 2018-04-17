@@ -156,8 +156,24 @@
       "season": "Easter",
       "href": "easter/0.json",
       "slug": "triduum/saturday",
-      "last-updated": 1519439993,
-      "status": "blank"
+      "last-updated": 1523974903,
+      "status": "complete"
+    },
+    {
+      "name": "Low Sunday",
+      "season": "Easter",
+      "href": "easter/1.json",
+      "slug": "triduum/saturday",
+      "last-updated": 1523974903,
+      "status": "complete"
+    },
+    {
+      "name": "Second Sunday after Easter",
+      "season": "Easter",
+      "href": "easter/2.json",
+      "slug": "triduum/saturday",
+      "last-updated": 1523974903,
+      "status": "complete"
     }
   ]
 }

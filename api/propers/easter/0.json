@@ -12,25 +12,25 @@
       "text": [
         {
           "lang": "la",
-          "content": ""
+          "content": "RESURREXI, et adhuc tecum sum, allelúia: posuísti  super   me  manum tuam, allelúia: mirábilis facta est sciéntia tua, allelúia, allelúia. Ps. 138. 1-2. Dómine,  probásti  me,  et  cognovísti  me:  tu  cognovísti sessiónem  meam  et resurrectiónem  meam.  V. Gloria Patri. Resurrexi."
         },
         {
           "lang": "en",
-          "content": ""
+          "content": "I  arose and am still with Thee, alleluia: Thou hast laid  Thine hand upon  me, alleluia: Thy knowledge is become wonderful,   alleluia, alleluia. Ps.  Lord, Thou has searched me and known Me: Thou  knowest my sitting down and my rising up. V. Glory be to the Father. I arose."
         }
       ],
-      "citation": "",
+      "citation": "Psalm 138. 18, 5-6",
       "type": "introit"
     },
     {
       "text": [
         {
           "lang": "la",
-          "content": ""
+          "content": "DEUS, qui hodiérna die per Unigéni tum tuum æternitátis nobis áditum devícta morte reserásti: vota nostra, quæ præveniéndo aspíras, étiam ad juvándo proséquere. Per eúndem Dóminum."
         },
         {
           "lang": "en",
-          "content": ""
+          "content": "God, who on this day through Thine only-begotten Son hast overcome death and opened unto us the gate of everlasting life; do Thou follow with Thine aid the desires which Thou dost put into our minds and by Thy continual help bring the same to good effect. Through the same Lord."
         }
       ],
       "type": "collect"
@@ -39,81 +39,116 @@
       "text": [
         {
           "lang": "la",
-          "content": ""
+          "content": "FRATRES: Expurgáte vetus fermén tum, ut sitis nova conspérsio, sicut estis ázymi. Etenim Pascha nostrum immolátus est Christus. Itaque epulémur: non in ferménto véteri, neque in ferménto malítiæ et nequítiæ: sed in ázymis sinceritátis et veritátis."
         },
         {
           "lang": "en",
-          "content": ""
+          "content": " Brethren, purge out the old leaven, that you may be a new paste, as you are unleavened: for Christ our Pasch is sacrificed. Therefore let us feast, not with the old leaven, nor with the leaven of malice and wickedness, but with the unleavened bread of sincerity and truth."
         }
       ],
-      "citation": "",
+      "citation": "1 Corinthians 5, 7-8",
       "type": "epistle"
     },
     {
       "text": [
         {
           "lang": "la",
-          "content": ""
+          "content": "HÆC dies quam fecit Dominus: exultemus, et lætemur in ea. V. Confitemini Domino, quoniam bonus: quoniam in sæculum misericordia ejus."
         },
         {
           "lang": "en",
-          "content": ""
+          "content": "This is the day which the Lord hath made: let us rejoice and be glad in it. V. Give praise unto the Lord, for He is good: for His mercy endureth for ever."
         }
       ],
-      "citation": "",
+      "citation": "Psalm 117. 24,1",
       "type": "gradual"
     },
     {
       "text": [
         {
           "lang": "la",
-          "content": ""
+          "content": "Allelúia, allelúia. V. Pascha nostrum immolátus est Christus."
         },
         {
           "lang": "en",
-          "content": ""
+          "content": "Alleluia, alleluia. V. Christ our Pasch is sacrificed."
         }
       ],
-      "citation": "",
-      "type": "tract"
+      "citation": "1 Corinthians 5. 7",
+      "type": "alleluia"
     },
     {
       "text": [
         {
           "lang": "la",
-          "content": ""
+          "content": [
+            "Victimae paschali laudes immolent Christiani",
+            "Agnus redemit oves: Christus innocens Patri reconciliavit peccatores.",
+            "Mors et vita duello conflixere mirando, Dux vitae mortuus, regnat vivus.",
+            "Dic nobis Maria, quid vidisti in via?",
+            "Sepulcrum Christi viventis, et gloriam vidi resurgentis:",
+            "Angelicos testes, sudarium et vestes.",
+            "Surrexit Christus spes mea: praecedet suos in Galilaeam.",
+            "Credendum est magis soli Mariae veraci quam Judaeorum turbae fallaci.",
+            "Scimus Christum surrexisse a mortuis vere: Tu nobis, victor Rex, miserere.",
+            "Amen. Alleluia."
+          ]
         },
         {
           "lang": "en",
-          "content": ""
+          "content": [
+            "To the Paschal victim let Christians offer up their songs of praise.",
+            "The Lamb has redeemed the sheep: Christ who is without sin has reconciled sinners to the Father.",
+            "Death and life have fought a huge battle; The Prince of Life was dead, but lives and reigns.",
+            "Tell us, Mary, what did you see on your way?",
+            "The tomb of Christ, who is alive, and I saw the glory of his rising;",
+            "Angels standing as witnesses, the shroud and linen cloth.",
+            "Christ my hope has risen: He has gone to Galilee before you.",
+            "More trust should be placed in truthful Mary than in a deceitful crowd of Jews.",
+            "Truly, we know Christ has risen from the dead: O King and victor, have mercy on us. Amen. Alleluia."
+          ]
         }
       ],
       "citation": "",
+      "type": "sequence"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": "IN illo témpore: María Magdaléne, et María Jacóbi et Salóme emérunt arómata, ut veniéntes úngerent Jesum. Et valde mane una sabbatórum, véniunt ad monuméntum, orto jam sole. Et dicébant ad ínvicem: Quis revólvet nobis lápidem ab óstio monuménti? Et respiciéntes vidérunt revolútum lápidem. Erat quippe magnus valde. Et intrœúntes in monuméntum vidérunt júvenem sedéntem in dextris, coopértum stola cándida, et obstupuérunt. Qui dicit illis: Nolíte expavéscere: Jesum quǽritis Nazarénum, crucifíxum: surréxit, non est hic, ecce locus ubi posuérunt eum. Sed ite, dícite discípulis ejus et Petro quia præcédit vos in Galilǽam: ibi eum vidébitis, sicut dixit vobis."
+        },
+        {
+          "lang": "en",
+          "content": "At that time, Mary Magdalen, and Mary the mother of James, and Salome bought sweet spices, that coming they might anoint Jesus. And very early in the morning, the first day of the week, they came to the sepulchre, the sun being now risen. And they said one to another: Who shall roll us back the stone from the door of the sepulchre? And looking, they saw the stone rolled back. For it was very great. And entering into the sepulchre, they saw a young man sitting on the right side, clothed with a white robe, and they were astonished. Who saith to them: Be not affrighted; ye seek Jesus of Nazareth, who was crucified: He is risen, He is not here; behold the place where they laid Him. But go, tell His disciples, and Peter, that He goeth before you into Galilee: there you shall see Him, as He told you."
+        }
+      ],
+      "citation": "Mark 16. 1-7",
       "type": "gospel"
     },
     {
       "text": [
         {
           "lang": "la",
-          "content": ""
+          "content": "TERRA trémuit et quiévit, dum resúrgeret in judício Deus, allelúia."
         },
         {
           "lang": "en",
-          "content": ""
+          "content": "The earth trembled and was still when God arose in judgment, alleluia."
         }
       ],
-      "citation": "",
+      "citation": "Psalm 75. 9-10",
       "type": "offertory"
     },
     {
       "text": [
         {
           "lang": "la",
-          "content": ""
+          "content": "SÚSCIPE, quǽsumus, Dómine, preces pópuli tui cum oblatiónibus hostiárum: ut paschálibus initiáta mystériis, ad æternitátis nobis medélam, te operánte, profíciant. Per Dóminum."
         },
         {
           "lang": "en",
-          "content": ""
+          "content": "Accept, we beseech Thee, O Lord, the prayers of Thy people with the oblation of sacrifice; that what we have begun by these Paschal mysteries, may by Thy operation, profit us for a healing remedy unto everlasting life. Through our Lord."
         }
       ],
       "type": "secret"
@@ -122,39 +157,39 @@
       "text": [
         {
           "lang": "la",
-          "content": ""
+          "content": "VERE dignum et justum est, æquum et salutáre: Te quidem, Dómine, omni témpore, sed in hac potíssimum die gloriósius prædicáre, cum Pascha nostrum immolátus est Christus. Ipse enim verus est Agnus, qui ábstulit peccáta mundi. Qui mortem nostram moriéndo destrúxit, etvitam resurgéndo reparávit. Et ídeo cum Angelis et Archángelis, cum Thronis et Dominatiónibus, cumque omni milítia cæléstis exércitus, hymnum glóriæ tuæ cánimus, sine fine dicéntes:"
         },
         {
           "lang": "en",
-          "content": ""
+          "content": "It is truly meet and just, right and availing unto salvation, that at all times, but more especially on this day we should extol Thy glory, O Lord, when Christ our Pasch was sacrificed. For He is the true Lamb that hath taken away the sins of the world. Who by dying hath overcome our death, and by rising again hath restored our life. And therefore with Angels and Archangels, with Thrones and Dominations, and with all the heavenly hosts, we sing a hymn to Thy glory, saying without ceasing:"
         }
       ],
       "type": "preface",
-      "heading": "Preface for Lent"
+      "heading": "Preface for Easter"
     },
     {
       "text": [
         {
           "lang": "la",
-          "content": ""
+          "content": "PASCHA nostrum immolátus est Christus, allelúia: ítaque epulémur in ázymis sinceritátis et veritátis, allelúia, allelúia, allelúia."
         },
         {
           "lang": "en",
-          "content": ""
+          "content": "Christ our Pasch is immolated, alleluia: therefore let us feast with the unleavened bread of sincerity and truth, alleluia, alle­luia, alleluia."
         }
       ],
-      "citation": "",
+      "citation": "1 Corinthians 5. 7-8",
       "type": "communion"
     },
     {
       "text": [
         {
           "lang": "la",
-          "content": ""
+          "content": "SPÍRITUM nobis, Dómine, tuæ caritátis infúnde: ut, quos sacraméntis paschálibus satiásti, tua fácias pietáte concórdes. Per Dóminum."
         },
         {
           "lang": "en",
-          "content": ""
+          "content": "Pour forth upon us, O Lord, the Spirit of Thy love, that by Thy loving kindness Thou mayest make to be of one mind, those whom Thou hast fed with these Paschal sacraments. Through our Lord."
         }
       ],
       "type": "postcommunion"
