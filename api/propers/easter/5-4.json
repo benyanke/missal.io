@@ -1,0 +1,163 @@
+{
+  "name": "Ascension",
+  "compiledBy": "Ben Yanke",
+  "liturgyType": "Mass",
+  "liturgyClass": "other",
+  "season": "easter",
+  "sourceName": "maternal-heart",
+  "seasonSortKey": 5.4,
+  "sourceLink": "http://www.maternalheart.org/propers/Ascension/Ascension/Ascension.pdf",
+  "textblocks": [
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": "VIRI Galiǽi, quid admirámini aspiciéntes in cælum? allelúia: quemádmodum vidístis eum ascendéntem in cælum, ita véniet, allelúia, allelúia, allelúia. Ps. 44. 2. Omnes gentes, pláudite mánibus: jubiláte Deo in voce exsultatiónis. V. Glória Patri. Viri."
+        },
+        {
+          "lang": "en",
+          "content": "Ye men of Galilee, why wonder you, looking up to heaven? alleluia. He shall so come as you have seen Him going up into heaven, alleluia, alleluia, alleluia. Ps. O, clap your hands, all ye nations; shout unto God, with the voice of exultation. V. Glory be to the Father. Ye men."
+        }
+      ],
+      "citation": "Acts. 1. 10",
+      "type": "introit"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": "CONCÉDE, qu ǽsumus, omnípotens Deus: ut, qui hodiérna die Unigénitum tuum Redemptórem nostrum ad cælos ascendísse crédimus, ipsi quoque mente in cæléstibus habitémus. Per eúmdem Dóminum."
+        },
+        {
+          "lang": "en",
+          "content": "Grant, we beseech Thee, almighty God, that we who believe Thine only-begotten Son, our Redeemer, to have this day ascended into heaven, may ourselves dwell in spirit amid heavenly things. Through the same Lord."
+        }
+      ],
+      "type": "collect"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": "PRIMUM quidem sermónem feci de ómnibus, o Theóphile, quæ cœpit Jesus fácere et docére, usque in diem, qua, præcípiens Apóstolis per Spíritum Sanctum, quos elégit, assúmptus est: quibus et pr ǽbuit seípsum vivum post passiónem suam in multis arguméntis, per dies quadragínta appérens eis et loquens de regno Dei. Et convéscens, præcépit eis ab Jerosólymis ne discéderent, sed exspectárent promissiónem Patris, quam audistis (inquit) per os meum; quia Joánnes quidem baptizávit aqua, vos autem baptizabímini Spíritu Sancto non post multos hos dies. Igitur qui convénerant, interrogábant eum, dicéntes: Dómine, si in témpore hoc restítues regnum Israël? Dixit autem eis: Non est vestrum nosse témpora vel moménta quæ Pater pósuit in sua potestáte: sed accipiétis virtútem superveniéntis Spíritus Sancti in vos, et éritis mihi testes in Jerúsalem, et in omni Jud ǽ et Samaría, et usque ad últimum terræ. Et cum hæc dixísset, vidéntibus illis elevátus est: et nubes suscépit eum ab óculis eórum. Cumque intueréntur in cælum eúntem illum, ecce duo viri astitérunt juxta illos in véstibus albis, qui et dixérunt: Viri Galil ǽi, quid statis aspiciéntes in cælum? Hic Jesus, qui assúmptus est a vobis in cælum, sic veniet, quemádmodum vidístis eum eúntem in cælum."
+        },
+        {
+          "lang": "en",
+          "content": "The former treatise I made, O Theophilus, of all things which Jesus began to do and to teach, until the day on which, giving commandments by the Holy Ghost to the apostles whom He had chosen, He was taken up: to whom also He showed Himself alive after His Passion by many proofs, for forty days appearing to them and speaking of the kingdom of God. And eating together with them, He commanded them that they should not depart from Jerusalem, but should wait for the promise of the Father, which you have heard (saith He) by My mouth: for John indeed baptized with water, but you shall be baptized with the Holy Ghost not many days hence. They therefore who were come together asked Him, saying: Lord, wilt Thou at this time restore again the kingdom to Israel? But He said to them: It is not for you to know the times or moments, which the Father hath put in His own power: but you shall receive the power of the Holy Ghost coming upon you, and you shall be witnesses unto Me in Jerusalem, and in all Judea and Samaria, and even to the uttermost part of the earth. And when He had said these things, while they looked on, He was raised up: and a cloud received Him out of their sight. And while they were beholding Him going up to heaven, behold two men stood by them in white garments, who also said: Ye men of Galilee, why stand you looking up to heaven? This Jesus, who is taken up from you into heaven, shall so come, as you have seen Him going into heaven."
+        }
+      ],
+      "citation": "Acts 1. 1-11",
+      "type": "epistle"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": "ALLELÚIA, allelúia. V. Ascéndit Deus in jubilatióne, et Dóminus in voce tubæ."
+        },
+        {
+          "lang": "en",
+          "content": "Alleluia, alleluia. V. God is ascended with jubilee, and the Lord with the sound of a trumpet."
+        }
+      ],
+      "citation": "Psalm 46. 6, 8",
+      "type": "alleluia"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": "ALLELÚIA. V. Dóminus in Sina in sancto, ascéndens in altum captívam duxit captivitátem. Allelúia."
+        },
+        {
+          "lang": "en",
+          "content": "Alleluia. V. The Lord is in Sinai, in the holy place; ascending on high He has led captivity captive. Alleluia."
+        }
+      ],
+      "citation": "Psalm 67. 18-19",
+      "type": "alleluia"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": "IN illo tempore: Recumbéntibus úndecim discípulis, appáruit illis Jesus: et exprobrávit incredulitátem eó- rum, et durítiam cordis: quia iis qui víderant eum resurrexísse, non credidérunt. Et dixit eis: Eúntes in mundum univérsum, prædicáte Evangé- lium omni creatúræ. Qui credíderit et baptizátus fúerit, salvus erit: qui vero non credíderit, condemnábitur. Signa autem eos, qui credíderint, hæc sequéntur: In nómine meo dæmónia ejícient: linguis loquéntur novis: serpéntes tollent: et si mortíferum quid bíberint. non eis nocébit: super ægros manus impó- nent, et bene habébunt. Et Dóminus quidem Jesus, postquam loctútus est eis, assúmptus est in cælum, et sedet a dextris Dei. Illi autem profécti, prædicavérunt ubíque, Dómino cooperánte, et sermónem confirmánte, sequéntibus signis."
+        },
+        {
+          "lang": "en",
+          "content": "At that time Jesus appeared to the eleven as they were at table: and He upbraided them with their incredulity and hardness of heart, because they did not believe them who had seen Him after He was risen again. And He said to them: Go ye into the whole world and preach the gospel to every creature. He that believeth and is baptized shall be saved: but he that believeth not shall be condemned. And these signs shall follow them that believe: In My name they shall cast out devils; they shall speak with new tongues; they shall take up serpents; and if they shall drink any deadly thing, it shall not hurt them; they shall lay their hands upon the sick, and they shall recover. And the Lord Jesus, after He had spoken to them, was taken up into heaven and sitteth on the right hand of God. But they going forth preached everywhere, the Lord working withal, and confirming the word with signs that followed."
+        }
+      ],
+      "citation": "Mark 16. 14-20",
+      "type": "gospel"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": "ASCÉNDIT Deus in jubilatióne, et Dóminus in voce tubæ, allelúia."
+        },
+        {
+          "lang": "en",
+          "content": "God is ascended with jubilee, and the Lord with the sound of a trumpet, alleluia."
+        }
+      ],
+      "citation": "Psalm 46. 6",
+      "type": "offertory"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": "SÚSCIPE, Dómine, múnera, quæ pro Fílii tui gloriósa Ascensióne deférimus: et concéde propítius; ut a præ- séntibus perículis liberémur, et ad vitam perveniámus ætérnam. Per eúmdem Dóminum."
+        },
+        {
+          "lang": "en",
+          "content": "Accept, O Lord, the gifts we offer Thee in memory of the glorious Ascension of Thy Son; and graciously grant that being delivered from present dangers, we may attain unto eternal life. Through the same our Lord."
+        }
+      ],
+      "type": "secret"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": "VERE dignum et justum est, æquum et salutáre, te quidem, Dómine, omni témpore, sed in hoc potíssimum gloriósius prædícare, cum Pascha nostrum immolátus est Christus. Ipse enim verus est Agnus, qui ábstulit peccáta mundi. Qui mortem nostram moriéndo destrúxit, et vitam resurgéndo reparávit. Et ídeo cum Angelis et Archángelis, cum Thronis et Dominatiónibus, cumque omni milítia cæléstis exércitus, hymnum glóriæ tuæ cánimus, sine fine dicéntes:"
+        },
+        {
+          "lang": "en",
+          "content": "It is truly meet and just, right and for our salvation, that we should at all times to praise Thee, O Lord, but more gloriously at this time above all others, when Christ our Pasch was sacrificed. For He is the true Lamb Who took away the sins of the world: Who by dying destroyed our death, and by rising again hath restored us to life. And therefore with Angels and Archangels, with Thrones and Dominations, and with all the hosts of the heavenly army, we sing a hymn to Thy glory, evermore saying:"
+        }
+      ],
+      "type": "preface",
+      "heading": "Preface for Easter"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": "PSÁLLITE Dómino, qui ascéndit super cælos cælórum ad Oriéntem, allelúia."
+        },
+        {
+          "lang": "en",
+          "content": "Sing ye to the Lord, who mounteth above the heaven of heavens to the East, alleluia."
+        }
+      ],
+      "citation": "Psalm 67. 33-34",
+      "type": "communion"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": "PRÆSTA nobis, qu ǽsumus, omnípotens et miséricors Deus: ut, quæ visibílibus mystériis suménda percé- pimus, invisíbili consequámur efféctu. Per Dóminum."
+        },
+        {
+          "lang": "en",
+          "content": "Grant us, we beseech Thee, almighty and merciful God, that what we have received in visible mysteries may profit us by its invisible effect. Through our Lord."
+        }
+      ],
+      "type": "postcommunion"
+    }
+  ]
+}
