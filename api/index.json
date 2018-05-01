@@ -190,6 +190,14 @@
       "slug": "easter/4",
       "last-updated": 1525110701,
       "status": "complete"
+    },
+    {
+      "name": "Fifth Sunday after Easter",
+      "season": "Easter",
+      "href": "easter/5.json",
+      "slug": "easter/5",
+      "last-updated": 1525110701,
+      "status": "complete"
     }
   ]
 }
