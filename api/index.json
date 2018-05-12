@@ -206,6 +206,14 @@
       "slug": "easter/5-4",
       "last-updated": 1525111701,
       "status": "complete"
+    },
+    {
+      "name": "Sunday after Ascension",
+      "season": "Easter",
+      "href": "easter/6.json",
+      "slug": "easter/6",
+      "last-updated": 1526139680,
+      "status": "complete"
     }
   ]
 }

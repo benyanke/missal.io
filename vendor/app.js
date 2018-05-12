@@ -2,7 +2,7 @@ var app = new Vue({
   el: '#app',
   data: {
     // apiIndex: 'https://benyanke.github.io/missal.io/data/',
-    apiIndex: 'http://www.missal.io/api/',
+    apiIndex: 'https://www.missal.io/api/',
     // apiIndex: 'http://localhost:8080/data/index.json',
     // apiIndex: 'http://localhost:8085/data/index.json',
 
