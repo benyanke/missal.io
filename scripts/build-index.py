@@ -175,7 +175,12 @@ def create_index():
     # Add texts
     index['texts'] = textsList;
 
-    print(json.dumps(index, indent=4))
+    json_out = json.dumps(index, indent=4, sort_keys=True)
 
+
+    print(json_out)
+
+
+    # TODO: Also write back to file
 
 main()
