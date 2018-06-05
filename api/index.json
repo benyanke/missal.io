@@ -214,6 +214,14 @@
       "slug": "easter/6",
       "last-updated": 1526139680,
       "status": "complete"
+    },
+    {
+      "name": "Pentecost Sunday",
+      "season": "Easter",
+      "href": "pentecost/0.json",
+      "slug": "pentecost/0",
+      "last-updated": 1528165314,
+      "status": "complete"
     }
   ]
 }
