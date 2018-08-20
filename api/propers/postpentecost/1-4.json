@@ -1,0 +1,163 @@
+{
+  "name": "Corpus Christi",
+  "compiledBy": "Ben Yanke",
+  "liturgyType": "Mass",
+  "liturgyClass": "other",
+  "season": "postpentecost",
+  "sourceName": "maternal-heart",
+  "seasonSortKey": 1.4,
+  "sourceLink": "http://www.maternalheart.org/propers/Sundays%20after%20Pentecost/Pentecost%201%20-%20Thursday%20-%20Corpus%20Christi/corpuschristi.pdf",
+  "textblocks": [
+    {
+      "citation": "",
+      "text": [
+        {
+          "content": "",
+          "lang": "la"
+        },
+        {
+          "content": "",
+          "lang": "en"
+        }
+      ],
+      "type": "introit"
+    },
+    {
+      "text": [
+        {
+          "content": "",
+          "lang": "la"
+        },
+        {
+          "content": "",
+          "lang": "en"
+        }
+      ],
+      "type": "collect"
+    },
+    {
+      "citation": "",
+      "text": [
+        {
+          "content": "",
+          "lang": "la"
+        },
+        {
+          "content": "",
+          "lang": "en"
+        }
+      ],
+      "type": "epistle"
+    },
+    {
+      "citation": "",
+      "text": [
+        {
+          "content": "",
+          "lang": "la"
+        },
+        {
+          "content": "",
+          "lang": "en"
+        }
+      ],
+      "type": "gradual"
+    },
+    {
+      "citation": "",
+      "text": [
+        {
+          "content": "",
+          "lang": "la"
+        },
+        {
+          "content": "",
+          "lang": "en"
+        }
+      ],
+      "type": "alleluia"
+    },
+    {
+      "citation": "",
+      "text": [
+        {
+          "content": "",
+          "lang": "la"
+        },
+        {
+          "content": "",
+          "lang": "en"
+        }
+      ],
+      "type": "gospel"
+    },
+    {
+      "citation": "",
+      "text": [
+        {
+          "content": "",
+          "lang": "la"
+        },
+        {
+          "content": "",
+          "lang": "en"
+        }
+      ],
+      "type": "offertory"
+    },
+    {
+      "text": [
+        {
+          "content": "",
+          "lang": "la"
+        },
+        {
+          "content": "",
+          "lang": "en"
+        }
+      ],
+      "type": "secret"
+    },
+    {
+      "heading": "Preface for Pentecost",
+      "text": [
+        {
+          "content": "VERE dignum et justum est, æquum et salutáre, nos tibi semper et ubique grátias ágere, Dómine sancte, Pater omnípotens, ætérne Deus: Qui cum unigénito Fílio tuo, et Spíritu Sancto, unus es Deus, unus es Dóminus: non in unius singularitáte persónæ, sed in unius Trinitáte substántiæ. Quod enim de tua glória, revelánte te, crédimus, hoc de Fílio tuo, hoc de Spiritu Sancto, sine differéntia discretiónis sentímus. Ut in confessióne veræ, sempiternæque Deitátis, et in persónis propríetas et in esséntia únitas, et in majestáte adorétur æquálitas. Quam laudant Angelí, atque Archángeli, Chérubim quoque ac Séraphim: qui non cessant clamáre quotidíe, una voce dicéntes:",
+          "lang": "la"
+        },
+        {
+          "content": "It is truly meet and just, right and for our salvation, that we should at all times, and in all places, give thanks to Thee, holy Lord, Father almighty, eternal God: Who, together with Thine only-begotten Son and the Holy Ghost, art one God, one Lord: not in the Oneness of a single Person, but in the Trinity of one substance. For what by Thy revelation we believe of Thy glory, the same do we believe of Thy Son, the same of the Holy Ghost, without difference or separation; so that in confessing the true and eternal Godhead, in It we should adore distinction in persons, unity in Essence, and equality in Majesty: in praise of which Angels and Archangels, Cherubim also and Seraphim day and night exclaim, without end and with one voice saying:",
+          "lang": "en"
+        }
+      ],
+      "type": "preface"
+    },
+    {
+      "citation": "",
+      "text": [
+        {
+          "content": "",
+          "lang": "la"
+        },
+        {
+          "content": "",
+          "lang": "en"
+        }
+      ],
+      "type": "communion"
+    },
+    {
+      "text": [
+        {
+          "content": "",
+          "lang": "la"
+        },
+        {
+          "content": "",
+          "lang": "en"
+        }
+      ],
+      "type": "postcommunion"
+    }
+  ]
+}

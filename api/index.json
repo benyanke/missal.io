@@ -232,12 +232,28 @@
       "status": "complete"
     },
     {
+      "name": "Corpus Christi",
+      "season": "Sundays After Pentecost",
+      "href": "postpentecost/1-4.json",
+      "slug": "postpentecost/1-4",
+      "last-updated": 1534787205,
+      "status": "blank"
+    },
+    {
       "name": "2nd Sunday After Pentecost",
       "season": "Sundays After Pentecost",
       "href": "postpentecost/2.json",
       "slug": "postpentecost/2",
       "last-updated": 1534787616,
       "status": "complete"
+    },
+    {
+      "name": "Sacred Heart",
+      "season": "Sundays After Pentecost",
+      "href": "postpentecost/2-5.json",
+      "slug": "postpentecost/2-5",
+      "last-updated": 1534787616,
+      "status": "blank"
     }
   ]
 }
