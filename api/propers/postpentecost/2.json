@@ -1,0 +1,163 @@
+{
+  "name": "Second Sunday after Pentecost",
+  "compiledBy": "Ben Yanke",
+  "liturgyType": "Mass",
+  "liturgyClass": "other",
+  "season": "postpentecost",
+  "sourceName": "maternal-heart",
+  "seasonSortKey": 2,
+  "sourceLink": "http://www.maternalheart.org/propers/Sundays%20after%20Pentecost/Pentecost%202%20-%20within%20Corpus%20Christi/2nd%20Pentecost%20after%20Corpus%20Christi%20with%20procession.pdf",
+  "textblocks": [
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": "FACTUS est Dóminus protéctor meus, et edúxit me in latitúdinem: salvum me fecit, quóniam vóluit me. Ps. 17. 2. Díligam te, Dómine, virtus mea: Dóminus firmaméntum meum et refúgium meum, et liberátor meus. V. Glória Patri."
+        },
+        {
+          "lang": "en",
+          "content": "The Lord became my protector, and He brought me forth into a large place: He saved me, because He was well pleased with me. Ps. I will love Thee, O Lord my strength: the Lord is my firmament, and my refuge, and my deliverer. V. Glory be to the Father."
+        }
+      ],
+      "citation": "Psalm 17. 19-20",
+      "type": "introit"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": "SANCTI nóminis tui, Dómine, timórem páriter et amórem fac nos habére perpétuum: quia numquam tua gubernatióne destítuis, quos in soliditáte tuæ dilectiónis instítuis. Per Dóminum nostrum."
+        },
+        {
+          "lang": "en",
+          "content": "Grant, O Lord, that we may have a perpetual fear and love of Thy holy name; for Thou never failest to direct and govern by Thy grace, those whom Thou bringest up in the steadfastness of Thy love. Through our Lord."
+        }
+      ],
+      "type": "collect"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": "CARÍSSIMI: Nolíte mirári, si odit vos mundus. Nos scimus, quóniam transláti sumus de morte ad vitam, quóniam dilígimus fratres. Qui non díligit, manet in morte: omnis qui odit fratrem suum, homicída est. Et scitis quóniam omnis homicída non habet vitam ætérnam in semetípso manéntem. In hoc cognóvimus caritátem Dei, quóniam ille ánimam suam pro nobis pósuit: et nos debémus pro frátribus ánimas pónere. Qui habúerit substántiam hujus mundi, et víderit fratrem suum necessitátem habére, et cláuserit víscera sua ab eo: quómodo cáritas Dei manet in eo? Filíoli mei, non diligámus verbo, neque lingua, sed ópere et veritáte."
+        },
+        {
+          "lang": "en",
+          "content": "Dearly beloved, wonder not if the world hate you. We know that we have passed from death to life, because we love the brethren. He that loveth not, abideth in death. Whosoever hateth his brother is a murderer: and you know that no murderer hath eternal life abiding in himself. In this we have known the charity of God, because He hath laid down His life for us; and we ought to lay down our lives for the brethren. He that hath the substance of this world, and shall see his brother in need, and shall shut up his bowels from him, how doth the charity of God abide in him? My little children, let us not love in word nor in tongue, but in deed and in truth."
+        }
+      ],
+      "citation": "1 John 3. 13-18",
+      "type": "epistle"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": "A D DÓMINUM cum tribulárer clamávi, et exaudívit me. V. Dómine, líbera ánimam meam a lábiis iníquis, et a lingua dolósa."
+        },
+        {
+          "lang": "en",
+          "content": "In my trouble I cried to the Lord, and He heard me. V. O Lord, deliver my soul from wicked lips and a deceitful tongue."
+        }
+      ],
+      "citation": "Psalm. 119. 1-2",
+      "type": "gradual"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": "ALLELUIA, alleluia. V. Dómine Deus meus, in te sperávi: salvum me fac ex ómnibus persequéntibus me, et líbera me. Allelúia."
+        },
+        {
+          "lang": "en",
+          "content": "Alleluia, alleluia. V. O Lord, my God, in Thee have I put my trust: save me from all them that persecute me, and deliver me. Alleluia."
+        }
+      ],
+      "citation": "Psalm 7. 2",
+      "type": "alleluia"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": "IN illo témpore: Dixi Jesus pharis ǽis parábolam hanc: Homo quidam fecit cœnam magnam, et vocávit multos. Et misit servum suum hora cœnæ dícere invitátis ut venírent, quia jam paráta sunt ómnia. Et cœpérunt simul omnes excusáre. Primus dixit ei: Villam emi, et necésse hábeo exíre et vidére illam: rogo te, habe me excusátum. Et alter dixit: Juga boum emi quinque et eo probáre: rogo te, habe me excusátum. Et álius dixit: Uxórem duxi, et ídeo non possum veníre. Et revérsus servus nuntiávit hæc dómino suo. Tunc irátus paterfamílias, dixit servo suo: Exi cito in platéas et vicos civitátis: et páuperes ac débiles et cæcos, et claudos íntroduc huc. Et ait servus: Dómine, factum est ut imperásti, et adhuc locus est. Et ait dóminus servo: Exi in vias, et sepes: et compélle intráre, ut impleátur domus mea. Dico autem vobis, quod nemo virórum illórum qui vocáti sunt, gustábit cœnam meam."
+        },
+        {
+          "lang": "en",
+          "content": "At that time, Jesus spoke to the Pharisees this parable: A certain man made a great supper, and invited many. And he sent his servant, at the hour of supper, to say to them that were invited, that they should come, for now all things are ready. And they began all at once to make excuse. The first said to him: I have bought a farm, and must needs go out, and see it, I pray thee hold me excused. And another said: I have bought five yoke of oxen, and I go to try them; I pray thee hold me excused. And another said: I have married a wife, and therefore I cannot come. And the servant returning, told these things to his lord. Then the master of the house being angry, said to his servant: Go out quickly into the streets and lanes of the city, and bring in hither the poor, and the feeble, and the blind and the lame. And the servant said: Lord, it is done as thou hast commanded, and yet there is room. And the lord said to the servant: Go out into the highways and hedges, and compel them to come in, that my house may be filled. But I say unto you, that none of these men that were invited shall taste of my supper."
+        }
+      ],
+      "citation": "Luke 14. 16-24",
+      "type": "gospel"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": "DÓMINE, convértere, et éripe ánimam meam: salvum me fac propter misericórdiam tuam."
+        },
+        {
+          "lang": "en",
+          "content": "Turn to me, O Lord, and deliver my soul, O save me for Thy mercy’s sake."
+        }
+      ],
+      "citation": "Psalm 6. 5",
+      "type": "offertory"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": "OBLÁTIO nos, Dómine, tuo nómini dicánda puríficet: et de die in diem ad cœléstis vitæ tránsferat actiónem. Per Dóminum nostrum."
+        },
+        {
+          "lang": "en",
+          "content": "May this sacrifice to be offered in Thy name, O Lord, cleanse us from sin, that by its virtue our daily life on earth may become likened unto that of heaven. Through our Lord."
+        }
+      ],
+      "type": "secret"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": "VERE dignum et justum est, æquum et salutáre, nos tibi semper et ubique grátias ágere, Dómine sancte, Pater omnípotens, ætérne Deus: Qui cum unigénito Fílio tuo, et Spíritu Sancto, unus es Deus, unus es Dóminus: non in unius singularitáte persónæ, sed in unius Trinitáte substántiæ. Quod enim de tua glória, revelánte te, crédimus, hoc de Fílio tuo, hoc de Spiritu Sancto, sine differéntia discretiónis sentímus. Ut in confessióne veræ, sempiternæque Deitátis, et in persónis propríetas et in esséntia únitas, et in majestáte adorétur æquálitas. Quam laudant Angelí, atque Archángeli, Chérubim quoque ac Séraphim: qui non cessant clamáre quotidíe, una voce dicéntes:"
+        },
+        {
+          "lang": "en",
+          "content": "It is truly meet and just, right and for our salvation, that we should at all times, and in all places, give thanks to Thee, holy Lord, Father almighty, eternal God: Who, together with Thine only-begotten Son and the Holy Ghost, art one God, one Lord: not in the Oneness of a single Person, but in the Trinity of one substance. For what by Thy revelation we believe of Thy glory, the same do we believe of Thy Son, the same of the Holy Ghost, without difference or separation; so that in confessing the true and eternal Godhead, in It we should adore distinction in persons, unity in Essence, and equality in Majesty: in praise of which Angels and Archangels, Cherubim also and Seraphim day and night exclaim, without end and with one voice saying:"
+        }
+      ],
+      "type": "preface",
+      "heading": "Preface for Pentecost"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": "CANTÁBO Dómino, qui bona tríbuit mihi: et psallam nómini Dómini altíssimi."
+        },
+        {
+          "lang": "en",
+          "content": "I will sing to the Lord, Who giveth me good things: and I will sing to the name of the Lord the most high."
+        }
+      ],
+      "citation": "Psalm 12. 6",
+      "type": "communion"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": "SUMPTIS munéribus sacris, qu ǽsumus, Dómine: ut cum frequentatióne mystérii, crescat nostræ salútis efféctus. Per Dóminum."
+        },
+        {
+          "lang": "en",
+          "content": "Having received Thy sacred gifts, O Lord, vouchsafe that the more often we frequent these divine mysteries, the more surely they may avail to our salvation. Through our Lord."
+        }
+      ],
+      "type": "postcommunion"
+    }
+  ]
+}
