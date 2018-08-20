@@ -1,0 +1,163 @@
+{
+  "name": "Trinity Sunday",
+  "compiledBy": "Ben Yanke",
+  "liturgyType": "Mass",
+  "liturgyClass": "other",
+  "season": "postpentecost",
+  "sourceName": "maternal-heart",
+  "seasonSortKey": 1,
+  "sourceLink": "http://www.maternalheart.org/propers/Sundays%20after%20Pentecost/Pentecost%201%20-%20Trinity/trinitysunday.pdf",
+  "textblocks": [
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": "BENEDÍCTA sit sancta Trínitas, atque, indivisa únitas: confitébimur ei, qua fecit nobíscum misericórdiam suam. (Ps. 8. 2). Dómine Dóminus noster, quam admirábile est nomen tuum in univérsa terra! V. Glória Patri."
+        },
+        {
+          "lang": "en",
+          "content": "Blessed be the Holy Trinity and undivided Unity: we will give glory to Him, because He hath shown His mercy to us. Ps. O Lord, our Lord, how wonderful is Thy Name in all the earth! V. Glory be to the Father."
+        }
+      ],
+      "citation": "Tobias 12. 6",
+      "type": "introit"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": "OMNÍPOTENS sempitérne Deus, qui dedísti fámulis tuis in confessióne veræ fídei, ætérnæ Trinitátis glóriam agnóscere, et in poténtia majestátis adoráre unitátem: quæsumus, ut, ejúsdem fidei firmitáte, ab ómnibus semper muniámur advérsis. Per Dóminum nostrum."
+        },
+        {
+          "lang": "en",
+          "content": "O almighty and everlasting God, who hast granted to Thy servants, in confessing the true Faith, to acknowledge the glory of the eternal Trinity, and in the power of Majesty to adore the Unity: we beseech Thee, that by steadfastness in the same Faith, we may ever be defended against all adversity. Through our Lord."
+        }
+      ],
+      "type": "collect"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": "O ALTITÚDO divitiárum sapiéntiæ et sciéntiæ Dei: quam incomprehénsibilia sunt judícia ejus, et investigábiles viæ ejus! Quis enim cognóvit sensum Dómini? Aut quis consiliárius ejus fuit? Aut quis prior dedit illi, et retribuétur ei? Quóniam ex ipso, et per ipsum, et in ipso sunt ómnia: ipsi glória in sæcula. Amen."
+        },
+        {
+          "lang": "en",
+          "content": "O the depths of the riches of the wisdom and of the knowledge of God! How incomprehensible are His judgments, and how unsearchable His ways! For who hath known the mind of the Lord? Or who hath been His counsellor? Or who hath first given to Him, and recompense shall be made Him? For of Him, and by Him, and in Him, are all things: to Him be glory for ever. Amen."
+        }
+      ],
+      "citation": "Romans 11. 33-36",
+      "type": "epistle"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": "BENEDICTUS es, Domine, qui intueris abyssos, et sedes super Cherubim. V. Benedictus es, Domine, in firmamento cœli, et laudabilis in saecula."
+        },
+        {
+          "lang": "en",
+          "content": "Blessed art Thou, O Lord, that beholdest the depths and sittest above the Cherubim. V. Blessed art Thou, O Lord, in the firmament of heaven, and worthy of praise forever."
+        }
+      ],
+      "citation": "Daniel 3. 55, 56",
+      "type": "gradual"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": "ALLELUIA, alleluia. V. Benedictus es, Domine, Deus patrum nostrorum: et laudabilis in saecula. Alleluia."
+        },
+        {
+          "lang": "en",
+          "content": "Alleluia, alleluia. V. Blessed art Thou, O Lord, the God of our fathers, and worthy to be praised forever. Alleluia."
+        }
+      ],
+      "citation": "Daniel 3. 52",
+      "type": "alleluia"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": "IN illo témpore: Dixit Jesus discipulis suis: Data est mihi omnis potéstas in Cœlo et in terra. Eúntes ergo docéte omnes gentes, baptizántes eos in nómine Patris, et Fílii, et Spíritus Sanctí: docéntes eos serváre ómnia quæcúmque mandávi vobis. Et ecce ego vobíscum sum ómnibus diébus, usque ad consummatiónem sæculi."
+        },
+        {
+          "lang": "en",
+          "content": "At that time Jesus said to His disciples: All is power given to Me in heaven and on earth. Going therefore, teach ye all nations, baptizing them in the Name of the Father and of the Son and of the Holy Ghost, teaching them to observe all things whatsoever I have commanded you. And behold I am with you all days, even to the consummation of the world."
+        }
+      ],
+      "citation": "Matthew 28. 18-20",
+      "type": "gospel"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": "BENEDICTUS sit Deus Pater, Unigenitus que Dei Filius, Sanctus quoque Spiritus: quia fecit nobiscum misericordiam suam."
+        },
+        {
+          "lang": "en",
+          "content": "Blessed be God the Father, and the onlybegotten Son of God, and also the Holy Ghost; because He hath shown His mercy to us."
+        }
+      ],
+      "citation": "Tobias 12. 6",
+      "type": "offertory"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": "SANCTÍFICA, quæsumus Dómine Deus noster, per tui Sancti nóminis invocatiónem, hujus oblatiónis hóstiam: et per eam nosmetípsos tibi pérfice munus ætérnum. Per Dóminum nostrum."
+        },
+        {
+          "lang": "en",
+          "content": "Sanctify, we beseech Thee, O Lord, our God, by the invocation of Thy holy Name, the Sacrifice we offer, and by it make of us an everlasting offering unto Thee. Through our Lord."
+        }
+      ],
+      "type": "secret"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": "VERE dignum et justum est, æquum et salutáre, nos tibi semper et ubique grátias ágere, Dómine sancte, Pater omnípotens, ætérne Deus: Qui cum unigénito Fílio tuo, et Spíritu Sancto, unus es Deus, unus es Dóminus: non in unius singularitáte persónæ, sed in unius Trinitáte substántiæ. Quod enim de tua glória, revelánte te, crédimus, hoc de Fílio tuo, hoc de Spiritu Sancto, sine differéntia discretiónis sentímus. Ut in confessióne veræ, sempiternæque Deitátis, et in persónis propríetas et in esséntia únitas, et in majestáte adorétur æquálitas. Quam laudant Angelí, atque Archángeli, Chérubim quoque ac Séraphim: qui non cessant clamáre quotidíe, una voce dicéntes:"
+        },
+        {
+          "lang": "en",
+          "content": "It is truly meet and just, right and for our salvation, that we should at all times, and in all places, give thanks to Thee, holy Lord, Father almighty, eternal God: Who, together with Thine only-begotten Son and the Holy Ghost, art one God, one Lord: not in the Oneness of a single Person, but in the Trinity of one substance. For what by Thy revelation we believe of Thy glory, the same do we believe of Thy Son, the same of the Holy Ghost, without difference or separation; so that in confessing the true and eternal Godhead, in It we should adore distinction in persons, unity in Essence, and equality in Majesty: in praise of which Angels and Archangels, Cherubim also and Seraphim day and night exclaim, without end and with one voice saying:"
+        }
+      ],
+      "type": "preface",
+      "heading": "Preface for Pentecost"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": "BENEDÍCIMUS Deum Cœli, et coram ómnibus vivéntibus confitébimur ei: quia fecit nobíscum misericórdiam suam."
+        },
+        {
+          "lang": "en",
+          "content": "We bless the God of heaven, and before all living we will praise Him; because He has shown His mercy to us."
+        }
+      ],
+      "citation": "Tobias 12. 6",
+      "type": "communion"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": "PROFÍCIAT nobis ad Salutem corpóris et ánimæ, Dómine Deus noster, hujus sacraménti suscéptio: et sempitérnæ sanctæ Trinitátis, ejusdémque indivíduæ unitátis conféssio. Per Dóminum nostrum."
+        },
+        {
+          "lang": "en",
+          "content": "O Lord, our God, may our reception of this Sacrament and our acknowledgment of the holy and eternal Trinity and Its undivided Unity profit us unto health of mind and body. Through our Lord."
+        }
+      ],
+      "type": "postcommunion"
+    }
+  ]
+}

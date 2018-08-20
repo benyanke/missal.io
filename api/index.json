@@ -222,6 +222,14 @@
       "slug": "pentecost/0",
       "last-updated": 1528165314,
       "status": "complete"
+    },
+    {
+      "name": "Trinity Sunday",
+      "season": "Sundays After Pentecost",
+      "href": "postpentecost/1.json",
+      "slug": "postpentecost/1",
+      "last-updated": 1534787205,
+      "status": "complete"
     }
   ]
 }
