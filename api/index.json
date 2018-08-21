@@ -254,6 +254,14 @@
       "slug": "postpentecost/2-5",
       "last-updated": 1534787616,
       "status": "blank"
+    },
+    {
+      "name": "3rd Sunday After Pentecost",
+      "season": "Sundays After Pentecost",
+      "href": "postpentecost/3.json",
+      "slug": "postpentecost/3",
+      "last-updated": 1534827508,
+      "status": "complete"
     }
   ]
 }
