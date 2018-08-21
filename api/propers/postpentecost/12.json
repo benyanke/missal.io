@@ -1,0 +1,163 @@
+{
+  "name": "12th Sunday after Pentecost",
+  "compiledBy": "Ben Yanke",
+  "liturgyType": "Mass",
+  "liturgyClass": "other",
+  "season": "postpentecost",
+  "sourceName": "maternal-heart",
+  "seasonSortKey": 12,
+  "sourceLink": "http://www.maternalheart.org/propers/Sundays%20after%20Pentecost/Pentecost%2012/Pentecost%2012.pdf",
+  "textblocks": [
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": ""
+        },
+        {
+          "lang": "en",
+          "content": ""
+        }
+      ],
+      "citation": "",
+      "type": "introit"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": ""
+        },
+        {
+          "lang": "en",
+          "content": ""
+        }
+      ],
+      "type": "collect"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": ""
+        },
+        {
+          "lang": "en",
+          "content": ""
+        }
+      ],
+      "citation": "",
+      "type": "epistle"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": ""
+        },
+        {
+          "lang": "en",
+          "content": ""
+        }
+      ],
+      "citation": "",
+      "type": "gradual"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": ""
+        },
+        {
+          "lang": "en",
+          "content": ""
+        }
+      ],
+      "citation": "",
+      "type": "alleluia"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": ""
+        },
+        {
+          "lang": "en",
+          "content": ""
+        }
+      ],
+      "citation": "",
+      "type": "gospel"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": ""
+        },
+        {
+          "lang": "en",
+          "content": ""
+        }
+      ],
+      "citation": "",
+      "type": "offertory"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": ""
+        },
+        {
+          "lang": "en",
+          "content": ""
+        }
+      ],
+      "type": "secret"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": ""
+        },
+        {
+          "lang": "en",
+          "content": ""
+        }
+      ],
+      "type": "preface",
+      "heading": "Preface of the Most Holy Trinity"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": ""
+        },
+        {
+          "lang": "en",
+          "content": ""
+        }
+      ],
+      "citation": "",
+      "type": "communion"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": ""
+        },
+        {
+          "lang": "en",
+          "content": ""
+        }
+      ],
+      "type": "postcommunion"
+    },
+  ]
+}
