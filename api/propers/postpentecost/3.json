@@ -1,0 +1,206 @@
+{
+  "name": "3rd Sunday after Pentecost",
+  "compiledBy": "Ben Yanke",
+  "liturgyType": "Mass",
+  "liturgyClass": "other",
+  "season": "postpentecost",
+  "sourceName": "maternal-heart",
+  "seasonSortKey": 2,
+  "sourceLink": "http://www.maternalheart.org/propers/Sundays%20after%20Pentecost/Pentecost%203/Pentecost%203.pdf",
+  "textblocks": [
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": "RESPICE in me, et miserére mei, Dómine: quóniam únicus, et pauper sum ego: vide humilitátem meam, et labórem meum: et dimítte ómnia peccáta mea, Deus meus. Ps. 24. 1-2. Ad te, Dómine, levávi ánimam meam: Deus meus, in te confído, non erubéscam. V. Glória Patri."
+        },
+        {
+          "lang": "en",
+          "content": "Look Thou upon me, O Lord, and have mercy on me; for I am alone and poor. See my abjection and my labour; and forgive me all my sins, O my God. Ps. To Thee, O Lord, have I lifted up my soul: in Thee, my God, I put my trust; let me not be ashamed. V. Glory be to the Father."
+        }
+      ],
+      "citation": "Psalm. 24. 16, 18",
+      "type": "introit"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": "PROTÉCTOR in te sperántium, Deus, sine quo nihil est válidum, nihil sanctum: multíplica super nos misericórdiam tuam, ut, te rectóre, te duce, sic transeámus per bona temporália, ut non amittámus ætérna. Per Dóminum."
+        },
+        {
+          "lang": "en",
+          "content": "O God, the protector of all that trust in Thee, without whom nothing is strong, nothing is holy, multiply Thy mercies upon us; that having Thee for our ruler and guide, we may so pass through things temporal, that we finally lose not those which are eternal. Through our Lord."
+        }
+      ],
+      "type": "collect"
+    },
+
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": "DEUS qui nobis in Corde Fílii tui, nostris vulneráto peccátis, infinítos dilectiónis thesáuros misericórditer largíri dignáris; concéde, quǽsumus, ut illi devótum pietátis nostræ præstántes obséquium, dignæ quoque satisfactiónis exhibeámus offícium. Per eúmdem Dóminum."
+        },
+        {
+          "lang": "en",
+          "content": "O God, who in the Heart of Thy Son, wounded by our sins, dost mercifully vouchsafe to bestow upon us the infinite wealth of Thy love; grant, we beseech Thee, that revering it with meet devotion, we may fulfil our duty of worthy reparation. Through the same our Lord."
+        }
+      ],
+      "subheading": "Commemoration of the Octave of the Sacred Heart",
+      "type": "collect"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": "CARÍSSIME: Humiliámini sub poténti manu Dei, ut vos exáltet in témpore visitatiónis: omnem sollicitúdinem vestram projiciéntes in eum, quóniam ipsi cura est de vobis. Sóbrii estóte et vigiláte: quia adversárius vester diábolus tamquam leo rúgiens círcuit, quærens quem dévoret: cui resístite fortes in fide: sciéntes eámdem passiónem ei, quæ in mundo est, vestræ fraternitáti fíeri. Deus autem omnis grátiæ, qui vocávit nos in ætérnam suam glóriam in Christo Jesu, módicum passos ipse perfíciet, confirmábit solidabitque. Ipsi glória et impérium in s ǽcula sæculórum. Amen."
+        },
+        {
+          "lang": "en",
+          "content": "Dearly beloved: Be you humbled under the mighty hand of God, that He may exalt you in the time of visitation; casting all your care upon Him, for He hath care of you. Be sober and watch, because your adversary the devil, as a roaring lion, goeth about seeking whom he may devour. Whom resist ye, strong in faith; knowing that the same affliction befalls your brethren who are in the world. But the God of all grace, who hath called us unto the eternal glory in Christ Jesus, after you have suffered a little, will Himself perfect you, and confirm you, and establish you. To Him be glory and empire for ever and ever. Amen."
+        }
+      ],
+      "citation": "1 Peter 5. 6-11",
+      "type": "epistle"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": "JACTA cogitátum tuum in Dómino: et ipse te enutriet. V. Dum clamárem ad Dóminum, exaudívit vocem meam ab his qui appropínquant mihi."
+        },
+        {
+          "lang": "en",
+          "content": "Cast thy care upon the Lord and He shall sustain Thee. V. When I cried to the Lord He heard my voice, from them that draw near to me."
+        }
+      ],
+      "citation": "Psalm 54. 23, 17, 19",
+      "type": "gradual"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": "ALLELUIA, alleluia. V. Deus judex justus, fortis et pátiens; numquid iráscitur per síngulos dies? Allelúia."
+        },
+        {
+          "lang": "en",
+          "content": "Alleluia, alleluia. V. God is a just judge, strong and patient; is He angry every day? Alleluia."
+        }
+      ],
+      "citation": "Psalm 7. 12",
+      "type": "alleluia"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": "IN illo témpore: Erant appropinquántes ad Jesum publicáni, et peccatóres, ut audírent illum. Et murmurábant pharis ǽi et scribæ, dicéntes: Quia hic peccatóres récipit, et mandúcat cum illis. Et ait ad illos parábolam istam, dicens: Quis ex vobis homo, qui habet centum oves: et si perdíderit unam ex illis, nonne dimíttit nonaginta nóvem in desérto, et vadit ad illam, quæ períerat, donec invéniat eam? Et cum invénerit eam, impónit in húmeros suos gaudens: et véniens domum, cónvocat amícos, et vicínos, dicens illis: Congratulámini mihi, quia invéni ovem meam, quæ períerat? Dico vobis, quod ita gáudium erit in cœlo super uno peccatóre pœniténtiam agénte, quam super nonaginta nóvem justis, qui non índigent pœniténtia. Aut quæ múlier habens drachmas decem, si perdíderit drachmam unam, nonne accéndit lucérnam, et evérrit domum, et quærit diligénter, donec invéniat? Et cum invénerit, cónvocat amícas et vicínas, dicens: Congratulámini mihi, quia invéni drachmam quam perdíderam? Ita dico vobis: gáudium erit coram Angelis Dei super uno peccatóre pœniténtiam agénte."
+        },
+        {
+          "lang": "en",
+          "content": "At that time, the publicans and sinners drew near unto Jesus to hear Him: and the Pharisees and Scribes murmured, saying: This man receiveth sinners and eateth with them. And He spoke to them this parable, saying: What man is there of you that hath a hundred sheep, and if he shall lose one of them, doth he not leave the ninety-nine in the desert, and go after that which was lost, until he find it? And when he hath found it, lay it upon his shoulders rejoicing, and coming home, call together his friends and neighbours, saying to them: Rejoice with me, because I have found my sheep that was lost? I say to you, that even so there shall be joy in heaven upon one sinner that doth penance, more than upon ninety-nine just who need not penance. Or what woman having ten groats, if she lose one groat, doth not light a candle, and sweep the house, and seek diligently until she find it? And when she hath found it, call together her friends and neighbours, saying: Rejoice with me, because I have found the groat which I had lost? So I say to you, there shall be joy before the angels of God upon one sinner doing penance."
+        }
+      ],
+      "citation": "Luke 15. 10",
+      "type": "gospel"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": "SPERENT in te omnes, qui novérunt nomen tuum, Dómine: quóniam non derelínquis quæréntes te: psállite Dómino, qui hábitat in Sion: quóniam non est oblítus oratiónem páuperum."
+        },
+        {
+          "lang": "en",
+          "content": "Let them trust in Thee, all who know Thy name, O Lord: for Thou hast not forsaken them that seek Thee: sing ye to the Lord, who dwelleth in Sion: for He hath not forgotten the cry of the poor."
+        }
+      ],
+      "citation": "Psalm 9. 11-12, 13",
+      "type": "offertory"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": "RÉSPICE, Dómine, múnera supplicántis Ecclésiæ: et salúti credéntium perpétua sanctificatióne suménda concéde. Per Dóminum."
+        },
+        {
+          "lang": "en",
+          "content": "Look, O Lord, upon the offerings of Thy suppliant Church, and grant to Thy faithful receiving them, that they may avail unto salvation. Through our Lord."
+        }
+      ],
+      "type": "secret"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": "RÉSPICE, qu ǽsumus, Dómine, ad ineffábilem Cordis dilécti Fílii tui caritátem: ut, quod offérimus sit tibi munus accéptum et nostrórum expiátio delictórum. Per eúmdem Dóminum."
+        },
+        {
+          "lang": "en",
+          "content": "Look, we beseech Thee, O Lord, upon the ineffable love of the Heart of Thy beloved Son; that our offering may be acceptable unto Thee and atone for all our sins. Through the same our Lord."
+        }
+      ],
+      "subheading": "Commemoration of the Octave of the Sacred Heart",
+      "type": "secret"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": "VERE dignum et justum est, æquum et salutáre, nos tibi semper et ubique grátias ágere, Dómine sancte, Pater omnípotens, ætérne Deus: Qui cum unigénito Fílio tuo, et Spíritu Sancto, unus es Deus, unus es Dóminus: non in unius singularitáte persónæ, sed in unius Trinitáte substántiæ. Quod enim de tua glória, revelánte te, crédimus, hoc de Fílio tuo, hoc de Spiritu Sancto, sine differéntia discretiónis sentímus. Ut in confessióne veræ, sempiternæque Deitátis, et in persónis propríetas et in esséntia únitas, et in majestáte adorétur æquálitas. Quam laudant Angelí, atque Archángeli, Chérubim quoque ac Séraphim: qui non cessant clamáre quotidíe, una voce dicéntes:"
+        },
+        {
+          "lang": "en",
+          "content": "It is truly meet and just, right and for our salvation, that we should at all times, and in all places, give thanks to Thee, holy Lord, Father almighty, eternal God: Who, together with Thine only-begotten Son and the Holy Ghost, art one God, one Lord: not in the Oneness of a single Person, but in the Trinity of one substance. For what by Thy revelation we believe of Thy glory, the same do we believe of Thy Son, the same of the Holy Ghost, without difference or separation; so that in confessing the true and eternal Godhead, in It we should adore distinction in persons, unity in Essence, and equality in Majesty: in praise of which Angels and Archangels, Cherubim also and Seraphim day and night exclaim, without end and with one voice saying:"
+        }
+      ],
+      "type": "preface",
+      "heading": "Preface of the Most Holy Trinity"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": "DICO vobis: gáudium est Angelis Dei super uno peccatóre pœniténtiam agénte."
+        },
+        {
+          "lang": "en",
+          "content": "I say to you: there is joy before the angels of God upon one sinner doing penance."
+        }
+      ],
+      "citation": "Luke. 15. 10",
+      "type": "communion"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": "SANCTA tua nos, Dómine, sumpta vivíficent: et misericórdiæ sempitérnæ prǽparent expiátos. Per Dóminum."
+        },
+        {
+          "lang": "en",
+          "content": "May the Sacrament which we have received quicken us, O Lord: and atoning for our sins, prepare us to share everlastingly in Thy mercies. Through our Lord."
+        }
+      ],
+      "type": "postcommunion"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": "PRǼBEANT nobis, Dómine Jesu, divínum tua sancta fervórem; quo dulcíssimi Cordis tui suavitáte percépta, discámus terréna despícere, et amáre cæléstia: Qui vivis et regnas."
+        },
+        {
+          "lang": "en",
+          "content": "May Thy holy mysteries, O Lord Jesus, produce in us a divine fervour, whereby, having tasted the sweetness of Thy most dear Heart, we may learn to despise earthly things and love those of heaven: Who livest and reigneth."
+        }
+      ],
+      "subheading": "Commemoration of the Octave of the Sacred Heart",
+      "type": "postcommunion"
+    }
+  ]
+}
