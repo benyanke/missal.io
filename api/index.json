@@ -141,7 +141,7 @@
       "href": "triduum/good-friday.json",
       "slug": "triduum/friday",
       "last-updated": 1519439993,
-      "status": "blank"
+      "status": "empty"
     },
     {
       "name": "Easter Vigil",
@@ -149,7 +149,7 @@
       "href": "triduum/saturday.json",
       "slug": "triduum/saturday",
       "last-updated": 1519439993,
-      "status": "blank"
+      "status": "empty"
     },
     {
       "name": "Easter Sunday",
@@ -237,7 +237,7 @@
       "href": "postpentecost/1-4.json",
       "slug": "postpentecost/1-4",
       "last-updated": 1534787205,
-      "status": "blank"
+      "status": "empty"
     },
     {
       "name": "2nd Sunday After Pentecost",
@@ -253,7 +253,7 @@
       "href": "postpentecost/2-5.json",
       "slug": "postpentecost/2-5",
       "last-updated": 1534787616,
-      "status": "blank"
+      "status": "empty"
     },
     {
       "name": "3rd Sunday After Pentecost",
@@ -269,7 +269,7 @@
       "href": "postpentecost/4.json",
       "slug": "postpentecost/4",
       "last-updated": 1534828608,
-      "status": "blank"
+      "status": "empty"
     },
     {
       "name": "5th Sunday After Pentecost",
@@ -277,7 +277,7 @@
       "href": "postpentecost/5.json",
       "slug": "postpentecost/5",
       "last-updated": 1534828608,
-      "status": "blank"
+      "status": "empty"
     },
     {
       "name": "6th Sunday After Pentecost",
@@ -285,7 +285,7 @@
       "href": "postpentecost/6.json",
       "slug": "postpentecost/6",
       "last-updated": 1534828608,
-      "status": "blank"
+      "status": "empty"
     },
     {
       "name": "7th Sunday After Pentecost",
@@ -293,7 +293,7 @@
       "href": "postpentecost/7.json",
       "slug": "postpentecost/7",
       "last-updated": 1534828608,
-      "status": "blank"
+      "status": "empty"
     },
     {
       "name": "8th Sunday After Pentecost",
@@ -301,7 +301,7 @@
       "href": "postpentecost/8.json",
       "slug": "postpentecost/8",
       "last-updated": 1534828608,
-      "status": "blank"
+      "status": "empty"
     },
     {
       "name": "9th Sunday After Pentecost",
@@ -309,7 +309,7 @@
       "href": "postpentecost/9.json",
       "slug": "postpentecost/9",
       "last-updated": 1534828608,
-      "status": "blank"
+      "status": "empty"
     },
     {
       "name": "10th Sunday After Pentecost",
@@ -317,7 +317,7 @@
       "href": "postpentecost/10.json",
       "slug": "postpentecost/10",
       "last-updated": 1534828608,
-      "status": "blank"
+      "status": "empty"
     },
     {
       "name": "11th Sunday After Pentecost",
@@ -325,7 +325,7 @@
       "href": "postpentecost/11.json",
       "slug": "postpentecost/11",
       "last-updated": 1534828608,
-      "status": "blank"
+      "status": "empty"
     },
     {
       "name": "12th Sunday After Pentecost",
@@ -333,7 +333,7 @@
       "href": "postpentecost/12.json",
       "slug": "postpentecost/12",
       "last-updated": 1534828608,
-      "status": "blank"
+      "status": "empty"
     },
     {
       "name": "13th Sunday After Pentecost",
@@ -341,7 +341,7 @@
       "href": "postpentecost/13.json",
       "slug": "postpentecost/13",
       "last-updated": 1534828608,
-      "status": "blank"
+      "status": "empty"
     },
     {
       "name": "14th Sunday After Pentecost",
@@ -349,7 +349,7 @@
       "href": "postpentecost/14.json",
       "slug": "postpentecost/14",
       "last-updated": 1534828608,
-      "status": "blank"
+      "status": "empty"
     },
     {
       "name": "15th Sunday After Pentecost",
@@ -357,7 +357,7 @@
       "href": "postpentecost/15.json",
       "slug": "postpentecost/15",
       "last-updated": 1534828608,
-      "status": "blank"
+      "status": "empty"
     },
     {
       "name": "16th Sunday After Pentecost",
@@ -365,7 +365,7 @@
       "href": "postpentecost/16.json",
       "slug": "postpentecost/16",
       "last-updated": 1534828608,
-      "status": "blank"
+      "status": "empty"
     },
     {
       "name": "17th Sunday After Pentecost",
@@ -373,7 +373,7 @@
       "href": "postpentecost/17.json",
       "slug": "postpentecost/17",
       "last-updated": 1534828608,
-      "status": "blank"
+      "status": "empty"
     },
     {
       "name": "Ember Wednesday in September",
@@ -381,7 +381,7 @@
       "href": "postpentecost/17-3.json",
       "slug": "postpentecost/17-3",
       "last-updated": 1534828608,
-      "status": "blank"
+      "status": "empty"
     },
     {
       "name": "Ember Friday in September",
@@ -389,7 +389,7 @@
       "href": "postpentecost/17-5.json",
       "slug": "postpentecost/17-5",
       "last-updated": 1534828608,
-      "status": "blank"
+      "status": "empty"
     },
     {
       "name": "Ember Saturday in September",
@@ -397,7 +397,7 @@
       "href": "postpentecost/17-6.json",
       "slug": "postpentecost/17-6",
       "last-updated": 1534828608,
-      "status": "blank"
+      "status": "empty"
     },
     {
       "name": "18th Sunday After Pentecost",
@@ -405,7 +405,7 @@
       "href": "postpentecost/18.json",
       "slug": "postpentecost/18",
       "last-updated": 1534828608,
-      "status": "blank"
+      "status": "empty"
     },
     {
       "name": "19th Sunday After Pentecost",
@@ -413,7 +413,7 @@
       "href": "postpentecost/19.json",
       "slug": "postpentecost/19",
       "last-updated": 1534828608,
-      "status": "blank"
+      "status": "empty"
     },
     {
       "name": "20th Sunday After Pentecost",
@@ -421,7 +421,7 @@
       "href": "postpentecost/20.json",
       "slug": "postpentecost/20",
       "last-updated": 1534828608,
-      "status": "blank"
+      "status": "empty"
     }
   ]
 }
