@@ -77,6 +77,7 @@ var app = new Vue({
 
     // Clear currently selected liturgy and return to index
     clearLiturgy: function() {
+        app.scrollToTop();
         app.currentLiturgy = null;
     },
 
