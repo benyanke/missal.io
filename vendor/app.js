@@ -33,6 +33,10 @@ var app = new Vue({
 
   methods: {
 
+    // Scrolls the window to the top
+    scrollToTop: function() {
+        window.scrollTo(0,0);
+    },
 
     // Setup controls for the nav bar
     setupNavHandler: function() {
@@ -144,6 +148,7 @@ var app = new Vue({
       // Check if available in cache first
       cachedValue = this.getCacheValueBySlug(slugToLookup);
       if (cachedValue != null) {
+        this.scrollToTop();
         app.currentLiturgy = cachedValue;
       }
 
@@ -155,6 +160,7 @@ var app = new Vue({
       axios.get(file)
       .then(function (response) {
           console.log("Found data for " + response.data.name + ":", response.data);
+          this.scrollToTop();
           app.currentLiturgy = response.data;
       })
       .catch(function (error) {
