@@ -1,427 +1,451 @@
 {
-  "info": {
-    "title": "missal.io",
-    "hrefBase": "/api/propers/",
-    "showChant": false,
-    "langOptions": [
-      {
-        "slug": "en",
-        "str": "english"
-      },
-      {
-        "slug": "la",
-        "str": "latin"
-      }
+    "info": {
+        "hrefBase": "/api/propers/",
+        "langOptions": [
+            {
+                "slug": "en",
+                "str": "english"
+            },
+            {
+                "slug": "la",
+                "str": "latin"
+            }
+        ],
+        "showChant": false,
+        "title": "missal.io"
+    },
+    "texts": [
+        {
+            "href": "prelent/1.json",
+            "last-updated": 1518232346,
+            "name": "Septuagesima Sunday",
+            "season": "Lent",
+            "slug": "prelent/septuagesima",
+            "status": "complete"
+        },
+        {
+            "href": "prelent/2.json",
+            "last-updated": 1518232346,
+            "name": "Sexagesima Sunday",
+            "season": "Lent",
+            "slug": "prelent/sexagesima",
+            "status": "complete"
+        },
+        {
+            "href": "prelent/3.json",
+            "last-updated": 1518232346,
+            "name": "Quinquagesima Sunday",
+            "season": "Lent",
+            "slug": "prelent/quinquagesima",
+            "status": "complete"
+        },
+        {
+            "href": "lent/0.json",
+            "last-updated": 1517805560,
+            "name": "Ash Wednesday",
+            "season": "Lent",
+            "slug": "lent/ash/wed",
+            "status": "complete"
+        },
+        {
+            "href": "lent/0-1.json",
+            "last-updated": 1517805560,
+            "name": "Thursday after Ash Wednesday",
+            "season": "Lent",
+            "slug": "lent/ash/thurs",
+            "status": "empty"
+        },
+        {
+            "href": "lent/0-2.json",
+            "last-updated": 1517805560,
+            "name": "Friday after Ash Wednesday",
+            "season": "Lent",
+            "slug": "lent/ash/fri",
+            "status": "empty"
+        },
+        {
+            "href": "lent/0-3.json",
+            "last-updated": 1517805560,
+            "name": "Saturday after Ash Wednesday",
+            "season": "Lent",
+            "slug": "lent/ash/sat",
+            "status": "empty"
+        },
+        {
+            "href": "lent/1.json",
+            "last-updated": 1517813524,
+            "name": "First Sunday in Lent",
+            "season": "Lent",
+            "slug": "lent/1",
+            "status": "complete"
+        },
+        {
+            "href": "lent/2.json",
+            "last-updated": 1517978444,
+            "name": "Second Sunday in Lent",
+            "season": "Lent",
+            "slug": "lent/2",
+            "status": "complete"
+        },
+        {
+            "href": "lent/3.json",
+            "last-updated": 1517978444,
+            "name": "Third Sunday in Lent",
+            "season": "Lent",
+            "slug": "lent/3",
+            "status": "complete"
+        },
+        {
+            "href": "lent/4.json",
+            "last-updated": 1517978444,
+            "name": "Fourth Sunday in Lent",
+            "season": "Lent",
+            "slug": "lent/4",
+            "status": "complete"
+        },
+        {
+            "href": "passiontide/1.json",
+            "last-updated": 1517978444,
+            "name": "First Sunday of Passiontide",
+            "season": "Lent",
+            "slug": "passiontide/1",
+            "status": "complete"
+        },
+        {
+            "href": "passiontide/1-5.json",
+            "last-updated": 1517978444,
+            "name": "Friday after Passion Sunday",
+            "season": "Passiontide",
+            "slug": "passiontide/1/friday",
+            "status": "complete"
+        },
+        {
+            "href": "passiontide/2.json",
+            "last-updated": 1519438891,
+            "name": "Palm Sunday - Second Sunday of Passiontide",
+            "season": "Passiontide",
+            "slug": "passiontide/2",
+            "status": "complete"
+        },
+        {
+            "href": "triduum/1.json",
+            "last-updated": 1521265104,
+            "name": "Holy Thursday - Evening",
+            "season": "Triduum",
+            "slug": "triduum/thusday",
+            "status": "complete"
+        },
+        {
+            "href": "triduum/good-friday.json",
+            "last-updated": 1519439993,
+            "name": "Good Friday",
+            "season": "Triduum",
+            "slug": "triduum/friday",
+            "status": "empty"
+        },
+        {
+            "href": "triduum/saturday.json",
+            "last-updated": 1519439993,
+            "name": "Easter Vigil",
+            "season": "Triduum",
+            "slug": "triduum/saturday",
+            "status": "empty"
+        },
+        {
+            "href": "easter/0.json",
+            "last-updated": 1523974903,
+            "name": "Easter Sunday",
+            "season": "Easter",
+            "slug": "easter/0",
+            "status": "complete"
+        },
+        {
+            "href": "easter/1.json",
+            "last-updated": 1523974903,
+            "name": "Low Sunday",
+            "season": "Easter",
+            "slug": "easter/1",
+            "status": "complete"
+        },
+        {
+            "href": "easter/2.json",
+            "last-updated": 1523974903,
+            "name": "Second Sunday after Easter",
+            "season": "Easter",
+            "slug": "easter/2",
+            "status": "complete"
+        },
+        {
+            "href": "easter/3.json",
+            "last-updated": 1525110701,
+            "name": "Third Sunday after Easter",
+            "season": "Easter",
+            "slug": "easter/3",
+            "status": "complete"
+        },
+        {
+            "href": "easter/4.json",
+            "last-updated": 1525110701,
+            "name": "Fourth Sunday after Easter",
+            "season": "Easter",
+            "slug": "easter/4",
+            "status": "complete"
+        },
+        {
+            "href": "easter/5.json",
+            "last-updated": 1525110701,
+            "name": "Fifth Sunday after Easter",
+            "season": "Easter",
+            "slug": "easter/5",
+            "status": "complete"
+        },
+        {
+            "href": "easter/5-4.json",
+            "last-updated": 1525111701,
+            "name": "Ascension",
+            "season": "Easter",
+            "slug": "easter/5-4",
+            "status": "complete"
+        },
+        {
+            "href": "easter/6.json",
+            "last-updated": 1526139680,
+            "name": "Sunday after Ascension",
+            "season": "Easter",
+            "slug": "easter/6",
+            "status": "complete"
+        },
+        {
+            "href": "pentecost/0.json",
+            "last-updated": 1528165314,
+            "name": "Pentecost Sunday",
+            "season": "Easter",
+            "slug": "pentecost/0",
+            "status": "complete"
+        },
+        {
+            "href": "postpentecost/1.json",
+            "last-updated": 1534787205,
+            "name": "Trinity Sunday",
+            "season": "Sundays after Pentecost",
+            "slug": "postpentecost/1",
+            "status": "complete"
+        },
+        {
+            "href": "postpentecost/1-4.json",
+            "last-updated": 1534787205,
+            "name": "Corpus Christi",
+            "season": "Sundays after Pentecost",
+            "slug": "postpentecost/1-4",
+            "status": "empty"
+        },
+        {
+            "href": "postpentecost/2.json",
+            "last-updated": 1534787616,
+            "name": "2nd Sunday after Pentecost",
+            "season": "Sundays after Pentecost",
+            "slug": "postpentecost/2",
+            "status": "complete"
+        },
+        {
+            "href": "postpentecost/2-5.json",
+            "last-updated": 1534787616,
+            "name": "Sacred Heart",
+            "season": "Sundays after Pentecost",
+            "slug": "postpentecost/2-5",
+            "status": "empty"
+        },
+        {
+            "href": "postpentecost/3.json",
+            "last-updated": 1534827508,
+            "name": "3rd Sunday after Pentecost",
+            "season": "Sundays after Pentecost",
+            "slug": "postpentecost/3",
+            "status": "complete"
+        },
+        {
+            "href": "postpentecost/4.json",
+            "last-updated": 1535332945,
+            "name": "4th Sunday after Pentecost",
+            "season": "Sundays after Pentecost",
+            "slug": "postpentecost/4",
+            "status": "complete"
+        },
+        {
+            "href": "postpentecost/5.json",
+            "last-updated": 1535332945,
+            "name": "5th Sunday after Pentecost",
+            "season": "Sundays after Pentecost",
+            "slug": "postpentecost/5",
+            "status": "complete"
+        },
+        {
+            "href": "postpentecost/6.json",
+            "last-updated": 1535332945,
+            "name": "6th Sunday after Pentecost",
+            "season": "Sundays after Pentecost",
+            "slug": "postpentecost/6",
+            "status": "complete"
+        },
+        {
+            "href": "postpentecost/7.json",
+            "last-updated": 1535332945,
+            "name": "7th Sunday after Pentecost",
+            "season": "Sundays after Pentecost",
+            "slug": "postpentecost/7",
+            "status": "complete"
+        },
+        {
+            "href": "postpentecost/8.json",
+            "last-updated": 1534828608,
+            "name": "8th Sunday after Pentecost",
+            "season": "Sundays after Pentecost",
+            "slug": "postpentecost/8",
+            "status": "empty"
+        },
+        {
+            "href": "postpentecost/9.json",
+            "last-updated": 1534828608,
+            "name": "9th Sunday after Pentecost",
+            "season": "Sundays after Pentecost",
+            "slug": "postpentecost/9",
+            "status": "empty"
+        },
+        {
+            "href": "postpentecost/10.json",
+            "last-updated": 1534828608,
+            "name": "10th Sunday after Pentecost",
+            "season": "Sundays after Pentecost",
+            "slug": "postpentecost/10",
+            "status": "empty"
+        },
+        {
+            "href": "postpentecost/11.json",
+            "last-updated": 1534828608,
+            "name": "11th Sunday after Pentecost",
+            "season": "Sundays after Pentecost",
+            "slug": "postpentecost/11",
+            "status": "empty"
+        },
+        {
+            "href": "postpentecost/12.json",
+            "last-updated": 1534828608,
+            "name": "12th Sunday after Pentecost",
+            "season": "Sundays after Pentecost",
+            "slug": "postpentecost/12",
+            "status": "empty"
+        },
+        {
+            "href": "postpentecost/13.json",
+            "last-updated": 1534828608,
+            "name": "13th Sunday after Pentecost",
+            "season": "Sundays after Pentecost",
+            "slug": "postpentecost/13",
+            "status": "empty"
+        },
+        {
+            "href": "postpentecost/14.json",
+            "last-updated": 1534828608,
+            "name": "14th Sunday after Pentecost",
+            "season": "Sundays after Pentecost",
+            "slug": "postpentecost/14",
+            "status": "empty"
+        },
+        {
+            "href": "postpentecost/15.json",
+            "last-updated": 1535334845,
+            "name": "15th Sunday after Pentecost",
+            "season": "Sundays after Pentecost",
+            "slug": "postpentecost/15",
+            "status": "complete"
+        },
+        {
+            "href": "postpentecost/16.json",
+            "last-updated": 1535390832,
+            "name": "16th Sunday after Pentecost",
+            "season": "Sundays after Pentecost",
+            "slug": "postpentecost/16",
+            "status": "complete"
+        },
+        {
+            "href": "postpentecost/17.json",
+            "last-updated": 1535479003,
+            "name": "17th Sunday after Pentecost",
+            "season": "Sundays after Pentecost",
+            "slug": "postpentecost/17",
+            "status": "complete"
+        },
+        {
+            "href": "postpentecost/17-3.json",
+            "last-updated": 1534828608,
+            "name": "Ember Wednesday in September",
+            "season": "Sundays after Pentecost",
+            "slug": "postpentecost/17-3",
+            "status": "empty"
+        },
+        {
+            "href": "postpentecost/17-5.json",
+            "last-updated": 1534828608,
+            "name": "Ember Friday in September",
+            "season": "Sundays after Pentecost",
+            "slug": "postpentecost/17-5",
+            "status": "empty"
+        },
+        {
+            "href": "postpentecost/17-6.json",
+            "last-updated": 1534828608,
+            "name": "Ember Saturday in September",
+            "season": "Sundays after Pentecost",
+            "slug": "postpentecost/17-6",
+            "status": "empty"
+        },
+        {
+            "href": "postpentecost/18.json",
+            "last-updated": 1534828608,
+            "name": "18th Sunday after Pentecost",
+            "season": "Sundays after Pentecost",
+            "slug": "postpentecost/18",
+            "status": "complete"
+        },
+        {
+            "href": "postpentecost/19.json",
+            "last-updated": 1534828608,
+            "name": "19th Sunday after Pentecost",
+            "season": "Sundays after Pentecost",
+            "slug": "postpentecost/19",
+            "status": "complete"
+        },
+        {
+            "href": "postpentecost/20.json",
+            "last-updated": 1534828608,
+            "name": "20th Sunday after Pentecost",
+            "season": "Sundays after Pentecost",
+            "slug": "postpentecost/20",
+            "status": "complete"
+        },
+        {
+            "href": "postpentecost/21.json",
+            "last-updated": 1542593629,
+            "name": "21st Sunday after Pentecost",
+            "season": "Sundays after Pentecost",
+            "slug": "postpentecost/21",
+            "status": "empty"
+        },
+        {
+            "href": "postpentecost/22.json",
+            "last-updated": 1542593629,
+            "name": "22nd Sunday after Pentecost",
+            "season": "Sundays after Pentecost",
+            "slug": "postpentecost/22",
+            "status": "empty"
+        },
+        {
+            "href": "postpentecost/23.json",
+            "last-updated": 1542593629,
+            "name": "23rd Sunday after Pentecost",
+            "season": "Sundays after Pentecost",
+            "slug": "postpentecost/23",
+            "status": "empty"
+        }
     ]
-  },
-  "texts": [
-    {
-      "name": "Septuagesima Sunday",
-      "season": "Lent",
-      "href": "prelent/1.json",
-      "slug": "prelent/septuagesima",
-      "last-updated": 1518232346,
-      "status": "complete"
-    },
-    {
-      "name": "Sexagesima Sunday",
-      "season": "Lent",
-      "href": "prelent/2.json",
-      "slug": "prelent/sexagesima",
-      "last-updated": 1518232346,
-      "status": "complete"
-    },
-    {
-      "name": "Quinquagesima Sunday",
-      "season": "Lent",
-      "href": "prelent/3.json",
-      "slug": "prelent/quinquagesima",
-      "last-updated": 1518232346,
-      "status": "complete"
-    },
-    {
-      "name": "Ash Wednesday",
-      "season": "Lent",
-      "href": "lent/0.json",
-      "slug": "lent/ash/wed",
-      "last-updated": 1517805560,
-      "status": "complete"
-    },
-    {
-      "name": "Thursday after Ash Wednesday",
-      "season": "Lent",
-      "href": "lent/0-1.json",
-      "slug": "lent/ash/thurs",
-      "last-updated": 1517805560,
-      "status": "empty"
-    },
-    {
-      "name": "Friday after Ash Wednesday",
-      "season": "Lent",
-      "href": "lent/0-2.json",
-      "slug": "lent/ash/fri",
-      "last-updated": 1517805560,
-      "status": "empty"
-    },
-    {
-      "name": "Saturday after Ash Wednesday",
-      "season": "Lent",
-      "href": "lent/0-3.json",
-      "slug": "lent/ash/sat",
-      "last-updated": 1517805560,
-      "status": "empty"
-    },
-    {
-      "name": "First Sunday in Lent",
-      "season": "Lent",
-      "href": "lent/1.json",
-      "slug": "lent/1",
-      "last-updated": 1517813524,
-      "status": "complete"
-    },
-    {
-      "name": "Second Sunday in Lent",
-      "season": "Lent",
-      "href": "lent/2.json",
-      "slug": "lent/2",
-      "last-updated": 1517978444,
-      "status": "complete"
-    },
-    {
-      "name": "Third Sunday in Lent",
-      "season": "Lent",
-      "href": "lent/3.json",
-      "slug": "lent/3",
-      "last-updated": 1517978444,
-      "status": "complete"
-    },
-    {
-      "name": "Fourth Sunday in Lent",
-      "season": "Lent",
-      "href": "lent/4.json",
-      "slug": "lent/4",
-      "last-updated": 1517978444,
-      "status": "complete"
-    },
-    {
-      "name": "First Sunday of Passiontide",
-      "season": "Lent",
-      "href": "passiontide/1.json",
-      "slug": "passiontide/1",
-      "last-updated": 1517978444,
-      "status": "complete"
-    },
-    {
-      "name": "Friday after Passion Sunday",
-      "season": "Passiontide",
-      "href": "passiontide/1-5.json",
-      "slug": "passiontide/1/friday",
-      "last-updated": 1517978444,
-      "status": "complete"
-    },
-    {
-      "name": "Palm Sunday - Second Sunday of Passiontide",
-      "season": "Passiontide",
-      "href": "passiontide/2.json",
-      "slug": "passiontide/2",
-      "last-updated": 1519438891,
-      "status": "complete"
-    },
-    {
-      "name": "Holy Thursday - Evening",
-      "season": "Triduum",
-      "href": "triduum/1.json",
-      "slug": "triduum/thusday",
-      "last-updated": 1521265104,
-      "status": "complete"
-    },
-    {
-      "name": "Good Friday",
-      "season": "Triduum",
-      "href": "triduum/good-friday.json",
-      "slug": "triduum/friday",
-      "last-updated": 1519439993,
-      "status": "empty"
-    },
-    {
-      "name": "Easter Vigil",
-      "season": "Triduum",
-      "href": "triduum/saturday.json",
-      "slug": "triduum/saturday",
-      "last-updated": 1519439993,
-      "status": "empty"
-    },
-    {
-      "name": "Easter Sunday",
-      "season": "Easter",
-      "href": "easter/0.json",
-      "slug": "easter/0",
-      "last-updated": 1523974903,
-      "status": "complete"
-    },
-    {
-      "name": "Low Sunday",
-      "season": "Easter",
-      "href": "easter/1.json",
-      "slug": "easter/1",
-      "last-updated": 1523974903,
-      "status": "complete"
-    },
-    {
-      "name": "Second Sunday after Easter",
-      "season": "Easter",
-      "href": "easter/2.json",
-      "slug": "easter/2",
-      "last-updated": 1523974903,
-      "status": "complete"
-    },
-    {
-      "name": "Third Sunday after Easter",
-      "season": "Easter",
-      "href": "easter/3.json",
-      "slug": "easter/3",
-      "last-updated": 1525110701,
-      "status": "complete"
-    },
-    {
-      "name": "Fourth Sunday after Easter",
-      "season": "Easter",
-      "href": "easter/4.json",
-      "slug": "easter/4",
-      "last-updated": 1525110701,
-      "status": "complete"
-    },
-    {
-      "name": "Fifth Sunday after Easter",
-      "season": "Easter",
-      "href": "easter/5.json",
-      "slug": "easter/5",
-      "last-updated": 1525110701,
-      "status": "complete"
-    },
-    {
-      "name": "Ascension",
-      "season": "Easter",
-      "href": "easter/5-4.json",
-      "slug": "easter/5-4",
-      "last-updated": 1525111701,
-      "status": "complete"
-    },
-    {
-      "name": "Sunday after Ascension",
-      "season": "Easter",
-      "href": "easter/6.json",
-      "slug": "easter/6",
-      "last-updated": 1526139680,
-      "status": "complete"
-    },
-    {
-      "name": "Pentecost Sunday",
-      "season": "Easter",
-      "href": "pentecost/0.json",
-      "slug": "pentecost/0",
-      "last-updated": 1528165314,
-      "status": "complete"
-    },
-    {
-      "name": "Trinity Sunday",
-      "season": "Sundays after Pentecost",
-      "href": "postpentecost/1.json",
-      "slug": "postpentecost/1",
-      "last-updated": 1534787205,
-      "status": "complete"
-    },
-    {
-      "name": "Corpus Christi",
-      "season": "Sundays after Pentecost",
-      "href": "postpentecost/1-4.json",
-      "slug": "postpentecost/1-4",
-      "last-updated": 1534787205,
-      "status": "empty"
-    },
-    {
-      "name": "2nd Sunday after Pentecost",
-      "season": "Sundays after Pentecost",
-      "href": "postpentecost/2.json",
-      "slug": "postpentecost/2",
-      "last-updated": 1534787616,
-      "status": "complete"
-    },
-    {
-      "name": "Sacred Heart",
-      "season": "Sundays after Pentecost",
-      "href": "postpentecost/2-5.json",
-      "slug": "postpentecost/2-5",
-      "last-updated": 1534787616,
-      "status": "empty"
-    },
-    {
-      "name": "3rd Sunday after Pentecost",
-      "season": "Sundays after Pentecost",
-      "href": "postpentecost/3.json",
-      "slug": "postpentecost/3",
-      "last-updated": 1534827508,
-      "status": "complete"
-    },
-    {
-      "name": "4th Sunday after Pentecost",
-      "season": "Sundays after Pentecost",
-      "href": "postpentecost/4.json",
-      "slug": "postpentecost/4",
-      "last-updated": 1535332945,
-      "status": "complete"
-    },
-    {
-      "name": "5th Sunday after Pentecost",
-      "season": "Sundays after Pentecost",
-      "href": "postpentecost/5.json",
-      "slug": "postpentecost/5",
-      "last-updated": 1535332945,
-      "status": "complete"
-    },
-    {
-      "name": "6th Sunday after Pentecost",
-      "season": "Sundays after Pentecost",
-      "href": "postpentecost/6.json",
-      "slug": "postpentecost/6",
-      "last-updated": 1535332945,
-      "status": "complete"
-    },
-    {
-      "name": "7th Sunday after Pentecost",
-      "season": "Sundays after Pentecost",
-      "href": "postpentecost/7.json",
-      "slug": "postpentecost/7",
-      "last-updated": 1535332945,
-      "status": "complete"
-    },
-    {
-      "name": "8th Sunday after Pentecost",
-      "season": "Sundays after Pentecost",
-      "href": "postpentecost/8.json",
-      "slug": "postpentecost/8",
-      "last-updated": 1534828608,
-      "status": "empty"
-    },
-    {
-      "name": "9th Sunday after Pentecost",
-      "season": "Sundays after Pentecost",
-      "href": "postpentecost/9.json",
-      "slug": "postpentecost/9",
-      "last-updated": 1534828608,
-      "status": "empty"
-    },
-    {
-      "name": "10th Sunday after Pentecost",
-      "season": "Sundays after Pentecost",
-      "href": "postpentecost/10.json",
-      "slug": "postpentecost/10",
-      "last-updated": 1534828608,
-      "status": "empty"
-    },
-    {
-      "name": "11th Sunday after Pentecost",
-      "season": "Sundays after Pentecost",
-      "href": "postpentecost/11.json",
-      "slug": "postpentecost/11",
-      "last-updated": 1534828608,
-      "status": "empty"
-    },
-    {
-      "name": "12th Sunday after Pentecost",
-      "season": "Sundays after Pentecost",
-      "href": "postpentecost/12.json",
-      "slug": "postpentecost/12",
-      "last-updated": 1534828608,
-      "status": "empty"
-    },
-    {
-      "name": "13th Sunday after Pentecost",
-      "season": "Sundays after Pentecost",
-      "href": "postpentecost/13.json",
-      "slug": "postpentecost/13",
-      "last-updated": 1534828608,
-      "status": "empty"
-    },
-    {
-      "name": "14th Sunday after Pentecost",
-      "season": "Sundays after Pentecost",
-      "href": "postpentecost/14.json",
-      "slug": "postpentecost/14",
-      "last-updated": 1534828608,
-      "status": "empty"
-    },
-    {
-      "name": "15th Sunday after Pentecost",
-      "season": "Sundays after Pentecost",
-      "href": "postpentecost/15.json",
-      "slug": "postpentecost/15",
-      "last-updated": 1535334845,
-      "status": "complete"
-    },
-    {
-      "name": "16th Sunday after Pentecost",
-      "season": "Sundays after Pentecost",
-      "href": "postpentecost/16.json",
-      "slug": "postpentecost/16",
-      "last-updated": 1535390832,
-      "status": "complete"
-    },
-    {
-      "name": "17th Sunday after Pentecost",
-      "season": "Sundays after Pentecost",
-      "href": "postpentecost/17.json",
-      "slug": "postpentecost/17",
-      "last-updated": 1535479003,
-      "status": "complete"
-    },
-    {
-      "name": "Ember Wednesday in September",
-      "season": "Sundays after Pentecost",
-      "href": "postpentecost/17-3.json",
-      "slug": "postpentecost/17-3",
-      "last-updated": 1534828608,
-      "status": "empty"
-    },
-    {
-      "name": "Ember Friday in September",
-      "season": "Sundays after Pentecost",
-      "href": "postpentecost/17-5.json",
-      "slug": "postpentecost/17-5",
-      "last-updated": 1534828608,
-      "status": "empty"
-    },
-    {
-      "name": "Ember Saturday in September",
-      "season": "Sundays after Pentecost",
-      "href": "postpentecost/17-6.json",
-      "slug": "postpentecost/17-6",
-      "last-updated": 1534828608,
-      "status": "empty"
-    },
-    {
-      "name": "18th Sunday after Pentecost",
-      "season": "Sundays after Pentecost",
-      "href": "postpentecost/18.json",
-      "slug": "postpentecost/18",
-      "last-updated": 1534828608,
-      "status": "complete"
-    },
-    {
-      "name": "19th Sunday after Pentecost",
-      "season": "Sundays after Pentecost",
-      "href": "postpentecost/19.json",
-      "slug": "postpentecost/19",
-      "last-updated": 1534828608,
-      "status": "complete"
-    },
-    {
-      "name": "20th Sunday after Pentecost",
-      "season": "Sundays after Pentecost",
-      "href": "postpentecost/20.json",
-      "slug": "postpentecost/20",
-      "last-updated": 1534828608,
-      "status": "empty"
-    }
-  ]
 }
