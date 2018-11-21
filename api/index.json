@@ -454,6 +454,38 @@
             "season": "Sundays after Pentecost",
             "slug": "postpentecost/24",
             "status": "empty"
+        },
+        {
+            "href": "postpentecost/25.json",
+            "last-updated": 1542593629,
+            "name": "Fourth Last Sunday after Pentecost",
+            "season": "Sundays after Pentecost",
+            "slug": "postpentecost/25",
+            "status": "empty"
+        },
+        {
+            "href": "postpentecost/26.json",
+            "last-updated": 1542593629,
+            "name": "Third Last Sunday after Pentecost",
+            "season": "Sundays after Pentecost",
+            "slug": "postpentecost/26",
+            "status": "empty"
+        },
+        {
+            "href": "postpentecost/27.json",
+            "last-updated": 1542593629,
+            "name": "Second Last Sunday after Pentecost",
+            "season": "Sundays after Pentecost",
+            "slug": "postpentecost/27",
+            "status": "empty"
+        },
+        {
+            "href": "postpentecost/28.json",
+            "last-updated": 1542593629,
+            "name": "Last Sunday after Pentecost",
+            "season": "Sundays after Pentecost",
+            "slug": "postpentecost/28",
+            "status": "empty"
         }
     ]
 }
