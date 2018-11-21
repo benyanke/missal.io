@@ -1,6 +1,6 @@
 {
     "info": {
-        "hrefBase": "/api/propers/",
+        "hrefBase": "/api/v1/propers/",
         "langOptions": [
             {
                 "slug": "en",
