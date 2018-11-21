@@ -486,6 +486,14 @@
             "season": "Sundays after Pentecost",
             "slug": "postpentecost/28",
             "status": "empty"
+        },
+        {
+            "href": "feasts/christ-the-king.json",
+            "last-updated": 1542593629,
+            "name": "Feast of Christ the King",
+            "season": "Feasts",
+            "slug": "feasts/christ-the-king",
+            "status": "empty"
         }
     ]
 }
