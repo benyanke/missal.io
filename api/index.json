@@ -477,7 +477,7 @@
             "name": "Fifth Last Sunday after Pentecost",
             "season": "Sundays after Pentecost",
             "slug": "postpentecost/fifth-last",
-            "status": "empty"
+            "status": "complete"
         },
         {
             "href": "postpentecost/25.json",
