@@ -476,7 +476,7 @@
             "last-updated": 1542593629,
             "name": "Fifth Last Sunday after Pentecost",
             "season": "Sundays after Pentecost",
-            "slug": "postpentecost/24",
+            "slug": "postpentecost/fifth-last",
             "status": "empty"
         },
         {
@@ -484,7 +484,7 @@
             "last-updated": 1542593629,
             "name": "Fourth Last Sunday after Pentecost",
             "season": "Sundays after Pentecost",
-            "slug": "postpentecost/25",
+            "slug": "postpentecost/fourth-last",
             "status": "complete"
         },
         {
@@ -492,7 +492,7 @@
             "last-updated": 1542860324,
             "name": "Third Last Sunday after Pentecost",
             "season": "Sundays after Pentecost",
-            "slug": "postpentecost/26",
+            "slug": "postpentecost/third-last",
             "status": "complete"
         },
         {
@@ -500,7 +500,7 @@
             "last-updated": 1542860324,
             "name": "Second Last Sunday after Pentecost",
             "season": "Sundays after Pentecost",
-            "slug": "postpentecost/27",
+            "slug": "postpentecost/second-last",
             "status": "complete"
         },
         {
@@ -508,8 +508,8 @@
             "last-updated": 1542593629,
             "name": "Last Sunday after Pentecost",
             "season": "Sundays after Pentecost",
-            "slug": "postpentecost/28",
-            "status": "empty"
+            "slug": "postpentecost/last",
+            "status": "complete"
         },
         {
             "href": "feasts/christ-the-king.json",
