@@ -2,6 +2,14 @@
 
 ![build status](https://travis-ci.org/benyanke/missal.io.svg)
 
+## Important Note
+Note that all the texts have not yet been transcribed. Additionally, the API interface may 
+break at any time during development, though it is mostly finalized. It will later be formalized
+and documented when development and transcription is complete.
+
+Track [this thread](https://github.com/benyanke/missal.io/issues/24) if you wish to get updates on these changes.
+
+
 ## Goals
 This is a backend data project designed to put the content of the 1962 (and older) Roman Missals
 and the translations into a usable datastructure to be called as an api. 
