@@ -461,7 +461,7 @@
             "name": "Fourth Last Sunday after Pentecost",
             "season": "Sundays after Pentecost",
             "slug": "postpentecost/25",
-            "status": "empty"
+            "status": "complete"
         },
         {
             "href": "postpentecost/26.json",
@@ -469,7 +469,7 @@
             "name": "Third Last Sunday after Pentecost",
             "season": "Sundays after Pentecost",
             "slug": "postpentecost/26",
-            "status": "empty"
+            "status": "complete"
         },
         {
             "href": "postpentecost/27.json",
