@@ -16,6 +16,30 @@
     },
     "texts": [
         {
+            "href": "advent/1.json",
+            "last-updated": 1542859589,
+            "name": "First Sunday of Advent",
+            "season": "Advent",
+            "slug": "advent/1",
+            "status": "empty"
+        },
+        {
+            "href": "advent/2.json",
+            "last-updated": 1542859589,
+            "name": "Second Sunday of Advent",
+            "season": "Advent",
+            "slug": "advent/s",
+            "status": "empty"
+        },
+        {
+            "href": "prelent/1.json",
+            "last-updated": 1518232346,
+            "name": "Septuagesima Sunday",
+            "season": "Lent",
+            "slug": "prelent/septuagesima",
+            "status": "complete"
+        },
+        {
             "href": "prelent/1.json",
             "last-updated": 1518232346,
             "name": "Septuagesima Sunday",

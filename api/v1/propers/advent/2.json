@@ -1,0 +1,166 @@
+{
+  "name": "Second Sunday of Advent",
+  "compiledBy": "Ben Yanke",
+  "liturgyType": "Mass",
+  "liturgyClass": "other",
+  "season": "advent",
+  "sourceName": "maternal-heart",
+  "seasonSortKey": 2,
+  "sourceLink": "http://www.maternalheart.org/propers/Advent/2%20Second%20Sunday%20of%20Advent/2advent.pdf",
+  "textblocks": [
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": ""
+        },
+        {
+          "lang": "en",
+          "content": ""
+        }
+      ],
+      "citation": "",
+      "type": "introit"
+    },
+
+
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": ""
+        },
+        {
+          "lang": "en",
+          "content": ""
+        }
+      ],
+      "type": "collect"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": ""
+        },
+        {
+          "lang": "en",
+          "content": ""
+        }
+      ],
+      "citation": "",
+      "type": "epistle"
+    },
+
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": ""
+        },
+        {
+          "lang": "en",
+          "content": ""
+        }
+      ],
+      "citation": "",
+      "type": "gradual"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": ""
+        },
+        {
+          "lang": "en",
+          "content": ""
+        }
+      ],
+      "citation": "",
+      "type": "alleluia"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": ""
+        },
+        {
+          "lang": "en",
+          "content": ""
+        }
+      ],
+      "citation": "",
+      "type": "gospel"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": ""
+        },
+        {
+          "lang": "en",
+          "content": ""
+        }
+      ],
+      "citation": "",
+      "type": "offertory"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": ""
+        },
+        {
+          "lang": "en",
+          "content": ""
+        }
+      ],
+      "type": "secret"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": ""
+        },
+        {
+          "lang": "en",
+          "content": ""
+        }
+      ],
+      "type": "preface",
+      "heading": "Preface of __"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": ""
+        },
+        {
+          "lang": "en",
+          "content": ""
+        }
+      ],
+      "citation": "",
+      "type": "communion"
+    },
+    {
+      "text": [
+        {
+          "lang": "la",
+          "content": ""
+        },
+        {
+          "lang": "en",
+          "content": ""
+        }
+      ],
+      "type": "postcommunion"
+    }
+  ]
+}
