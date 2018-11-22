@@ -21,7 +21,7 @@
             "name": "First Sunday of Advent",
             "season": "Advent",
             "slug": "advent/1",
-            "status": "empty"
+            "status": "complete"
         },
         {
             "href": "advent/2.json",
